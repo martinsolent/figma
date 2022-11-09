@@ -10,7 +10,7 @@ nav_order: 7
 
 [VIDEO DIRECT LINK](){: .btn .btn-purple }
 
-[DOWNLOAD STARTER FILE](images/){: .btn .btn-blue } 
+[Figma Design](https://www.figma.com/file/E2byqMujLMCin85DOa9Wq0/Login-screen?node-id=11%3A37){: .btn .btn-blue } 
 
 [Download Dog Logo Image](https://github.com/martinsolent/figma/raw/main/docs/log_images/dog1.png)
 
