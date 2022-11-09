@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Login Screen Set-up Adobe XD
+title: Login Screen Set-up Figma
 nav_order: 7
 ---
 
 {: .no_toc }
 
-# Login Screen Set-up in Adobe XD
-
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=49f8c653-b6a2-4917-9044-ac5f0175a475&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+# Login Screen Set-up in Figma
 
 
-[VIDEO DIRECT LINK](https://solent.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=49f8c653-b6a2-4917-9044-ac5f0175a475){: .btn .btn-purple }
 
-[DOWNLOAD XD STARTER FILE](images/starter_2_new_2020.xd){: .btn .btn-blue } 
+
+[VIDEO DIRECT LINK](){: .btn .btn-purple }
+
+[DOWNLOAD STARTER FILE](images/){: .btn .btn-blue } 
 
 
 The canvas size is 360 x 760 pixels 
