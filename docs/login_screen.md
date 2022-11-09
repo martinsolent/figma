@@ -12,7 +12,7 @@ nav_order: 7
 
 [DOWNLOAD STARTER FILE](images/){: .btn .btn-blue } 
 
-[Download Dog Logo Image](images/dog1.png)
+[Download Dog Logo Image](https://github.com/martinsolent/figma/raw/main/docs/log_images/dog1.png)
 
 We are going to make a login screen based on [Material Design guidelines](https://material.io/components/text-fields#anatomy) in Figma although the principles can be applied to other programmes such as Adobe XD
 
