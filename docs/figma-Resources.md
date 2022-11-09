@@ -1,22 +1,22 @@
 ---
 layout: default
-title: Adobe XD Resources
+title: Figma Resources
 nav_order: 3
 ---
 
 {: .no_toc }
 
-# Adobe XD Resources
+# Figma Resources
  
-[freebiesupply.com](https://freebiesupply.com/free-adobe-xd)
+[freebiesupply.com](hhttps://freebiesupply.com/free-figma/free_figma_resources)
 
-[xdguru.com](https://xdguru.com)
+[dribbble.com/](https://dribbble.com/tags/free_figma_resources)
 
-[xdresources.co](https://xdresources.co)
+[figma.com/community](https://www.figma.com/community)
 
 [developer.apple.com](https://developer.apple.com/design/resources)
 
-[developer.android.com](https://developer.android.com/design/downloads)
+[developer.android.com](hhttps://developer.android.com/develop/ui)
 
 
 ## UI Resources
