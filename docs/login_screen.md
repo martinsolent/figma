@@ -22,11 +22,11 @@ Set your grade 4 point
 
 Margins are left & right are 16 pixels
 
-We are going to make a login screen based on [Material Design guidelines](https://material.io/components/text-fields#anatomy) in Adobe XD although the principles can be applied to other programmes such as Figma
+We are going to make a login screen based on [Material Design guidelines](https://material.io/components/text-fields#anatomy) in Figma although the principles can be applied to other programmes such as Adobe XD
 
 ![](log_images/login_d_2.png)
 
-Create a sticker sheet of all your colours and components and also select your typography styles and download the icons you wish to use in this project they were selected from the [Material Design icons](https://material.io/resources/icons/?style=baseline) (sometimes you might want to create your own using the icon design principle they use in this design system)
+Create a component sheet of all your colours and components and also select your typography styles and download the icons you wish to use in this project they were selected from the [Material Design icons](https://material.io/resources/icons/?style=baseline) (sometimes you might want to create your own using the icon design principle they use in this design system)
 
 ![](log_images/login_d_3.png)
 
