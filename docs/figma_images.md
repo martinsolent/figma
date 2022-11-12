@@ -17,6 +17,8 @@ We will look at importing and working with images in Figma.
 **So you may need to [downsize larger images](https://youtu.be/S_YFUqhKjdY) in another programme such as Photoshop before importing them into Figma**
 
 
+[Download the resource files](images/face_images.zip)
+
 ### Importing Images
 
 There are a number of ways to import images into Figma.
