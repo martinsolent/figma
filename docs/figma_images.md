@@ -80,3 +80,14 @@ Use the following keyboard shortcut:
 Then shift click images and press Open
 
 Click the mouse on each of the placeholders to add an image.
+
+### Scale Tool
+
+![](images/gifs/scale1_figma.gif)
+
+When you scale an image it will clip while scaling, which is not ideal so you will need to use the scale tool.
+
+![](images/gifs/scale2_figma.gif)
+
+You can select the Scale Tool from the Move Tool menu - or you can press K on your keyboard now when you scale your image it will maintain its original proportions.
+
