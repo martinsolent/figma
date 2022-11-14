@@ -8,9 +8,9 @@ nav_order: 8
 
 # Button Components
 
-We are going to look at creating a creating button component which contains a number of editable regions so the instances that are created from the component allows a range of customisation for different states and usage.
+We will look at creating a creating button components which contain a number of editable regions that allows a range of customisation for different states such as default, hover, disabled, pressed, focused etc.
      
-[Find out more about design systems](https://learn.solent.ac.uk/course/view.php?id=22663&section=1#tabs-tree-start){: .btn .btn-purple } 
+[Find out more about design systems](){: .btn .btn-purple } 
 
 Step 1
 
