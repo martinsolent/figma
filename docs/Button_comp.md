@@ -8,9 +8,11 @@ nav_order: 8
 
 # Button Components
 
+![](images/gifs/button_instant.gif)
+
 We will look at creating a creating button components which contain a number of editable regions that allows a range of customisation for different states such as default, hover, disabled, pressed, focused etc.
      
-[Find out more about design systems](){: .btn .btn-purple } 
+[Find out more about design systems](https://martinsolent.github.io/figma/docs/Design_Systems.html){: .btn .btn-purple } 
 
 Step 1
 
