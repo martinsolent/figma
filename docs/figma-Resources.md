@@ -19,11 +19,13 @@ nav_order: 3
 [developer.android.com](hhttps://developer.android.com/develop/ui)
 
 
-## UI Resources
+## Figma Learning Resources
 
-Google Android - For icons, sticker sheets, and other downloadable resources, visit the Design site or use the links below.
-Google Material icons
+![Figma on YouTibe](images/figma_YC.png)
 
-[All Google Material Design Resources](https://materialdesignkit.com/android-gui/)
+[https://www.youtube.com/c/Figmadesign/playlists
+](https://www.youtube.com/c/Figmadesign/playlists)
 
-[Google Material Design](https://material.io/)
+Figma has some amazing resources on their YouTube channel with in-depth tutorials that always link to a playground file on Figma Community which will guide you through the video tutorial.
+
+![Figma Play Ground](images/p_g.png)
