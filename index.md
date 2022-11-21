@@ -27,8 +27,8 @@ Be expressive with OpenType: Tap into advanced font features to fully express yo
 
 ### Download the Figma Mirror companion app for Apple and Android and test out your designs on a real device.
 
-![XD App](docs/images/screenshot 2022-11-09 at 19.48.29.png)
+![XD App](docs/images/fig_app.png)
 
-[![](docs/images/en_badge_web_generic.png)](hhttps://play.google.com/store/apps/details?id=com.figma.mirror&hl=en_GB&gl=US)
+[![](docs/images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en_GB&gl=US)
 
 [![](docs/images/xHgSL.png)](https://apps.apple.com/us/app/figma-and-figjam/id1152747299)
