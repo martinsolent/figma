@@ -15,6 +15,19 @@ We need some icons – get them from using a plug from[ Figma Community](https:/
 Create a Button with an icon with Auto Layout – details on making a simple Auto Layout Button can be found here. 
 Make a Frame – Fill and add a Stroke – make it into an Auto Layout
 
+![Gif1](images/gifs/comp_prop_gifs/Comp_1.gif)
+
+![Gif2](images/gifs/comp_prop_gifs/Comp_2.gif)
+
+![Gif3](images/gifs/comp_prop_gifs/comp_3.gif)
+
+![Gif4](images/gifs/comp_prop_gifs/comp_4.gif)
+
+![Gif5](images/gifs/comp_prop_gifs/comp_5.gif)
+
+![Gif6](images/gifs/comp_prop_gifs/comp_6.gif)
+
+![Gif7](images/gifs/comp_prop_gifs/comp_7.gif)
 
 ## Support for independent study
 
