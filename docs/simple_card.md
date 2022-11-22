@@ -8,6 +8,8 @@ nav_order: 70
 
 # Simple Card Component
 
+![](images/card_simple.png)
+
 ### Figma - Create a simple UI Card - Part 1 
 
 Creating a simple UI Card component - we will look at creating frames, adding and formatting text, grouping layers, using plug-ins from Figma community, adding colour and images - using auto layout to design the card and then finally creating component and editing instances made from this component
