@@ -83,7 +83,8 @@ Available from: [http://ui-patterns.com/patterns/modal-windows](http://ui-patter
 MATERIALUI.COM., 2020. React Modal component - Material-UI [viewed 23 November 2020].
  Available from: https://material-ui.com/components/modal/
 
+## UI Switchers & Checkboxes
 
-
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=766d5911-82f8-4ce1-99c8-ac83014209b4&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
