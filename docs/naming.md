@@ -14,11 +14,17 @@ If you want to add another layer of Organization, you can name your components i
 Let's say you have named the components in a frame like this:
 
 Login/Active
+
 Login/Hover
+
 Login/Inactive
+
 Create/Active
+
 Create/Hover
+
 Create/Inactive
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hEUO-9s7db4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
