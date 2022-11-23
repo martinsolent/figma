@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Figma Education
-nav_order: 13
+nav_order: 4
 ---
 
 {: .no_toc }
