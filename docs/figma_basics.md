@@ -20,6 +20,8 @@ nav_order: 7
 
 [Get started](https://help.figma.com/hc/en-us/categories/360002042553-Figma-design#Get-started)
 
+[Adjust alignment, rotation, and position](https://help.figma.com/hc/en-us/articles/360039956914-Adjust-alignment-rotation-and-position)
+
 ### Zooming & Panning
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1f929c4c-2a0d-4c7d-8bc2-af4d00b6f9a6&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
