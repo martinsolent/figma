@@ -1,3 +1,11 @@
+---
+layout: default
+title:  Card Walk-though
+nav_order: 11
+---
+
+{: .no_toc }
+
 # Card Walk-though
 
 ![](images/card_walk_throu/card_intro.png)
@@ -216,11 +224,13 @@ Confirmation should now appear in the layer property section
 
 <hr /> 
 
-Creation of the components is complete.
+Creation of the Card component is complete.
 
 Navigate to the layout page and then select the assets panel drag out an instance onto the canvas.
 
 From the Properties panel you can switch the button on and off, also you can amend the text contents from within the Properties panel or within the text box within the layout. The design will expand and contract vertically as content is added and removed.
+
+![](images/card_walk_throu/card_last.gif)
 
 
 
