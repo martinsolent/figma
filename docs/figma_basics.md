@@ -36,4 +36,8 @@ nav_order: 7
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3a99f02f-9b3c-4cc5-acf4-af4d00e60a4d&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
+### Boolean Operation - Figma
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=2068bc45-2ae2-4281-87e2-adc20110a35d&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 
