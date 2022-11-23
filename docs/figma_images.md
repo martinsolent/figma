@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Figma Working with Images
-nav_order: 40
+nav_order: 8
 ---
 
 {: .no_toc }
