@@ -12,8 +12,13 @@ nav_order: 7
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=17cdf070-ea78-450f-bc5d-af4d00b6f1a5&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
+## Figma Help
+
 [Access design tools from the toolbar] (https://help.figma.com/hc/en-us/articles/360041064174-Access-design-tools-from-the-toolbar)
 
+[Use the Inspect panel](https://help.figma.com/hc/en-us/articles/360055203533-Use-the-Inspect-panel)
+
+[Get started](https://help.figma.com/hc/en-us/categories/360002042553-Figma-design#Get-started0
 
 ### Zooming & Panning
 
