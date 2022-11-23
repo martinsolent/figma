@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Figma Community
-nav_order: 13
+nav_order: 5
 ---
 
 {: .no_toc }
