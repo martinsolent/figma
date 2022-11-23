@@ -14,11 +14,11 @@ nav_order: 7
 
 ## Figma Help
 
-[Access design tools from the toolbar] (https://help.figma.com/hc/en-us/articles/360041064174-Access-design-tools-from-the-toolbar)
+[Access design tools from the toolbar](https://help.figma.com/hc/en-us/articles/360041064174-Access-design-tools-from-the-toolbar)
 
 [Use the Inspect panel](https://help.figma.com/hc/en-us/articles/360055203533-Use-the-Inspect-panel)
 
-[Get started](https://help.figma.com/hc/en-us/categories/360002042553-Figma-design#Get-started0
+[Get started](https://help.figma.com/hc/en-us/categories/360002042553-Figma-design#Get-started)
 
 ### Zooming & Panning
 
