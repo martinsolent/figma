@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Component Properties
-nav_order: 49
+nav_order: 11
 ---
 
 {: .no_toc }
@@ -73,8 +73,7 @@ Guide from the Figma YouTube Channel with Playground file.
 
 This is an excellent blog on Components Properties
 [https://uxplanet.org/figma-component-properties-548728f25392](This is an excellent blog on Components Properties
-https://uxplanet.org/figma-component-properties-548728f25392
-)
+https://uxplanet.org/figma-component-properties-548728f25392)
 
 
 
