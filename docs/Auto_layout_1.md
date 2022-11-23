@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Auto Layout - Menu
-nav_order: 8
+nav_order: 12
 ---
 
 {: .no_toc }
