@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Design Systems
-nav_order: 8
+nav_order: 2
 ---
 
 {: .no_toc }
