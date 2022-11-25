@@ -51,7 +51,7 @@ Call it Label & click create Property
 
 ![](images/img_menu_AL/make_prop.png)
 
-Now create it as a Add Varaint
+Now create it as a Add Variant
 
 ![](images/img_menu_AL/menu_AL_9.png)
 
@@ -73,7 +73,7 @@ Add Stroke (black) 1pt
 
 ![](images/img_menu_AL/menu_AL_14.png)
 
-Press Shit + Alt on your keyboard and drag to copy. You can then drag again or `Mac:Cmd + D`  or `Pc:Ctrl + D` to duplicate 3rd element.
+Press `Shift + Alt` on your keyboard and drag to copy. You can then drag again or `Mac: Cmd + D`  or `Pc: Ctrl + D` to duplicate 3rd element.
 
 ![](images/img_menu_AL/drag_drop.gif)
 
