@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sharing
+title: Menu - Auto-Layout
 nav_order: 18
 ---
 
