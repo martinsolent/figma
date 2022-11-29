@@ -1,7 +1,8 @@
 ---
 layout: default
 title: UI Guidelines
-nav_order: 3
+parent: Digital Design Basics
+nav_order: 2
 ---
 
 {: .no_toc }
