@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Figma Community
-nav_order: 5
+parent: Getting Started
+nav_order: 2
 ---
 
 {: .no_toc }
 
 # Figma Community
 
-![](images/fig_com.png)
+![](../images/fig_com.png)
 
 
 
@@ -20,6 +21,6 @@ Figma Community offers a large number of free resources including project files,
 
 By clicking the Try it out button it will copy the resource to your Figma account where it will be available as a project or be able to run as a plug-in
 
-![Figma Plugins](images/fig_plug.png)
+![Figma Plugins](../images/fig_plug.png)
 
 [Figma Community](https://www.figma.com/community)

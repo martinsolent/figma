@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Figma Education
-nav_order: 4
+parent: Getting Started
+nav_order: 1
 ---
 
 {: .no_toc }
 
 # Figma Education
 
-![](images/figma_ed.png)
+![](../images/figma_ed.png)
 
 ### How students use Figma
 *Whether you’re an aspiring designer or collaborating on group project, you can do it in Figma. Here are the top ways students like you use Figma.*

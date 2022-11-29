@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Figma Resources
-nav_order: 6
+parent: Getting Started
+nav_order: 3
 ---
 
 {: .no_toc }
@@ -21,11 +22,11 @@ nav_order: 6
 
 ## Figma Learning Resources
 
-![Figma on YouTibe](images/figma_YC.png)
+![Figma on YouTibe](../images/figma_YC.png)
 
 [https://www.youtube.com/c/Figmadesign/playlists
 ](https://www.youtube.com/c/Figmadesign/playlists)
 
 Figma has some amazing resources on their YouTube channel with in-depth tutorials that always link to a playground file on Figma Community which will guide you through the video tutorial.
 
-![Figma Play Ground](images/p_g.png)
+![Figma Play Ground](../images/p_g.png)
