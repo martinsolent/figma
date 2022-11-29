@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  Figma Basics
-nav_order: 7
+parent: Figma Basics
+nav_order: 2
 ---
 
 {: .no_toc }
