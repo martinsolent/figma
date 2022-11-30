@@ -5,6 +5,6 @@ nav_order: 2
 has_children: true
 ---
 
-{: .no_toc }
+{: .no_toc .text-delta }
 
 # Digital Design Basics
