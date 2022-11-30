@@ -9,23 +9,6 @@ nav_order: 2
 
 # Component Properties Intro
 
-![](../images/gifs/comp_prop_gifs/example_1.gif)
-
-Component properties are tied to different design properties. You can create component properties for any main component or component set, and apply them to nested layers of the component or variant.
-
-Component properties come in different types:
-
-* Boolean properties 
-* Instance swap properties
-* Text properties
-* Variant properties
-
-[https://help.figma.com/hc/en-us/articles/5579474826519-Explore-component-properties](https://help.figma.com/hc/en-us/articles/5579474826519-Explore-component-properties)
-
-We will create a Button with an icon that can allow customisation of its Instances in the design layout UI.
-
-We need some icons – get them from using a plug from[ Figma Community](https://help.figma.com/hc/en-us/articles/360038510693-Guide-to-the-Figma-Community), here we have use Material Design (Community) plug in and set up 3 icon and make them into Components
-
 ### Introduction to component properties
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=63dfe75e-543b-4e56-bfae-af55014b7286&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
@@ -75,7 +58,6 @@ Guide from the Figma YouTube Channel with Playground file.
 This is an excellent blog on Components Properties
 [https://uxplanet.org/figma-component-properties-548728f25392](This is an excellent blog on Components Properties
 https://uxplanet.org/figma-component-properties-548728f25392)
-
 
 
 
