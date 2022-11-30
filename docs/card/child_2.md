@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Simple Card Walk-though
+parent: Simple Card
 nav_order: 3
 ---
 

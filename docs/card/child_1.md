@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Simple Card
-nav_order: 1
+parent: Simple Card
+nav_order: 2
 ---
 
 {: .no_toc }

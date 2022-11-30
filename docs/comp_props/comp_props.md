@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Component Properties
-parent: Component Properties Intro
-nav_order: 1
+title: Component Properties Intro
+parent: Component Properties
+nav_order: 2
 ---
 
 {: .no_toc }
