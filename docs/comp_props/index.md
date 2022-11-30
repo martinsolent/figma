@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Component Properties
-nav_order: 55
+nav_order: 8
 has_children: true
 ---
 

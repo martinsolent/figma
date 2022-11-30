@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Simple Card
-nav_order: 22
+nav_order: 10
 has_children: true
 ---
 

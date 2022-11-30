@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Set-up
-nav_order: 66
+nav_order: 6
 has_children: true
 ---
 
