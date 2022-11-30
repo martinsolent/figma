@@ -2,7 +2,7 @@
 layout: default
 title: Menu - Walk-through
 parent: Simple Menu
-nav_order: 18
+nav_order: 3
 ---
 
 {: .no_toc }

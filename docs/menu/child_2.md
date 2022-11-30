@@ -2,7 +2,7 @@
 layout: default
 title: Simple Menu
 parent: Simple Menu
-nav_order: 1
+nav_order: 2
 ---
 
 {: .no_toc }
