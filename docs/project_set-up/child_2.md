@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Naming Conversions
-nav_order: 9
+parent: Project Set-up
+nav_order: 2
 ---
 
 {: .no_toc }

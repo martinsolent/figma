@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Prototypes & Interaction
-nav_order: 15
+parent: Prototypes
+nav_order: 2
 ---
 
 {: .no_toc }

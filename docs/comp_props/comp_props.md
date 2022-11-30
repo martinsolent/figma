@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Component Properties
-nav_order: 12
+parent: Component Properties Intro
+nav_order: 1
 ---
 
 {: .no_toc }
 
-# Component Properties
+# Component Properties Intro
 
-![](images/gifs/comp_prop_gifs/example_1.gif)
+![](../images/gifs/comp_prop_gifs/example_1.gif)
 
 Component properties are tied to different design properties. You can create component properties for any main component or component set, and apply them to nested layers of the component or variant.
 

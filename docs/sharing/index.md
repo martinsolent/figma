@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Sharing
-nav_order: 17
+nav_order: 88
+has_children: true
 ---
 
 {: .no_toc }
 
-# Sharing Figma Projects & Prototypes
+# Sharing
