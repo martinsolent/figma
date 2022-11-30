@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Auto Layout - Menu
-nav_order: 13
+title: Simple Menu
+parent: Simple Menu
+nav_order: 1
 ---
 
 {: .no_toc }
 
-#  Auto Layout - Menu
+#  Simple Menu - Auto Layout
 
 ### Figma - Auto Layout - Menu 1
 

@@ -1,14 +1,16 @@
 ---
 layout: default
 title: Simple Card
-nav_order: 10
+nav_order: 1
 ---
 
 {: .no_toc }
 
 # Simple Card Component
 
-![](images/card_simple.png)
+![](../images/card_simple.png)
+
+---
 
 ### Figma - Create a simple UI Card - Part 1 
 
