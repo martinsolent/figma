@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Properties
+title: Properties Walk-though
 parent: Component Properties
 nav_order: 4
 ---
 
 {: .no_toc }
 
-# Button Properties
+# Button Properties Walk-through
 
 Create a button containing an icon using auto layout then make into a component - remember the icon should be created as a component before you drag and drop it in to the main button component
 
@@ -98,7 +98,6 @@ Now use the toggle switch in the properties to switch your icon off
 And lastly click on the Content property field,s type in a different label title and hit enter on your keyboard
 
 ![](../images/button_props/button_props_24.png)
-
 
 
 
