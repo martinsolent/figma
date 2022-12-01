@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Drop-down walk-through
-parent: Sharing
+parent: Dropdown Menu
 nav_order: 2
 ---
 
