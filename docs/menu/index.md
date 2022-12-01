@@ -9,3 +9,5 @@ has_toc: false
 {: .no_toc }
 
 # Simple Menu - with Auto Layout
+
+In this section we look at creating a simple menu bar using auto layout
