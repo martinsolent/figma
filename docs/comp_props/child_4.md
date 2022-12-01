@@ -10,7 +10,7 @@ nav_order: 4
 # Variant States
 
 {: .note }
->To create this button you will need to create a frame 178×42 with Auto-Layout, text bold and 18pt - left right margin 35 - top and bottom margin time - yeah between icon and text label 8
+>To make this button you will need to create a frame 178×42 with Auto-Layout, text bold and 18pt - left-right margins 35 - top and bottom margin 10 - gap between icon and text label 8
 
 ## Property: Type = Filled
 
@@ -32,15 +32,15 @@ Call it filled
 
 ![](../images/v_2/v_2-27.png)
 
-Click on variant to underneath the first button and change variance to  filled
+Click on variant underneath the first button and type to filled
 
 ![](../images/v_2/v_2-28.png)
 
-You will get an error to say the all two properties with the same name don't worry we will fix this later on
+You will get an error to say there properties with the same name, don't worry we will fix this later on
 
 ![](../images/v_2/v_2-29.png)
 
-Create another variant by clicking on the plus at the bottom of the second variant - with its selected change the type to filled.
+Create another variant by clicking on the plus at the bottom of the second variant - with it selected change the type to filled.
 
 ![](../images/v_2/v_2-30.png)
 
@@ -60,11 +60,11 @@ You will now have three variants of your button grouped together
 
 ## Property: State = enabled - hovered - pressed
 
-Now select the whole of the variant box this can be done by clicking on the name label button on the top left you should see everything selected in your layers outline
+Now select the whole variant box this can be done by clicking on the name label button on the top left you should see everything selected in your layers outline
 
 ![](../images/v_2/v_2-34.png)
 
-Variance box selected go to the properties panel on the right - click on the + to add a new property
+With the variant box selected go to the properties panel on the right - click on the + to add a new property
 
 ![](../images/v_2/v_2-35.png)
 
@@ -80,7 +80,7 @@ Your properties panel should now look like this:
 
 ![](../images/v_2/v_2-38.png)
 
-Now select the top button in the varying box and from the properties panel click on default and select Add new from the drop-down
+Now select the top button in the variant box and from the properties panel click on default and select Add new from the drop-down
 
 ![](../images/v_2/v_2-39.png)
 
@@ -93,7 +93,7 @@ Click on the second button in the variant box - again add new from the drop-down
 
 ![](../images/v_2/v_2-40.png)
 
-Finally click on the third button in the variant box and cool this State pressed
+Finally click on the third button in the variant box and call this State pressed
 
 ![](../images/v_2/v_2-41.png)
 
@@ -101,20 +101,20 @@ Your expanded layers outline will look like this:
 
 ![](../images/v_2/v_2-42.png)
 
-And an expanded like this:
+And unexpanded like this - note the layer/component name structure:
 
 ![](../images/v_2/v_2-43.png)
 
 ---
 
-##  Create outlined buttons
+##  Create Outlined Button Types
 
 Create a fourth button variant - select the icon and change it to black and do the same for the text label
 
 ![](../images/v_2/v_2-45.png)
 
 
-Fill the buttons frame and add a black stroke
+Fill the button's frame white and add a black stroke
 
 ![](../images/v_2/v_2-58.png)
 
@@ -156,7 +156,6 @@ This button Type = outlined and State = Pressed
 Now create a new page for your layout create a frame and drag the button to the frame and try out customising it from the properties panel
 
 ![](../images/v_2/v2_tester.gif)
-
 
 
 
