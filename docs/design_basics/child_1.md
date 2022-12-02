@@ -2,7 +2,7 @@
 layout: default
 title: Design Systems
 parent: Digital Design Basics
-nav_order: 1
+nav_order: 2
 ---
 
 {: .no_toc }
