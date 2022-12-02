@@ -12,7 +12,7 @@ has_toc: false
 
 A digital design must have an understanding of theories human computer interaction (HCI), user interface (UI) design guidelines, [usability/accessibility](https://www.linkedin.com/learning/designing-with-the-wcag-2-2-guidelines/inside-the-wcag-2-2-accessibility-guidelines?autoplay=true&leis=LTI&u=56747793), user experience (UX) and a knowledge of interaction design.
 
-INTERACTION-DESIGN.ORG., 2022. *What is Human-Computer Interaction (HCI)?* [viewed 1 December 2022]. Available from: [https://www.interaction-design.org/literature/topics/human-computer-interaction?](gclid=Cj0KCQiAvqGcBhCJARIsAFQ5ke6NOGi4HuVoRTtXNA9_sYMA5C6taaSfad_bd2Vy_xc_50VjwSr2wAEaAmVeEALw_wcB)
+INTERACTION-DESIGN.ORG., 2022. *What is Human-Computer Interaction (HCI)?* [viewed 1 December 2022]. Available from: [https://www.interaction-design.org/literature/topics/human-computer-interaction gclid=Cj0KCQiAvqGcBhCJARIsAFQ5ke6NOGi4HuVoRTtXNA9_sYMA5C6taaSfad_bd2Vy_xc_50VjwSr2wAEaAmVeEALw_wcB](https://www.interaction-design.org/literature/topics/human-computer-interaction gclid=Cj0KCQiAvqGcBhCJARIsAFQ5ke6NOGi4HuVoRTtXNA9_sYMA5C6taaSfad_bd2Vy_xc_50VjwSr2wAEaAmVeEALw_wcB)
 
 
 
