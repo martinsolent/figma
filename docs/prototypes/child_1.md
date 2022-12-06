@@ -9,17 +9,23 @@ nav_order: 2
 
 # Overlay Draw
 
-
+Create a title bar -with a menu icon, a title and an icon in this case a search/magnifying glass
 
 ![](../images/draw_1/draw_2.png)
 
+Now we will create a label item this will consist of the frame with an ellipse shape containing an avatar and the name label.
+
 ![](../images/draw_1/draw_3.png)
+
+Create a bottom Stroke with the colour black
 
 ![](../images/draw_1/draw_4.png)
 
+Get the text July left - centred vertically and fixed size
+
 ![](../images/draw_1/draw_5.png)
 
-![](../images/draw_1/draw_6.png)
+
 
 ![](../images/draw_1/draw_6.png)
 
