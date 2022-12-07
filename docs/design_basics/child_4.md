@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Auto Layout
+title: Interaction Design
 parent: Digital Design Basics
 nav_order: 5
 
@@ -8,6 +8,6 @@ nav_order: 5
 
 {: .no_toc }
 
-# Auto Layout
+# Interaction Design
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wMzh2_dbDWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=083cc0b0-ffe4-47d7-aede-af64010b796e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
