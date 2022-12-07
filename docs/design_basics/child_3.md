@@ -27,3 +27,5 @@ BEUKELMAN, J., 2017. 8pt Material Design GUI Templates - Joel Beukelman - Medium
 ![grids](../images/grids_ui/8-pt_2.png)
 
 DAHL, E., 2017. 8-Point Grid: Borders And Layouts - Built to Adapt [viewed 4 November 2020]. Available from: [https://builttoadapt.io/8-point-grid-borders-and-layouts-e91eb97f5091](https://builttoadapt.io/8-point-grid-borders-and-layouts-e91eb97f5091)  
+
+https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows
