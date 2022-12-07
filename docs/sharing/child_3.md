@@ -19,4 +19,6 @@ Your images need to be saved as JPEG Although you can use PNG & GIF files too. M
 
 When outputting your images from PhotoShop, InDesign or illustrator you need to export them as JPEGs
 
+You can use the same process of making your design work in Figma just make your frame 1400 pixels wide then export it as a JPEG - remember the height doesn't really matter on Behance.
+
 Images should use the RGB colour space not CMYKImage uploads should be 1400px wide or less [More details here](https://help.behance.net/hc/en-us/articles/204484614-Guide-Formatting-Images-For-Display-On-Behance)
