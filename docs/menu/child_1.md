@@ -74,11 +74,41 @@ Add Stroke (black) 1pt
 
 ![](../images/img_menu_AL/menu_AL_14.png)
 
+Create a text box by hitting `T` on your keyboard or clicking on the text tool. Type Item1 with the type settings below
+
+![](../images/img_menu_AL/text_1.png)
+
 Press `Shift + Alt` on your keyboard and drag to copy. You can then drag again or `Mac: Cmd + D`  or `Pc: Ctrl + D` to duplicate 3rd element.
 
 ![](../images/img_menu_AL/drag_drop.gif)
 
+You will now have 3 items
+
+![](../images/img_menu_AL/text_2.png)
+
+Re-number them
+
+![](../images/img_menu_AL/rename.png)
+
+Select all 3 items
+
+![](../images/img_menu_AL/select_all.png)
+
+Apply Auto Layout
+
+![](../images/img_menu_AL/al_text.png)
+
+The the items still selected make them into a Component
+
+![](../images/img_menu_AL/select_all.png)
+
+Now add a Variant to the Component
+
 ![](../images/img_menu_AL/var.png)
+
+
+
+![](../images/img_menu_AL/drag_1.png)
 
 ![](../images/img_menu_AL/change_button.png)
 
@@ -96,23 +126,13 @@ Press `Shift + Alt` on your keyboard and drag to copy. You can then drag again o
 
 ![](../images/img_menu_AL/2_buttons.png)
 
-![](../images/img_menu_AL/drag_1.png)
+
 
 ![](../images/img_menu_AL/all_prop_item.png)
 
 ![](../images/img_menu_AL/item_11.png)
 
 ![](../images/img_menu_AL/prop_item_1.png)
-
-![](../images/img_menu_AL/al_text.png)
-
-![](../images/img_menu_AL/select_all.png)
-
-![](../images/img_menu_AL/rename.png)
-
-![](../images/img_menu_AL/text_2.png)
-
-![](../images/img_menu_AL/text_1.png)
 
 ![](../images/img_menu_AL/prop_icon.png)
 
