@@ -98,7 +98,7 @@ Apply Auto Layout
 
 ![](../images/img_menu_AL/al_text.png)
 
-The the items still selected make them into a Component
+With the items still selected make them into a Component
 
 ![](../images/img_menu_AL/select_all.png)
 
@@ -106,9 +106,11 @@ Name this Component Menu
 
 ![](../images/img_menu_AL/var.png)
 
-Create a new frame
+Create a new frame, call it Nav with Auto Layout centred middle. Then open Assets panel on left and drag the Menu component on to this frame
 
 ![](../images/img_menu_AL/drag_1.png)
+
+
 
 ![](../images/img_menu_AL/change_button.png)
 
