@@ -102,11 +102,11 @@ The the items still selected make them into a Component
 
 ![](../images/img_menu_AL/select_all.png)
 
-Now add a Variant to the Component
+Name this Component Menu
 
 ![](../images/img_menu_AL/var.png)
 
-
+Create a new frame
 
 ![](../images/img_menu_AL/drag_1.png)
 
