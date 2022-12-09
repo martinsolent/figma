@@ -9,6 +9,6 @@ nav_order: 2
 
 # Design Systems
 
-What is a design system A design system is a set of standards and components that are used to create a consistent look and feel across digital products. It often includes elements such as fonts, colors, spacing, user interface components, and more. A design system also provides guidelines for how to use the components to create a cohesive experience for users.
+A design system is a set of standards and components that are used to create a consistent look and feel across digital products. It often includes elements such as fonts, colors, spacing, user interface components, and more. A design system also provides guidelines for how to use the components to create a cohesive experience for users.
 
 
