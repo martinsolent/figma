@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Layout
+title: layout
 nav_order: 16
 has_children: true
 has_toc: false
