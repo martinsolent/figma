@@ -10,3 +10,5 @@ nav_order: 3
 # Layout & Grids - 12 Column Web Layout
 
 ![chairs layout](imgs/chairs_web_layout.png)
+
+[Download Images](imgs/chairs.zip)
