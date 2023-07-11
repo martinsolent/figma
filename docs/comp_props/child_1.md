@@ -9,6 +9,12 @@ nav_order: 2
 
 # Component Properties Intro
 
+## NEW July 2023 - Using variables in prototypes 101
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odg_8TqPXvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e9uPfBEJKLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Introduction to component properties
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=63dfe75e-543b-4e56-bfae-af55014b7286&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
