@@ -7,13 +7,23 @@ nav_order: 2
 
 {: .no_toc }
 
-# Component Properties Intro
+# Figma Design Ststems & Component Properties Intro
 
-## NEW July 2023 - Using variables in prototypes 101
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t3VW-qa8544?si=xJWfq8lX-MS6CSqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Using variables in prototypes 101
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/odg_8TqPXvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e9uPfBEJKLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EA0NbEOrpuo?si=HGeCg8Kiq8ckjnf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EA0NbEOrpuo?si=HGeCg8Kiq8ckjnf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Introduction to component properties
 
