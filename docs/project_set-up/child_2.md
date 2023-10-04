@@ -9,7 +9,8 @@ nav_order: 3
 
 #  Project Set-up Walk-though: Page 1 - Cover
 
- Open Figma and create a new design file
+Open Figma and create a new design file
+
 ![](../image/../images/doc_set_up_2023/cover_1/Cover_7.png)
 
  Give it a name on the top bar
