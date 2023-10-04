@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Component Properties Intro
-parent: Component Properties
+parent: Component Propertiesreid_m  L
 nav_order: 2
 ---
 
