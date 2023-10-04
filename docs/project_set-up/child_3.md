@@ -1,55 +1,89 @@
 ---
 layout: default
-title: Naming Conversions
+title: Page 2 - Style Guide
 parent: Project Set-up
-nav_order: 2
+nav_order: 4
 ---
 
 {: .no_toc }
 
-#  Project Set-up Walk-though: Page 1 - Cover
+#  Project Set-up Walk-though: Page 2 - Style Guide
+ create a new page and call it style guide
+![](../images/doc_set_up_2023/styles/Page_2.png)
 
- Open Figma and create a new design file
-![](../image/../images/doc_set_up_2023/cover_1/Cover_7.png)
+ Create a frame on the page Width 464 & Height 79, call it .Header. Create top left and right radiuses 6 and finally give it a full colour Grey
+ ![](../images/doc_set_up_2023/styles/Style_1.png)
+ 
+Add text called Header at 32pt
+ ![](../images/doc_set_up_2023/styles/Style_3.png)
 
- Give it a name on the top bar
-![](../image/../images/doc_set_up_2023/cover_1/Cover_9.png)
+ Right-Mouse click and Create Component
+ ![](../images/doc_set_up_2023/styles/Style_4.png)
 
- Figma will already set you up with Page 1 rename this Cover in the left panel
-![](../image/../images/doc_set_up_2023/cover_1/Cover_10.png)
+ You will now see a Purple diamond shapes on the top left of the frame and also in the layers panel. This means the selection is now a component and instances can be created from this Master.
+ ![](../images/doc_set_up_2023/styles/Style_5.png)
 
+ Select the Header Text box in the property section in the tax panel click on the create component properties
+ ![](../images/doc_set_up_2023/styles/Style_6.png)
 
- Press F on your keyboard or click on the frame tool on the Toolbar. Then drag out a frame.
-![](../image/../images/doc_set_up_2023/cover_1/Cover_11.png)
+Replace Name with Header and Value with Typography
+ ![](../images/doc_set_up_2023/styles/Replace_Header.png)
+ 
 
- Call the frame Cover in the Layers Panel. In the design properties panel on the right make the width 19120 and the height 960. Give the frame a radius of 37 and finally give it a full colour.
-![](../image/../images/doc_set_up_2023/cover_1/Cover_12.png)
+Now create another text frame, 464 x 218, set bottom left and right radiuses at 6 and leave the fill white. Move this frame up to it buts up to the Header frame
+ ![](../images/doc_set_up_2023/styles/bump_up.png)
 
- Either press T on your keyboard or select the Text tool from the toolbar. Give the frame a title in this example we have used the Roboto font at 128 point & Bold
-![](../image/../images/doc_set_up_2023/cover_1/Cover_13.png)
+ Add a text frame with Roboto text medium 32 point as below
+  ![](../images/doc_set_up_2023/styles/32.png)
 
+Add another text frame with Roboto text medium 24 point as below
+![](../images/doc_set_up_2023/styles/24.png)
 
- we have added text at the bottom of the frame in this example we have used Roboto at 48 point
-![](../image/../images/doc_set_up_2023/cover_1/Cover_14.png)
+In the Layers panel select boy=th Header and Frame1 
+![](../images/doc_set_up_2023/styles/select1.png)
 
- We will now add an icon for the centre of the page. Right-Mouse to bring up the plug-ins, if you have not saved any plug-ins, go to manage plug-ins and in this example look for material design Icons(Community)
-![](../image/../images/doc_set_up_2023/cover_1/Cover_15.png)
+ From the right properties panel click on the plus icon next to auto layout this will combine both frames together
+![](../images/doc_set_up_2023/styles/auto.png)
 
- Search and select an icon - Then click on it to add to page
-![](../image/../images/doc_set_up_2023/cover_1/Cover_16.png)
+Figma Will have called this layer group Frame 1, Rename it Typography and press enter
+![](../images/doc_set_up_2023/styles/re-typo.png)
+ 
+ In the left panel select Assets and click on .Header - Typography
+![](../images/doc_set_up_2023/styles/assets.png)
 
+Click on Insert Instance
+ ![](../images/doc_set_up_2023/styles/insert.png)
 
-![](../image/../images/doc_set_up_2023/cover_1/Cover_17.png)
+The instance will appear on your baseboard
+ ![](../images/doc_set_up_2023/styles/on_page.png)
 
-The icon will come in small so you will need to scale it from the top left corner and reposition it make sure you select the frame not the Vector as these icons have a bounding box.
-![](../image/../images/doc_set_up_2023/cover_1/delect_cover_1.png)
+ With the instant selected in the properties section of the right panel change typography to colour and hit return
+ ![](../images/doc_set_up_2023/styles/before.png)
 
- Now give it a full colour in this example we chose white.
-![](../image/../images/doc_set_up_2023/cover_1/Cover_18.png)
+  Now create another 464x220 frame with the bottom left and right radiuses set at 6 and fill white
+  Add 3 Cirle shapes all same size. Great one and then hold shift and alt drag. Colour them green and red. 19
 
- as were only going to use the icon as a vector graphic we don't need the bounding box - Drag the Vector layer down inside the Cover frame.
-![](../image/../images/doc_set_up_2023/cover_1/delect_cover_3.png)
+ ![](../images/doc_set_up_2023/styles/after.png)
 
+ ![](../images/doc_set_up_2023/styles/Style_25.png)
+ 
+ Then select both the header and the frame with the coloured circles and convert to auto layout
+ ![](../images/doc_set_up_2023/styles/Style_27.png)
 
- Finally select the Cover - Right-Mouse - and select Set as thumbnail from the pop-up menu.
-![](../image/../images/doc_set_up_2023/cover_1/Cover_21.png)
+ This will group both frames together and automatically name the new layer group Frame 2. Rename this to colour.
+ ![](../images/doc_set_up_2023/styles/Style_28.png)
+
+ 
+ ![](../images/doc_set_up_2023/styles/Style_29.png)
+
+ Now click on the green
+ ![](../images/doc_set_up_2023/styles/Style_30.png)
+
+ In the film properties on the right panel click on the icon with 4 squares To set up a colour style. Click on the plus icon
+ ![](../images/doc_set_up_2023/styles/Style_31.png)
+
+Name the colour green
+ ![](../images/doc_set_up_2023/styles/Style_32.png)
+
+ Repeat the same process with the amber and red circles.
+ ![](../images/doc_set_up_2023/styles/Style_33.png)

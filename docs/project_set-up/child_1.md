@@ -1,33 +1,27 @@
 ---
 layout: default
-title: Naming Conversions
+title: Overview
 parent: Project Set-up
-nav_order: 4
+nav_order: 2
 ---
 
 {: .no_toc }
 
-#  Naming Conversions
+#  Project Set-up Walk-though Overview
 
-Name Components
-If you want to add another layer of Organization, you can name your components in a particular way. We recommend you use the slash separated convention e.g. Component/State.
+We are going to set up a project document consisting of four pages.
 
-Let's say you have named the components in a frame like this:
+**Page 1 - Cover:** This page will be the thumbnail and information sheet for our project.
+![Cover](../image/../images/doc_set_up_2023/cover_1/Cover_3.png)
 
-Login/Active
+**Page 2 - StyleGuide:** This page will be a simple style guide with typography and colour scheme.
 
-Login/Hover
+![Style](../image/../images/doc_set_up_2023/cover_1/Cover_4.png)
 
-Login/Inactive
+**Page 3 - Components:** This page will contain all components that we will used instances of in our layout.
 
-Create/Active
+![Comp](../image/../images/doc_set_up_2023/cover_1/Cover_5.png)
 
-Create/Hover
+**Page 4 - Layout:** In small projects you can incorporate pages for your user interface layout - Larger projects you would have a document with style guides and components that you would import (Library) into a separate proct document for your UI layout.
 
-Create/Inactive
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hEUO-9s7db4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Figma Help
-[Name and organize components](https://help.figma.com/hc/en-us/articles/360038663994-Name-and-organize-components#:~:text=Figma%20uses%20the%20slash%20naming,create%20another%20level%20of%20hierarchy.&text=The%20text%20before%20the%20first,name%20of%20the%20component%20set.)
+![Layout](../image/../images/doc_set_up_2023/cover_1/Cover_6.png)
