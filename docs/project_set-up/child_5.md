@@ -9,6 +9,16 @@ nav_order: 6
 
 #  Project Set-up Walk-though: Page 4 - Layout
  
-![](../images/doc_set_up_2023/styles/Page_2.png)
+![](../images/doc_set_up_2023/layout/layout_1.png)
 
- 
+ ![](../images/doc_set_up_2023/layout/layout_2.png)
+
+![](../images/doc_set_up_2023/layout/layout_3.png)
+
+![](../images/doc_set_up_2023/layout/layout_4.png)
+
+![](../images/doc_set_up_2023/layout/layout_5.png)
+
+![](../images/doc_set_up_2023/layout/layout_6.png)
+
+![](../images/doc_set_up_2023/layout/layout_7.png)
