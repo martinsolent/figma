@@ -8,7 +8,8 @@ nav_order: 4
 {: .no_toc }
 
 #  Project Set-up Walk-though: Page 2 - Style Guide
- create a new page and call it style guide
+
+ Create a new page and call it style guide
 ![](../images/doc_set_up_2023/styles/Page_2.png)
 
  Create a frame on the page Width 464 & Height 79, call it .Header. Create top left and right radiuses 6 and finally give it a full colour Grey
