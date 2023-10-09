@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Pixel Perfect 2
-parent: Figma Basics
-nav_order: 5
+parent: Pixel Perfect
+grand_parent: Figma Basics
+nav_order: 3
 ---
 
 {: .no_toc }
