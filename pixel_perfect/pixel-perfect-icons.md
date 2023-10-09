@@ -14,20 +14,42 @@ Creating a family of icons is time-consuming, although Figma can create and work
 
 
 
-First of all we will create a 24x24px container for our icon.
+First of all we will create a 24x24px container for our icon. Not all icons have a container but this is part of the design system Google material design the container is good for helping to align and space irregular shaped icons with the actual icon sitting within this container.
 
-Select the Frame Tools from the Toolbar Press F on your keyboard.
+1. Select the Frame Tools from the Toolbar Press F on your keyboard.
 
-Drag out from the centre guide while holding `Alt` and `Shift` on your keyboard this will create a perfect circle and create from the centre.
+2. Drag out from the centre guide while holding `Alt` and `Shift` on your keyboard this will create a perfect square and create from the centre.
 
-We will add a Stroke (border) 0.1pt Just as a guide which will be switched off at the end.
+3. We will add a Stroke (border) 0.1pt Just as a guide which will be switched off at the end.
+
 ![](../image/../images/pixel_perfect/PPGIF1.png)
 
+Inside this container we will create a circle using the ellipse tool.
 
+1. the Toolbar Embedded in the shapes Press `o` on your keyboard 
+
+2. Drag out from the centre while holding `Alt` and `Shift` on your keyboard this will create a perfect circle and create from the centre.
+
+3. Set the Stroke to 2pt and turn off Fill colour.
+
+4. Make sure the stroke is Centred
 
 ![](../image/../images/pixel_perfect/PPGIF2.png)
 
+
+Press `Return` on your keyboard this will bring up the Path in the centre of the stroke.
+
+Select the Pen tool from the Toolbar or pree `P` on the keyboard
+
+ using the guide from the example we are copying click two points to cut off the top of the circle - You do this by clicking on one point then moving across to the opposite side and clicking the second point - This will draw a line across the top of the circle.
+
+ Now click on the top Vector point of the circle and press delete - Then click on the centre Vector point on the line you have just created and click delete.
+
+  This will chop off the top of the circle.
+ 
 ![](../image/../images/pixel_perfect/PPGIF3.png)
+
+ Finally with the Line Tool - find this in the Toolbar Embedded in the shapes or press `L` on your keyboard Now drag out the line as per guides and give it a stroke of 2pt.
 
 ![](../image/../images/pixel_perfect/PPGIF4.png)
 
