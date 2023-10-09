@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pixel Perfect 1
-parent: Pixel Perfect 1 - Icons
+parent: Figma Basics
 nav_order: 4
 ---
 
