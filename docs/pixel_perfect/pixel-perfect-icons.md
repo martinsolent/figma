@@ -37,6 +37,9 @@ Inside this container we will create a circle using the ellipse tool.
 ![](../image/../images/pixel_perfect/PPGIF2.png)
 
 
+- [ ]
+- [ ]
+
 Press `Return` on your keyboard this will bring up the Path in the centre of the stroke.
 
 Select the Pen tool from the Toolbar or pree `P` on the keyboard
@@ -59,4 +62,4 @@ Select the Pen tool from the Toolbar or pree `P` on the keyboard
 
 ![]()
 
-![]()
+![]() how
