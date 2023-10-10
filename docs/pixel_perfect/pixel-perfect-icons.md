@@ -13,6 +13,90 @@ nav_order: 2
 Creating a family of icons is time-consuming, although Figma can create and work with Vector Images these are basic in comparison to what you would find in [Adobe illustrator](https://help.figma.com/hc/en-us/articles/360040030374-Copy-assets-between-design-tools) and also there is a large amount of free to use icons available through Figma Community so it would be best to use these rather creating your own but it is important to learn how to make an icon. Here we will import an icon from [Material Design (Community)](https://www.figma.com/community/file/1014241558898418245) which can be found in [Figma Community.](https://www.figma.com/community)
 
 
+#### 1. Set-up
+
+We will create a new Frame on the Icon page, we will then bring in an icon from Material Design (Community) plug-in. We will use this to set up guides and then the an icon copy.
+
+1. On the **Icon-Create** page
+2. Select the **Frame** Tool from the Toolbar or press `P` on keyboard
+3. Resize to **100x50**
+4. Name it **Make-icon**
+
+![](../images/pixel_perfect/icon-set-up/icon-set_3.png)
+
+1. Right-Mouse on the pasteboard
+2. From the plug-ins select material design (Communinity) If you do not have this plug-in installed select manage plug-ins and
+3. Search for it then run/install
+
+![](../images/pixel_perfect/icon-set-up/icon-set_4.png)
+
+4. From the icon panel search for **Power** Then click on the power switch icon which will then appear on the pasteboard
+
+![](../images/pixel_perfect/icon-set-up/icon-set_6.png)
+
+**Tip:** With Material Design icons they have a bounding box (other icons may not have a separate bounding box) with the icon itself is insid - So there is a Container and then the actual vector icon inside this container the container box makes life easier to work get spacing right with irregular shaped icons. 
+
+Because of the bounding box it's a common mistake when moving the icon that you move either the container without the icon, or move the icon out of the container mis-align - **Also when it comes to icons do not scale them just use them as they are when it comes to material design the icons or 24x24**
+
+![](../images/pixel_perfect/icon-set-up/b_box.gif)
+
+ So the best way to move an icon is bye clicking and holding the name label top left of its container
+
+![](../images/pixel_perfect/icon-set-up/icon_move.gif)
+
+
+#### 2. Create Copy Guides
+
+ We will set up some guides using the Icon as a template
+
+The zoom drop-down menu on top right Not only had settings to zoom in and out but you can also switch on the **Pixel grid** and also **Rulers** and toddle **Snap to grid.**
+
+To help us with the layout switch on **Pixel grid**
+
+ ![](../images/pixel_perfect/guides/zoom_menu.png)
+
+To drag out Guides you must have Rulers switch on
+
+![](../images/pixel_perfect/guides/drag.gif)
+
+Drag out 3 guides to align up as below:
+
+![](../images/pixel_perfect/guides/drag_1v.png)
+
+We need a guide for Top, Bottom & Centre of the container
+
+Make sure the container layer idis select to show the outline - the container is 24x24 so we need a centre guide at 12
+
+![](../images/pixel_perfect/guides/drag_2v.png)
+
+
+Finally we need a guide on the cut points of the circle
+
+Switch OFF **Snap to pixel grid**
+
+![](../images/pixel_perfect/guides/snap_off.png)
+
+Then drag a guide as below:    
+
+![](../images/pixel_perfect/guides/drag_3.png)
+
+Now drag out a Rectangle shape (select in the Toolbar or press `R`) on the left of the example icon soze 24x24
+
+![](../images/pixel_perfect/guides/24_tempv.png)
+
+Make sure **Snap to pixel grid** is switch ON and drag guides out below:
+
+![](../images/pixel_perfect/guides/rect_1v.png)
+
+
+Finally delete the Rectangle shape
+
+Then drag 2 guides 4 blocks in for the left & right outside guides
+
+![](../images/pixel_perfect/guides/4_in.png)
+
+
+#### 3. Create Copy
 
 First of all we will create a 24x24px container for our icon. Not all icons have a container but this is part of the design system Google material design the container is good for helping to align and space irregular shaped icons with the actual icon sitting within this container.
 
@@ -36,7 +120,7 @@ Inside this container we will create a circle using the ellipse tool.
 
 ![](../images/pixel_perfect/PPGIF2.png)
 
- #### Cut Off Top of Circle
+ #### 4. Cut Off Top of Circle
 
 ![](../images/pixel_perfect/PPGIF3.png)
 
@@ -72,15 +156,25 @@ This will chop off the top of the circle.
 ![](../images/pixel_perfect/pp_46.png)
 
 
- #### Add Final Line
+ #### 5. Add Final Line
  
  Finally with the Line Tool - find this in the Toolbar Embedded in the shapes or press `L` on your keyboard Now drag out the line as per guides and give it a stroke of 2pt.
 
-![](../images/pixel_perfect/PPGIF4.png)
+ ![](../images/pixel_perfect/pp_47.png)
 
+![](../images/pixel_perfect/PPGIF4.png)
 
 ![](../images/pixel_perfect/pp_47.png)
 
 ![](../images/pixel_perfect/pp_48.png)
 
 ![](../images/pixel_perfect/pp_49.png)
+
+Delete Container Stroke
+
+![](../images/pixel_perfect/guides/del_stroke.png)
+
+
+![](../images/pixel_perfect/guides/done.png)
+
+
