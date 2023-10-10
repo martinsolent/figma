@@ -37,6 +37,8 @@ Inside this container we will create a circle using the ellipse tool.
 ![](../image/../images/pixel_perfect/PPGIF2.png)
 
 - [x]  Complete
+- [ ]  ffff
+- [ ]  yyyyyy
 
 Press `Return` on your keyboard this will bring up the Path in the centre of the stroke.
 
@@ -53,11 +55,3 @@ Select the Pen tool from the Toolbar or pree `P` on the keyboard
  Finally with the Line Tool - find this in the Toolbar Embedded in the shapes or press `L` on your keyboard Now drag out the line as per guides and give it a stroke of 2pt.
 
 ![](../image/../images/pixel_perfect/PPGIF4.png)
-
-![]()
-
-![]()
-
-![]()
-
-![]() how
