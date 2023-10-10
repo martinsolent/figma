@@ -22,7 +22,7 @@ First of all we will create a 24x24px container for our icon. Not all icons have
 
 3. We will add a Stroke (border) 0.1pt Just as a guide which will be switched off at the end.
 
-![](../image/../images/pixel_perfect/PPGIF1.png)
+![](../images/pixel_perfect/PPGIF1.png)
 
 Inside this container we will create a circle using the ellipse tool.
 
@@ -34,20 +34,53 @@ Inside this container we will create a circle using the ellipse tool.
 
 4. Make sure the stroke is Centred
 
-![](../image/../images/pixel_perfect/PPGIF2.png)
+![](../images/pixel_perfect/PPGIF2.png)
+
+ #### Cut Off Top of Circle
+
+![](../images/pixel_perfect/PPGIF3.png)
 
 Press `Return` on your keyboard this will bring up the Path in the centre of the stroke.
 
-Select the Pen tool from the Toolbar or pree `P` on the keyboard
+![](../images/pixel_perfect/pp_39.png)
 
- using the guide from the example we are copying click two points to cut off the top of the circle - You do this by clicking on one point then moving across to the opposite side and clicking the second point - This will draw a line across the top of the circle.
+Select the Pen tool from the Toolbar or press `P` on the keyboard.
 
- Now click on the top Vector point of the circle and press delete - Then click on the centre Vector point on the line you have just created and click delete.
+Using the guides from the example we are copying click two points to cut off the top of the circle - You do this by clicking on one point on the right..
 
-  This will chop off the top of the circle.
+![](../images/pixel_perfect/pp_40.png)
+
+...then moving across to the opposite side and clicking the second point - This will draw a line across the top of the circle.
+
+![](../images/pixel_perfect/pp_41.png)
+
+
+Now click on the top Vector point of the circle and press delete
+
+![](../images/pixel_perfect/pp_43v.png)
+
+This will delete the very top of the circle.
+
+![](../images/pixel_perfect/pp_44.png)
+
+Now click on the centre Vector point on the line you have just created and press delete
+
+![](../images/pixel_perfect/pp_45.png)
+
+This will chop off the top of the circle.
+
+![](../images/pixel_perfect/pp_46.png)
+
+
+ #### Add Final Line
  
-![](../image/../images/pixel_perfect/PPGIF3.png)
-
  Finally with the Line Tool - find this in the Toolbar Embedded in the shapes or press `L` on your keyboard Now drag out the line as per guides and give it a stroke of 2pt.
 
-![](../image/../images/pixel_perfect/PPGIF4.png)
+![](../images/pixel_perfect/PPGIF4.png)
+
+
+![](../images/pixel_perfect/pp_47.png)
+
+![](../images/pixel_perfect/pp_48.png)
+
+![](../images/pixel_perfect/pp_49.png)
