@@ -36,9 +36,7 @@ Inside this container we will create a circle using the ellipse tool.
 
 ![](../image/../images/pixel_perfect/PPGIF2.png)
 
-
-- [ ]
-- [ ]
+- [x]  Complete
 
 Press `Return` on your keyboard this will bring up the Path in the centre of the stroke.
 
