@@ -12,15 +12,15 @@ nav_order: 3
 ![](../images/pixel_perfect/top_bar/M3_guide.png)
 
 
- We are going to create a "pixel perfect" Component using Google Material Design guidelines. Making components is one of the first things you do when creating a UI project you either create the code opponents yourself or you import them into your project by using a copyright free Library.
+ We are going to create a "pixel perfect" Component using Google Material Design guidelines. Making components is one of the first things you do when creating a UI project, you either create the Component yourself or you import them into your project by using a copyright free Library/UI Kit.
 
 [M3 Material Design Guidelines](https://m3.material.io/components/top-app-bar/overview)
 
-We will be creating the Top App Bar Component which is part of the [Material Design kit M3](https://www.figma.com/community/file/1035203688168086460)
+We will be creating the **Top App Bar** Component which is part of the [Material Design kit M3](https://www.figma.com/community/file/1035203688168086460)
 
 ![](..images/pixel_perfect/../../../images/pixel_perfect/pp_12.png)
 
-The Material Design Guidelines will give you all the inforamtion you need to know for create Components such as sizes and spacings
+The Material Design Guidelines will give you all the inforamtion you need to know for createing Components such as sizes and spacings
 
 ![](..images/pixel_perfect/../../../images/pixel_perfect/pp_13.png)
 
@@ -31,19 +31,19 @@ This is what we are aiming to create:
 
 
 1. Create a Frame with Frame Tool or press `F` on keyboard
-2. Call the Frame Top-App-bar
-3. Set Height & Width 360x64
-4. Set Grid to 8pt
+2. Call the Frame **Top-App-bar**
+3. Set Height & Width **360x64**
+4. Set Grid to **8pt**
 
 ![](../images/pixel_perfect/top_bar/bar_1.png)
 
- We could bring in icons using a plug-in but we will import a icons libary this gives us the option to swap out (change) any of the icons. This will only work in the teams (Education Teams) version of Figma.
+ We could bring in icons using a plug-in, but we will import a icons libary this gives us the option to swap out (change) any of the icons. This will only work in the teams (Education Teams) version of Figma.
 
 Go to [figma.com/community](https://www.figma.com/community) and search for Material Design Icons.
 
 ![](../images/pixel_perfect/top_bar/FC_1.png)
 
-Click add to Figma button - Once in figma it needs to be within the shared team area rather than in your drafts folder and you need to have permissions to access where it is stored.
+Click **Add to Figma** button - Once in figma it needs to be within the shared Team area rather than in your drafts folder and you need to have permissions to access where it is stored.
 
 ![](../images/pixel_perfect/top_bar/FC_2.png)
 
@@ -63,7 +63,7 @@ It should now display **Added** - You can now close the panel `X`
 
  Make sure in the asset panel you have all library selected. You should now the **Material Design icon** Library.
 
- **Note:** Imported libraries do not live inside your project they are only linked to it so you can have a number of projects or a number of people can share one library when updates are made to the library they can then be pushed out to all the projects that used the components and assets.
+ **Note:** Imported libraries do not live inside your project they are only linked to it, so you can have a number of projects or a number of people can share one library when updates are made to the library they can then be pushed out to all the projects that used the components and assets.
 
  ![](../images/pixel_perfect/top_bar/asset_3.png)
 
@@ -78,9 +78,9 @@ It should now display **Added** - You can now close the panel `X`
   
 ![](../images/pixel_perfect/top_bar/01_stroke.png)
 
-In the **Assets** panel search for **Back** They should Display the back arrow in the m**Material Design icon** library.
+In the **Assets** panel search for **Back** This should display the back arrow in the **Material Design icon** library.
 
-Click on Insert Instance to place it on the Frame
+Click on **Insert Instance** to place it on the Frame
 ![](../images/pixel_perfect/top_bar/back_ico_insert.png)
 
 It should be inside the **leading-icon** Frame - we need to reposition it.
@@ -88,7 +88,7 @@ It should be inside the **leading-icon** Frame - we need to reposition it.
 ![](../images/pixel_perfect/top_bar/before.png)
 
 1. Move it so it's on top of the **leading-icon** Frame.
-2. It should inside the **leading-icon** Frame
+2. It should noe be inside the **leading-icon** Frame
 
 ![](../images/pixel_perfect/top_bar/moved.png)
 
@@ -97,7 +97,7 @@ It should be inside the **leading-icon** Frame - we need to reposition it.
 #### Headline
 
  1. Create a text box **152x28** by press `T` on keyboard or selecting the text Tool
- 2. Okay Google play LBCRoboto, Medium, 22pt & align left
+ 2. Font: **Roboto, Medium, 22pt** & **align left**
  3. Type in the word **Title**
  4. Name the Layer **headline**
 
@@ -118,14 +118,14 @@ trailing-icon 3**
 
 ![](../images/pixel_perfect/top_bar/rename_as.png)
 
-We now will an icon to each frame.
+We now will add a icon to each frame.
 
-1. Go to the Assets panel
+1. Go to the **Assets** panel
 2. Search for **Attach**
 
 ![](../images/pixel_perfect/top_bar/insert_instant.png)
 
-Repeat with searching for Today & More. 
+Repeat with searching for **Today** & **More**. 
 
 **Note:** Make sure you unselect the icon you imported before you bring in another one otherwise it will just replace the selected icon.
 
@@ -145,7 +145,7 @@ Repeat with searching for Today & More.
 
  ![](../images/pixel_perfect/top_bar/align_more.gif)
 
-  We need to apply auto layout to each of the frames, This will mean the frames will collapse and we need to realign them back to the original positions.
+  We need to apply **Auto Layout** to each of the frames, This will mean the frames will collapse and we need to re-align them back to the original size and positions.
 
   Select **trailing-icon 1** in the properties panel on the right 
   
@@ -175,7 +175,7 @@ Reinstate the **height and width to 48**
 
 ![](../images/pixel_perfect/top_bar/back_fin.png)
 
-Finally select all 3 **Trailing Icon** Frames
+Select all 3 **Trailing Icon** Frames
 
  **Auto Layout** them and align **centre right**
 
@@ -184,3 +184,34 @@ Finally select all 3 **Trailing Icon** Frames
 ![](../images/pixel_perfect/top_bar/All_DONE_FINAL.png)
 
 
+#### Create Component
+
+With the **top-app-bar** selected either **Right-Mouse** and select **Create Component**
+
+![](../images/pixel_perfect/top_bar/create_comp.png)
+
+...or clivk the **Create Component icon** on the Menu bar
+
+![](../images/pixel_perfect/top_bar/comp_icon.png)
+
+Done. Make sure the Layers or ordered from Top to Bottom:
+
+**leading-icon
+Headline
+trailing-icon **   
+
+![](../images/pixel_perfect/top_bar/comp_down.png)
+
+#### Add Text Property on the Headline text box
+
+We  need to set-up the Title on the **Headline** text to be editable through the text properties when an **Instance** is drag out in the UI layout.
+
+Select the **Headline** text
+
+In the **Text Properties** click on the **Add Text** icon
+![](../images/pixel_perfect/top_bar/layer_prop_1.png)
+
+**Name: Headline
+Value: Title**
+
+![](../images/pixel_perfect/top_bar/layer_prop_2.png)
