@@ -210,7 +210,7 @@ Done. Make sure the Layers or ordered from Top to Bottom:
 
 **leading-icon**
 **Headline**
-**trailing-icon  **
+**trailing-icon**
 
 ![](../images/pixel_perfect/top_bar/comp_down.png)
 
@@ -227,3 +227,47 @@ In the **Text Properties** click on the **Add Text** icon
 **Value: Title**
 
 ![](../images/pixel_perfect/top_bar/layer_prop_2.png)
+
+
+###  Responsiveness
+
+ The Component needs to be responsive, but when we drag it and out in from the right side it is not responsive
+
+
+ ![](../images/pixel_perfect/top_bar/no_reposive.gif)
+
+This is how it should work, we need to fix this
+
+![](../images/pixel_perfect/top_bar/responsive.gif)
+
+First of all the **leading Icon** on the left needs to have **Auto Layout** applied
+
+
+Select the **leading Icon**  Container
+
+![](../images/pixel_perfect/top_bar/r_fixed/RRR.png)
+
+In the the properties panel on the right in the **Auto Layout** section click on the + icon
+
+![](../images/pixel_perfect/top_bar/r_fixed/r_fix_1.png)
+
+ in the frame properties set fixed for both vertical and horizontal
+
+  in the auto layout section Centre
+
+![](../images/pixel_perfect/top_bar/r_fixed/r_fix_3.png)
+
+ The frame properties hug (horizontal) and fixed (vertical)
+ ow select the trailing Icon section make sure the auto layout is aligned middle right 
+
+![](../images/pixel_perfect/top_bar/r_fixed/r_fix_4.png)
+
+1. Now select the Tire top app bar frame Apply auto layout 
+2. Align left middle
+3. In the frame properties fixed for both vertical and horizontal
+
+![](../images/pixel_perfect/top_bar/r_fixed/r_fix_5.png)
+
+Finally select the headline title set it frame properties to fill (horizontal) and hug (vertical)
+
+![](../images/pixel_perfect/top_bar/r_fixed/r_fix_6.png)
