@@ -46,3 +46,10 @@ It will now present in preview mode with the phone  Bezel
 
 ![](../images/pixel_perfect/screen/screen_7.png)
 
+### Download the Figma Mirror companion app for Apple and Android and test out your designs on a real device.
+
+[![](../images/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en_GB&gl=US)
+
+[![](../images/xHgSL.png)](https://apps.apple.com/us/app/figma-and-figjam/id1152747299)
+
+
