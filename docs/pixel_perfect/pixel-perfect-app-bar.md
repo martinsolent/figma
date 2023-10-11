@@ -67,7 +67,7 @@ It should now display **Added** - You can now close the panel `X`
 
  ![](../images/pixel_perfect/top_bar/asset_3.png)
 
-#### The Leading Icon
+### The Leading Icon
 
   In the Layers panel select the **top-app-bar** Frame and create another Frame inside of this **48x48** and call it **leading-icon**
 
@@ -94,7 +94,7 @@ It should be inside the **leading-icon** Frame - we need to reposition it.
 
 **Note:** You can also reposition it by dragging it in the Layers panel
 
-#### Headline
+### Headline
 
  1. Create a text box **152x28** by press `T` on keyboard or selecting the text Tool
  2. Font: **Roboto, Medium, 22pt** & **align left**
@@ -184,7 +184,7 @@ Select all 3 **Trailing Icon** Frames
 ![](../images/pixel_perfect/top_bar/All_DONE_FINAL.png)
 
 
-#### Create Component
+### Create Component
 
 With the **top-app-bar** selected either **Right-Mouse** and select **Create Component**
 
@@ -196,13 +196,13 @@ With the **top-app-bar** selected either **Right-Mouse** and select **Create Com
 
 Done. Make sure the Layers or ordered from Top to Bottom:
 
-**leading-icon
-Headline
-trailing-icon **   
+**leading-icon**
+**Headline**
+**trailing-icon  **
 
 ![](../images/pixel_perfect/top_bar/comp_down.png)
 
-#### Add Text Property on the Headline text box
+### Add Text Property on the Headline text box
 
 We  need to set-up the Title on the **Headline** text to be editable through the text properties when an **Instance** is drag out in the UI layout.
 
@@ -211,7 +211,7 @@ Select the **Headline** text
 In the **Text Properties** click on the **Add Text** icon
 ![](../images/pixel_perfect/top_bar/layer_prop_1.png)
 
-**Name: Headline
-Value: Title**
+**Name: Headline**
+**Value: Title**
 
 ![](../images/pixel_perfect/top_bar/layer_prop_2.png)
