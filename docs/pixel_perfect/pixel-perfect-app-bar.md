@@ -183,6 +183,18 @@ Select all 3 **Trailing Icon** Frames
 
 ![](../images/pixel_perfect/top_bar/All_DONE_FINAL.png)
 
+### Delete Stokes from Icons
+
+We set up **Strokes** (borders) on the icon containers to make them visable to help in alignment. We will now delete them - but you could just switch them off if you need them later.
+
+1. Shift click each of them
+2. From the Stroke Properties in the right panel click on the delete icon.
+
+![](../images/pixel_perfect/top_bar/delete_stroke_99.png)
+
+Repeat this with the Back Arrow icon
+
+![](../images/pixel_perfect/top_bar/And_delete.png)
 
 ### Create Component
 
