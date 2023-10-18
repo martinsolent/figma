@@ -14,7 +14,13 @@ nav_order: 3
 
  We are going to create a "pixel perfect" Component using Google Material Design guidelines. Making components is one of the first things you do when creating a UI project, you either create the Component yourself or you import them into your project by using a copyright free Library/UI Kit.
 
+
+
+ <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7dbf5edc-94b9-4ef4-9fd4-b09f0155995f&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
 [M3 Material Design Guidelines](https://m3.material.io/components/top-app-bar/overview)
+
+ <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=22549063-7644-4594-ad2d-b09f0155998e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 We will be creating the **Top App Bar** Component which is part of the [Material Design kit M3](https://www.figma.com/community/file/1035203688168086460)
 
@@ -29,6 +35,7 @@ This is what we are aiming to create:
 
 ![](../images/pixel_perfect/top_bar/work_to.png)
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4364cd6d-f792-4d09-af01-b09f015599e6&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 1. Create a Frame with Frame Tool or press `F` on keyboard
 2. Call the Frame **Top-App-bar**
@@ -37,6 +44,8 @@ This is what we are aiming to create:
 
 ![](../images/pixel_perfect/top_bar/bar_1.png)
 
+
+ 
  We could bring in icons using a plug-in, but we will import a icons libary this gives us the option to swap out (change) any of the icons. This will only work in the teams (Education Teams) version of Figma.
 
 Go to [figma.com/community](https://www.figma.com/community) and search for Material Design Icons.
@@ -96,8 +105,11 @@ It should be inside the **leading-icon** Frame - we need to reposition it.
 
 ### Headline
 
- 1. Create a text box **152x28** by press `T` on keyboard or selecting the text Tool
+ 1. Create a text box **152 x 28** by press `T` on keyboard or selecting the text Tool
  2. Make the **X 56** and **Y 18** in the Frame Properties in the right panel
+
+![](../images/pixel_perfect/top_bar/X_Y_TEXT.png)
+
  3. Font: **Roboto, Regular, 22pt** & **align left**
  4. Type in the word **Title**
  5. Name the Layer **headline**
