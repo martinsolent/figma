@@ -97,9 +97,10 @@ It should be inside the **leading-icon** Frame - we need to reposition it.
 ### Headline
 
  1. Create a text box **152x28** by press `T` on keyboard or selecting the text Tool
- 2. Font: **Roboto, Medium, 22pt** & **align left**
- 3. Type in the word **Title**
- 4. Name the Layer **headline**
+ 2. Make the **X 56** and **Y 18** in the Frame Properties in the right panel
+ 3. Font: **Roboto, Regular, 22pt** & **align left**
+ 4. Type in the word **Title**
+ 5. Name the Layer **headline**
 
 ![](../images/pixel_perfect/top_bar/headline.png)
 
@@ -253,11 +254,11 @@ In the the properties panel on the right in the **Auto Layout** section click on
 
 1. In the frame properties set fixed for both vertical and horizontal
 2. In the auto layout section Centre
+3. The frame properties **Hug** (horizontal) and **Fixed** (vertical)
 
 ![](../images/pixel_perfect/top_bar/r_fixed/r_fix_3.png)
-
- The frame properties **Hug** (horizontal) and **Fixed** (vertical)
- ow select the trailing Icon section make sure the auto layout is aligned middle right 
+ 
+ Now select the trailing Icon section make sure the auto layout is aligned middle right 
 
 ![](../images/pixel_perfect/top_bar/r_fixed/r_fix_4.png)
 
