@@ -12,9 +12,10 @@ nav_order: 3
 ![](../images/pixel_perfect/top_bar/M3_guide.png)
 
 
+
  We are going to create a "pixel perfect" Component using Google Material Design guidelines. Making components is one of the first things you do when creating a UI project, you either create the Component yourself or you import them into your project by using a copyright free Library/UI Kit.
 
-
+## Introduction
 
  <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7dbf5edc-94b9-4ef4-9fd4-b09f0155995f&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
@@ -35,6 +36,8 @@ This is what we are aiming to create:
 
 ![](../images/pixel_perfect/top_bar/work_to.png)
 
+## Create main container frame - Step 1
+
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4364cd6d-f792-4d09-af01-b09f015599e6&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 1. Create a Frame with Frame Tool or press `F` on keyboard
@@ -44,7 +47,7 @@ This is what we are aiming to create:
 
 ![](../images/pixel_perfect/top_bar/bar_1.png)
 
-
+## Connect to icon library - Step 2
  
  We could bring in icons using a plug-in, but we will import a icons libary this gives us the option to swap out (change) any of the icons. This will only work in the teams (Education Teams) version of Figma.
 
@@ -76,7 +79,7 @@ It should now display **Added** - You can now close the panel `X`
 
  ![](../images/pixel_perfect/top_bar/asset_3.png)
 
-### The Leading Icon
+## The Leading Icon - Step 3
 
   In the Layers panel select the **top-app-bar** Frame and create another Frame inside of this **48x48** and call it **leading-icon**
 
@@ -103,18 +106,22 @@ It should be inside the **leading-icon** Frame - we need to reposition it.
 
 **Note:** You can also reposition it by dragging it in the Layers panel
 
-### Headline
+## Headline - Step 4
 
  1. Create a text box **152 x 28** by press `T` on keyboard or selecting the text Tool
  2. Make the **X 56** and **Y 18** in the Frame Properties in the right panel
 
 ![](../images/pixel_perfect/top_bar/X_Y_TEXT.png)
 
- 3. Font: **Roboto, Regular, 22pt** & **align left**
+ 3. Font: **Roboto, Regular, 22pt**, **align left** & **centre middle vertacally** 
  4. Type in the word **Title**
  5. Name the Layer **headline**
 
 ![](../images/pixel_perfect/top_bar/headline.png)
+
+## Trailing Icons - Step 5
+
+### Create icon containers
 
 We will now create 3 more icons for the **Trailing Icon** section of the bar.
 
@@ -130,6 +137,8 @@ trailing-icon 2
 trailing-icon 3**
 
 ![](../images/pixel_perfect/top_bar/rename_as.png)
+
+### Add icons to the containers
 
 We now will add a icon to each frame.
 
@@ -158,7 +167,9 @@ Repeat with searching for **Today** & **More**.
 
  ![](../images/pixel_perfect/top_bar/align_more.gif)
 
-  We need to apply **Auto Layout** to each of the frames, This will mean the frames will collapse and we need to re-align them back to the original size and positions.
+ ###  Apply Auto Layout 
+  
+  We need to apply **Auto Layout** to each of the frames, this will mean the frames will collapse and we need to re-align them back to the original size and positions.
 
   Select **trailing-icon 1** in the properties panel on the right 
   
@@ -174,7 +185,11 @@ Repeat with searching for **Today** & **More**.
 
 ![](../images/pixel_perfect/top_bar/re_3.png)
 
+### Fixed broken layout
+
 The layouts have now been broken, So we need to fix them.
+
+Note we could have **Auto Layout** these Frames to start with bur we are looking at what **Auto Layout** does and how to fix any issues.
 
  Shift click to select all three layers.
 
@@ -209,7 +224,7 @@ Repeat this with the Back Arrow icon
 
 ![](../images/pixel_perfect/top_bar/And_delete.png)
 
-### Create Component
+## Create Component - Step 6
 
 With the **top-app-bar** selected either **Right-Mouse** and select **Create Component**
 
@@ -227,7 +242,7 @@ Done. Make sure the Layers or ordered from Top to Bottom:
 
 ![](../images/pixel_perfect/top_bar/comp_down.png)
 
-### Add Text Property on the Headline text box
+## Add Text Property on the Headline text box - Step 7
 
 We  need to set-up the Title on the **Headline** text to be editable through the text properties when an **Instance** is drag out in the UI layout.
 
@@ -242,9 +257,11 @@ In the **Text Properties** click on the **Add Text** icon
 ![](../images/pixel_perfect/top_bar/layer_prop_2.png)
 
 
-###  Responsiveness
+##  Responsiveness - Step 8
 
- The Component needs to be responsive, but when we drag it in and out from the right side it is not responsive
+ The Component needs to be responsive, but when we drag it in and out from the right side it is not responsive.
+
+ Note: As mentioned above we could have **Auto Layout** are frames to start with, but we will learn how to create Responsiveness to a static layout.
 
 
  ![](../images/pixel_perfect/top_bar/no_reposive.gif)
