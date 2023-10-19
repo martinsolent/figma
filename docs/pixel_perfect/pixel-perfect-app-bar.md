@@ -27,7 +27,7 @@ We will be creating the **Top App Bar** Component which is part of the [Material
 
 ![](..images/pixel_perfect/../../../images/pixel_perfect/pp_12.png)
 
-The Material Design Guidelines will give you all the inforamtion you need to know for createing Components such as sizes and spacings
+The Material Design Guidelines will give you all the inforamtion you need to know for creating Components such as sizes and spacings
 
 ![](..images/pixel_perfect/../../../images/pixel_perfect/pp_13.png)
 
@@ -49,6 +49,8 @@ This is what we are aiming to create:
 
 ## Connect to icon library - Step 2
  
+ <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c473fe8b-67c4-4476-b9d1-b09f0155e60c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
  We could bring in icons using a plug-in, but we will import a icons libary this gives us the option to swap out (change) any of the icons. This will only work in the teams (Education Teams) version of Figma.
 
 Go to [figma.com/community](https://www.figma.com/community) and search for Material Design Icons.
@@ -81,6 +83,8 @@ It should now display **Added** - You can now close the panel `X`
 
 ## The Leading Icon - Step 3
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7eea2e24-f037-441e-ac08-b09f0159276c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
   In the Layers panel select the **top-app-bar** Frame and create another Frame inside of this **48x48** and call it **leading-icon**
 
 
@@ -108,6 +112,8 @@ It should be inside the **leading-icon** Frame - we need to reposition it.
 
 ## Headline - Step 4
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=bc7d3b8c-e0e1-4ef0-8733-b09f01668555&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
  1. Create a text box **152 x 28** by press `T` on keyboard or selecting the text Tool
  2. Make the **X 56** and **Y 18** in the Frame Properties in the right panel
 
@@ -120,6 +126,8 @@ It should be inside the **leading-icon** Frame - we need to reposition it.
 ![](../images/pixel_perfect/top_bar/headline.png)
 
 ## Trailing Icons - Step 5
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b8366a9a-3612-4809-8273-b09f01667efc&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 ### Create icon containers
 
@@ -139,6 +147,8 @@ trailing-icon 3**
 ![](../images/pixel_perfect/top_bar/rename_as.png)
 
 ### Add icons to the containers
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=45c367eb-71b3-4d04-b140-b09f0167f082&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
 We now will add a icon to each frame.
 
@@ -213,6 +223,8 @@ Select all 3 **Trailing Icon** Frames
 
 ### Delete Stokes from Icons
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c90e2aee-83a7-4caa-a20c-b09f016d4a71&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
 We set up **Strokes** (borders) on the icon containers to make them visable to help in alignment. We will now delete them - but you could just switch them off if you need them later.
 
 1. Shift click each of them
@@ -258,6 +270,8 @@ In the **Text Properties** click on the **Add Text** icon
 
 
 ##  Responsiveness - Step 8
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=26209b03-5230-4290-ab0d-b09f016d4c39&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
  The Component needs to be responsive, but when we drag it in and out from the right side it is not responsive.
 
