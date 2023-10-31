@@ -3,7 +3,7 @@
 layout: default
 title: Links & Support
 parent: Component Properties
-nav_order: 10
+nav_order: 6
 ---
 
 {: .no_toc }
