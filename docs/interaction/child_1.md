@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Overlay Draw
-parent: interaction
+parent: Interaction
 nav_order: 2
 ---
 

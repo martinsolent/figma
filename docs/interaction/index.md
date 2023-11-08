@@ -1,7 +1,4 @@
 ---
-
-
-
 layout: default
 title: Interaction
 nav_order: 13
@@ -11,7 +8,7 @@ has_toc: false
 
 {: .no_toc }
 
-# Prototyping Basics
+# Interaction
 
 This section offers a basic introduction to creating interaction.
 
