@@ -11,9 +11,9 @@ has_toc: false
 
 {: .no_toc }
 
-# Interaction
+# Prototyping Basics
 
-This section offers a basic introduction to creating interactions.
+This section offers a basic introduction to creating interaction.
 
 ## Hovered Buttons
 

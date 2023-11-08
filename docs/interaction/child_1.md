@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Prototypes & Interaction
-parent: Prototypes
+title: Overlay Draw
+parent: interaction
 nav_order: 2
 ---
 
