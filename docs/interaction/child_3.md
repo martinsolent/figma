@@ -18,7 +18,7 @@ Create a new Figma file for your project - Give it a name in this example **swit
 
 Either press `F` your keyboard or select the Rectangle Tool from the Tools menu
 
-Drag out a rectangle. Resize to **52H x 32W** in the right Properties panel.
+Drag out a rectangle. Resize to **52W x 32H** in the right Properties panel.
 
 Name it **Track** in the layers panel
  
