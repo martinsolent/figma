@@ -68,17 +68,35 @@ Update title to **Fashion**
 
 #### 4. Add page Layout
 
-Create a new Frame with it selected press on Mac `cmd+shift+k` or on PC `control+shift+k` 
+Create a new Frame 160h x 360w
 
-Select image and import
-
-Select the image in the Layers panel on the left and scale to width and then thest the from and re-adjust to 160 high
-
-![Home](../images/fashion_app_2023/top_img.png)
+![Home](../images/fashion_app_2023/top_160.png)
 
 Rename Frame to **Discover**
 
-![Home](../images/fashion_app_2023/discover.png)
+![Home](../images/fashion_app_2023/layer_discover.png)
+
+
+With the Frame selected press on Mac `cmd+shift+k` or on PC `control+shift+k` 
+
+![Home](../images/fashion_app_2023/dis_1.png)
+
+In the Layer make sure the image is selected not the Frame (its container)
+
+![Home](../images/fashion_app_2023/dis_2.png)
+
+The image will neege to be resized - This can be done by dragging a corner is or adjusting it in the properties panel on the right 
+
+![Home](../images/fashion_app_2023/dis_3.png)
+
+The Frame with work as a mask to your image
+
+![Home](../images/fashion_app_2023/dis_4.png)
+
+![Home](../images/fashion_app_2023/dis_5.png)
+
+Make sure the Frames is still 160 high
+![Home](../images/fashion_app_2023/dis_6.png)
 
 Repeat with the image below
 ![Home](../images/fashion_app_2023/Ulimate.png)
