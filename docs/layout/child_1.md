@@ -37,11 +37,11 @@ Re-name the Frame **Home**
 
 ![Home](../images/fashion_app_2023/fashion_1.png)
 
-These the approximate height of the assests
+**These the approximate height of the assests**
 
 ![Home](../images/fashion_app_2023/size.png)
 
-#### Import Component & Icon Libraries
+#### 2. Import Component & Icon Libraries
 
 In the right panel click on Assets the the import library icon (Blue Book icon) the find **Material Design Kit 2** and click **Add File** 
 
@@ -57,7 +57,7 @@ Repeat with **Material Design icon**
 
 ![Home](../images/fashion_app_2023/icon_lib.png)
 
-#### Add Header Bar
+#### 3. Add Header App Bar
 Click Assests from the left panel - from the material Kit 2 - App Bars - B. Extended and drag on to your frame
 
 ![Home](../images/fashion_app_2023/top_bar.png)
@@ -65,6 +65,8 @@ Click Assests from the left panel - from the material Kit 2 - App Bars - B. Exte
 
 Update title to **Fashion**
 ![Home](../images/fashion_app_2023/new_title.png)
+
+#### 4. Add page Layout
 
 Create a new Frame with it selected press on Mac `cmd+shift+k` or on PC `control+shift+k` 
 
@@ -111,7 +113,7 @@ Reconfigure your level and make sure frames are named as below
 
 ![Home](../images/fashion_app_2023/layers.png)
 
-#### Preview Prototype
+#### 5. Preview Prototype
 
 With the top bar selected Go to the right Properties panel select **Prototype** and change Position to **Fixed (stay in place)** this will make the top bar sticky
 ![Home](../images/fashion_app_2023/Pre_1.png)
