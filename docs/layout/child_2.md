@@ -9,7 +9,7 @@ nav_order: 3
 
 # Layout & Grids - 12 Column Web Layout
 
-![UI Banner](/docs/images/dt_layout/UI_banner.png)
+![UI Banner](../images/dt_layout/UI_banner.png)
 
 We are going to use [Untitled UI – FREE Figma UI kit and design system](https://www.figma.com/community/file/1020079203222518115/untitled-ui-free-figma-ui-kit-and-design-system) from Figma Community as an example of how to implement a design system and using a Layout (Column) Grid to desktop & tablets.
 
