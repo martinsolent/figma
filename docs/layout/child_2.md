@@ -60,14 +60,50 @@ Now click on the `+` icon to add a Grid Style.
 Name it 12 Columns & click Create Style
 
 ![UI Banner](../images/dt_layout/new_12_cols.png)
-
+You will now have created a 12 Column style
 
 Hold `ALT + SHIFT` on keyboard & drag down to create a copy
 
 ![UI Banner](../images/dt_layout/6_col.png)
 
+With this new item selected Click on the 12 Column style in the Properties panel on the right
+
+Then click the `+` icon to add a new style 
+
+Then click on **More Options**
+
+![more](../images/dt_layout/more%20_options.png)
+
+Name it **6 Columns** 
+
+![UI Banner](../images/dt_layout/2.png)
+
+In the **Properties** at the bottom click on the Edit icome and type in 6 in the Count field 
+
+**Click Create Style**
+
+![make 6 cols](../images/dt_layout/make_6_colds.png)
+
+Repeat this process to create:
+
+* 5 Columns
+* 3 Columns
+* 2 Columns
+
+![Repeat](../images/dt_layout/repeat_.png)
+
+By selecting a number of elements together you can add even spacing between them
+
+![Even Space](../images/dt_layout/even_space.png)
 
 
+Now when you select any of the Containers you can change the column style (Number of columns) from the Properties panel on right
+
+![Change1](../images/dt_layout/change1.png)
 
 
+![Change1](../images/dt_layout/change2.png)
 
+Or by clicking on the 4 icon **Grid Styles**
+
+![4 icon](../images/dt_layout/4_icon.png)
