@@ -39,20 +39,35 @@ Create another frame 1280 x 700 inside the **Grid Layouts** frame, call it **_Co
 
  ![UI Banner](../images/dt_layout/con_grid_1.png)
 
-  From the panel on the left click on **Assets** from the Local components drag out _**Container** component inside the frame you have just created.
+  From the panel on the left click on **Assets** from the Local components drag out **_Container** component inside the frame you have just created.
 
-  Center & scale to 400 high.
+  Centre & scale to 400 high.
 
 ![UI Banner](../images/dt_layout/con_grid_2.png)
 
 Your Layers panel will look like this
 
-![UI Banner](../images/dt_layout/layers_1.png)
+![UI Banner](../images/dt_layout/layer_look_new.png)
+
+With this item elected  - In the right Properties panel click the icon with 4 dots to expand the Grid Styles 
+
+![Right Panel Style](../images/dt_layout/styles_in%20_right_panel.png)
+
+Now click on the `+` icon to add a Grid Style.
+
+![UI Banner](../images/dt_layout/style_1_12.png)
+
+Name it 12 Columns & click Create Style
+
+![UI Banner](../images/dt_layout/new_12_cols.png)
+
 
 Hold `ALT + SHIFT` on keyboard & drag down to create a copy
 
 ![UI Banner](../images/dt_layout/6_col.png)
 
-![chairs layout](imgs/chairs_web_layout.png)
 
-[Download Images](imgs/chairs.zip)
+
+
+
+
