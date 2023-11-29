@@ -66,3 +66,21 @@ You will need to drag them out from the outside panel and create a lounge with t
 Use the Overlay interaction to bring in your drawer onto the main screen
 
 ![](../images/draw_1/draw_18.png)
+
+![](../images/draw_inter/1.png)
+
+![](../images/draw_inter/2.png)
+
+![](../images/draw_inter/3.png)
+
+![](../images/draw_inter/4.png)
+
+![](../images/draw_inter/5.png)
+
+![](../images/draw_inter/6.png)
+
+![](../images/draw_inter/7.png)
+
+![](../images/draw_inter/8.png)
+
+![](../images/draw_inter/9.png)
