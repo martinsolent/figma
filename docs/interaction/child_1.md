@@ -41,7 +41,7 @@ You can add interaction either do a while hovering interaction or a mouse enter 
 
 ![](../images/draw_1/draw_10.png)
 
-You Will need to create a component to be the drawer navigation which will come in from the right of the screen this has a header with an avatar and a list of items
+You will need to create a component to be the drawer navigation which will come in from the right of the screen this has a header with an avatar and a list of items
 
 ![](../images/draw_1/draw_11.png)
 
@@ -59,27 +59,44 @@ You will now have the following components in the asset panel
 
 ![](../images/draw_1/draw_16.png)
 
-You will need to drag them out from the outside panel and create a lounge with the top title bar This will need to be fixed position scrolling
+Now publish (this vwill only work if in a Teams Plan)
 
-![](../images/draw_1/draw_17.png)
+Once published we can create a new project/ Figma File and import if you do not have a Teams Plan you can use the in your Figma file.
 
-Use the Overlay interaction to bring in your drawer onto the main screen
+![](../images/draw_inter/asset_publish.png)
 
-![](../images/draw_1/draw_18.png)
 
-![](../images/draw_inter/1.png)
+Create a new Frame 360 x 800
+Call it **Home** 
 
 ![](../images/draw_inter/2.png)
 
+The Assets (Components) have already been created and/or imported as a shared library into out File (Project)
+
+Drag out the **titlebar** on to the **Home** Frame and position
+
 ![](../images/draw_inter/3.png)
 
-![](../images/draw_inter/4.png)
+Drag out **List**  component and position
+
+![](../images/draw_inter/drag_list.png)
+
+Resize by dragging down the **List** component to make it **1659** high. It this case this is the "height" of the component that has been created to allow for a scroll affect
 
 ![](../images/draw_inter/5.png)
 
+![](../images/draw_inter/1659.png)
+
+Now select the **titlebar** in the **Properties** panel switch **Design** to **Prototype**
+
+Within the **Scroll Behaviour** section change to **Fixed (stay in place)**
+
 ![](../images/draw_inter/6.png)
 
-![](../images/draw_inter/7.png)
+
+![](../images/draw_inter/fixed_close.png)
+
+Change **Overflow** to **Vertical**
 
 ![](../images/draw_inter/8.png)
 
@@ -87,24 +104,12 @@ Use the Overlay interaction to bring in your drawer onto the main screen
 
 ![](../images/draw_inter/9.png)
 
-![](../images/draw_inter/10.png)
+![](../images/draw_inter/20.png)
 
-![](../images/draw_inter/11.png)
+![](../images/draw_inter/21.png)
 
-![](../images/draw_inter/12.png)
+Use the Overlay interaction to bring in your drawer onto the main screen
 
-![](../images/draw_inter/13.png)
+![](../images/draw_1/draw_18.png)
 
-![](../images/draw_inter/14.png)
-
-![](../images/draw_inter/15.png)
-
-![](../images/draw_inter/16.png)
-
-![](../images/draw_inter/17.png)
-
-![](../images/draw_inter/18.png)
-
-![](../images/draw_inter/19.png)
-
-![](../images/draw_inter/10.png)
+!
