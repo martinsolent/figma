@@ -18,53 +18,71 @@ nav_order: 2
 
 **Create your Components**
 
-1. Create a title bar -with a menu icon, a title and an icon in this case a search/magnifying glass
+**1. Title Bar**
+
+Create a title bar **360 x 56** with a menu icon, a title and an icon in this case a search/magnifying glass. Add icons with either a plug-in or with an imported library.
 
 ![](../images/draw_1/draw_2.png)
 
-2. Now we will create a label item this will consist of the frame with an ellipse shape containing an avatar and the name label.
+**2. Label with Avatar**
+
+Now we will create a label item **360 x 56** this will consist of the frame with an ellipse **40 x 40** shape containing an avatar and the name label. Text **Roboto - Regular at 16pt**
 
 ![](../images/draw_1/draw_3.png)
 
-3. Create a bottom Stroke with the colour black
+Create a bottom Stroke with the colour black
 
 ![](../images/draw_1/draw_4.png)
 
-4. Text justified left - centred vertically and fixed size
+Text justified left - centred vertically and fixed size
 
 ![](../images/draw_1/draw_5.png)
 
-5. Create a list item save it as a component then create a variance with the second variant this will be the hover state so change the background colour
+**List Item with rollover (for overlay)**
 
-![](../images/draw_1/draw_6.png)
+Create a list item **260 x 56** save it as a component then create a Variant with the second Variant this will be the hover state so change the background colour
 
 ![](../images/draw_1/draw_8.png)
 
-6. You can add interaction either do a while hovering interaction or a mouse enter leave
+You can add interaction either do a While Hovering interaction or a mouse enter leave
 
 ![](../images/draw_1/draw_9.png)
 
 ![](../images/draw_1/draw_10.png)
 
-7. You will need to create a component to be the drawer navigation which will come in from the right of the screen this has a header with an avatar and a list of items
+**Overlay Draw Component**
 
-![](../images/draw_1/draw_11.png)
+You will need to create a component to be the drawer navigation which will come in from the right of the screen this has a header with an avatar and a list of items. Size **260 x 640** 
+
+Call the frame **Draw**
 
 ![](../images/draw_1/draw_12.png)
 
+It will have a header with avatar and name with a coloured background.
+
 ![](../images/draw_1/draw_13.png)
+
+Create another frame and call it **list** under the header
+
+Drag and drop the List item inside this frame `ALT + SHIFT` drag to duplicate as least 5 times
+
+With the **Draw** frame selected convert it into a component by right mouse clicking.
 
 ![](../images/draw_1/draw_14.png)
 
-8. You can now copy out an instance of your list item and duplicate it before creating it as a component
+**Main List Items**
+
+You can now copy out an instance of your list item and duplicate it before creating it as a component
+
+`ALT + SHIFT` drag to duplicate
 
 ![](../images/draw_1/draw_15.png)
 
-9. You will now have the following components in the asset panel
+You will now have the following components in the asset panel
 
 ![](../images/draw_1/draw_16.png)
 
-**Now publish (this vwill only work if in a Teams Plan)**
+**Now publish (this will only work if in a Teams Plan)**
 
 Once published we can create a new project/ Figma File and import if you do not have a Teams Plan you can use the in your Figma file.
 
@@ -181,3 +199,4 @@ And **Top Left**
 
 Final run the prototype again to test and check on your phone using the Figma app.
 
+![](../images/draw_inter/draw_final.png)
