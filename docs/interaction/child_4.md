@@ -12,6 +12,11 @@ nav_order: 5
 
 ### 1. Set-up
 
+This walkthrough is to set-up/create components and layout to create a drag scroll interaction.
+
+* Create a new Figma file (project)
+* Give it a name
+* Create a Frame bu pressing `F` on keyboard, using the Android Large template from the Properties panel **360 x 800**
 
 
 ![](../images/draw_inter/Draw_inter_2/d_1.png)
