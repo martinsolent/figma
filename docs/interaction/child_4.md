@@ -122,8 +122,51 @@ Right mouse click on the element and click on **Create Component**
 
 ![](../images/draw_inter/Draw_inter_2/run.png)
 
-It should now horizontal scroll when dragged lef or right
+It should now horizontal scroll when dragged left or right
 
 ![](../images/draw_inter/Draw_inter_2/final_h.gif)
 
+We will now add more content to allow vertical scrolling.
 
+Create a new frame 360 wide by 300 high
+
+You can either add an image from the **User Profile** or **Unsplashed** plug-ins
+
+![](../images/draw_inter/Draw_inter_2/img_1.png)
+
+In the panel on the left, click on **Assets** and drag out another slider component underneath the image you have just created
+
+![](../images/draw_inter/Draw_inter_2/img_2.png)
+
+
+ Now select the **Layers** from the left panel and rename both of the sliders 1 and 2, so we can differentiate between them
+
+![](../images/draw_inter/Draw_inter_2/re-nmae_slider.png)
+
+As the images are all the same in Slider t2, as in slider 1, we need to select the individual frames inside this container and change them using the User Profile plug-in
+
+In the Layers panel on left, click each of the frames within the Slider container.
+
+![](../images/draw_inter/Draw_inter_2/select_mului_frames.png)
+
+ Then right-mouse click on the paste board and select the User Profile plug-in and insert random images.
+
+![](../images/draw_inter/Draw_inter_2/more_user.png)
+
+ We need to preview by running and presenting our prototype. Make sure you select **Prototype** from the properties panel on the right and click Play button to run.
+
+
+![](../images/draw_inter/Draw_inter_2/run.png)
+
+
+Test the scroll on the second slider
+
+![](../images/draw_inter/Draw_inter_2/run_2.gif)
+
+As we did previously, we will add another Frame and add another image below the second slider. Make sure you have the Home screen frame selected before you create the frame so it is inside the container. It will clip the image which will allow us to vertical scroll.
+
+![](../images/draw_inter/Draw_inter_2/final_image.png)
+
+ Time to preview for the last time - You should be able to vertical and also Horizontal scroll on both the sliders with the title bar staying in position.
+
+![](../images/draw_inter/Draw_inter_2/last.gif)
