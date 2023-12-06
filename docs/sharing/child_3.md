@@ -22,3 +22,8 @@ When outputting your images from PhotoShop, InDesign or illustrator you need to 
 You can use the same process of making your design work in Figma just make your frame 1400 pixels wide then export it as a JPEG - remember the height doesn't really matter on Behance.
 
 Images should use the RGB colour space not CMYKImage uploads should be 1400px wide or less [More details here](https://help.behance.net/hc/en-us/articles/204484614-Guide-Formatting-Images-For-Display-On-Behance)
+
+
+## Medium.com Introduction and Walk-through
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=adff3c49-1a57-41dc-8d95-b0d00168e544&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
