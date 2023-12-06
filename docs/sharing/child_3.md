@@ -27,3 +27,21 @@ Images should use the RGB colour space not CMYKImage uploads should be 1400px wi
 ## Medium.com Introduction and Walk-through
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=adff3c49-1a57-41dc-8d95-b0d00168e544&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
+## Screen Recording
+
+#### Loom (Mac & PC)
+![](../images/loom.png)
+[LOOM.COM (Education)](https://www.loom.com/education)
+
+#### QuickTime (Mac)
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=064b5b35-74b9-44d7-a9a3-b0d0016f119c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+
+#### Screen Recorder PC
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GrVflPPpfDw?si=v3mPhvjcvWd-b27m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### OBS Studio (Mac & Windows)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWbJJ4RnPx8?si=yJo8nb0XeZFOgVCv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
