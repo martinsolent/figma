@@ -10,4 +10,8 @@ has_toc: false
 
 # Layout & Grids
 
+![Banner](../images/dt_layout/desk_banner.png)
+
 This section covers creating layouts for both Mobile and websites using the column grid structure
+
+

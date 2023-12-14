@@ -15,3 +15,5 @@ nav_order: 2
 
 Share files and prototypes
 https://help.figma.com/hc/en-us/articles/360040531773-Share-files-and-prototypes
+
+[Embed figma prototypes in medium.com in 3 easy steps - does not always work](https://bootcamp.uxdesign.cc/embed-figma-prototypes-in-medium-in-3-easy-steps-2299ccb704a0)
