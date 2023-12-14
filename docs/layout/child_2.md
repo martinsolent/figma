@@ -15,8 +15,7 @@ We are going to use [Untitled UI – FREE Figma UI kit and design system](https:
 
 #### 1. Create a new Figma file
 
- Create a new Figma file and give it a name
- 
+s 
   Update Page 1 name it **Grids** 
   
   Create a frame 1700 x 3400 and call it **Grid Layouts**
@@ -43,7 +42,7 @@ Create another frame 1280 x 700 inside the **Grid Layouts** frame, call it **_Co
 
   Center & scale to 400 high.
 
-![UI Banner](/docs/images/dt_layout/con_grid_2.png)
+![UI Banner](../images/dt_layout/con_grid_2.png)
 
 Your Layers panel will look like this
 
