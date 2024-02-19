@@ -1,8 +1,8 @@
 ---
 layout: default
-title: layout
+title: Breakpoints
 nav_order: 17
-has_children: true
+has_children: false
 has_toc: false
 ---
 
