@@ -105,37 +105,82 @@ The Frame name will turn purple and have a diamond clustered icon
 
 ![](./imgs/bp_21.png)
 
+Now create a Variant by clicking on the diamond icon with the **+** from the top menu bar
+
+![](./imgs/turn_var.png)
+
+This will create a copy underneath the original frame - drag in the right side so it shrinks to three images wide - as you have used auto layout it will flow the child elements within the main frame
+
+It will be the case that the variant box has clipped your design you can drag this out by first clicking at the top on the name of the component Photo then going down and dragging out the bottom of the box
+
 ![](./imgs/bp_23.png)
+
+Now click the purple add variant icon at the bottom of the copied 3 column frame.
+
+
 
 ![](./imgs/bp_24.png)
 
+Now click the purple add variant icon 
+
 ![](./imgs/bp_25.png)
+
+A copy will appear
 
 ![](./imgs/bp_26.png)
 
+Drag the right side in to flow into a two-column layout.
+
 ![](./imgs/bp_27.png)
+
+Again, you will see your design clipped you can either drag it out or just again click the **+** to add a new variant and it should push the variant box down to make it larger.
 
 ![](./imgs/bp_28.png)
 
+A copy will appear
+
 ![](./imgs/bp_29.png)
+
+Drag the right side in to flow into a one-column layout.
 
 ![](./imgs/bp_30.png)
 
+We will now add Variant Properties
+
 ![](./imgs/bp_31.png)
+
+In the current variant section rename property to **breakpoint **and default to **desktop** then press `RETURN`
+
 
 ![](./imgs/bp_32.png)
 
+Now repeat the process with the rest of the images the property value of **breakpoint** can stay the same 
+
+Three column should be cold **tablet**
+
 ![](./imgs/bp_33.png)
+
+Two column called **phone**
 
 ![](./imgs/bp_34.png)
 
+One column called **small phone**
+
 ![](./imgs/bp_35.png)
+
+All done!
 
 ![](./imgs/bp_36.png)
 
+Create a New Page
+
 ![](./imgs/bp_37.png)
 
+Click on the Assets Panel on left & drag out a instance of the Photos Component
+
 ![](./imgs/bp_38.png)
+
+From the properties panel on the right you now can customise the photo component instant to change the layout to a tablet or a phone or back again
 
 ![](./imgs/bp_39.png)
 
