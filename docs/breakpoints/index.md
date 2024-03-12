@@ -191,4 +191,3 @@ From the properties panel on the right you now can customise the photo component
 ![](./imgs/bp_42.png)
 
 ![](./imgs/bp_43.png)
-
