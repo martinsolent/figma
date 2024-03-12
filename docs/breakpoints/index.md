@@ -1,201 +1,194 @@
 ---
 layout: default
-title: Variables
-nav_order: 18
+title: Breakpoints
+nav_order: 17
 has_children: false
 has_toc: false
 ---
 
 {: .no_toc }
 
-# Variables - Number
+# Breakpoints
 
-![](/docs/variables/variables_number_2024/minus.gif)
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e2d86871-1aa2-486c-842c-b11b0163b6db&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
-Create a new Design Project, name it and create a Frame 600 x 400 and call it Home
 
-![](/docs/variables/variables_number_2024/var_1.png)
+In UI (User Interface) design, breakpoints refer to specific points or ranges of screen widths at which a website or application layout responds and adapts to accommodate different devices or screen sizes. Breakpoints are crucial for creating responsive designs that provide optimal user experiences across various devices, such as desktop computers, laptops, tablets, and smartphones.
 
-Bring in a Minus ico using the Mterial Design Icons (Community) Plug in - Right Mouse to go to plugins (you might to to add from Figma Community uf you have not got access to this plugin)
+When a user accesses a website or application, the layout and content should adjust dynamically based on the device's screen size to ensure readability, usability, and accessibility. Breakpoints allow designers to define how the layout should change at different screen widths to maintain functionality and aesthetics.
 
-![](/docs/variables/variables_number_2024/var_2.png)
+**Common breakpoints include:**
 
-Search for Minus
+**Desktop:** This is typically the default layout for larger screens like desktop computers and laptops. The layout might feature multiple columns, larger fonts, and more detailed navigation elements.
 
-![](/docs/variables/variables_number_2024/var_3.png)
+**Tablet:** As the screen width decreases to accommodate tablets and larger mobile devices in landscape orientation, the layout may adjust by rearranging elements, resizing images, and simplifying navigation.
 
-Click on it to add
+**Mobile:** For smaller screens like smartphones, the layout may switch to a single-column design, prioritize content based on importance, enlarge touch targets for easier interaction, and hide non-essential elements to optimize space.
 
-![](/docs/variables/variables_number_2024/var_4.png)
+## Breakpoint Walk-through
 
-Drag to the frame if needed
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4aa56950-a08b-4f02-b200-b11b0169e6b1&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
-![](/docs/variables/variables_number_2024/var_5.png)
+This is just a quick walkthrough to show how you could set up breakpoints if you are doing this for real with UI design you obviously need to pay attention to the layout as well as naming conventions of your layers.
 
-Make it is inside the frame in the Layers panel - in this case it is not 
+![](./imgs/bp_1.png)
 
-![](/docs/variables/variables_number_2024/var_6.png)
+Create a new Frame
 
-So drag the minus-circle frame on the home frame
+Inside this Frame create another one that is a perfect square bt holding `SHIFT` & `ALT` when dragging out
 
-![](/docs/variables/variables_number_2024/var_7.png)
+![](./imgs/bp_2.png)
 
-In the Properties the size is 24 x 24
+With the Frame still selected right mouse click to go to plugins to access User Profile | Avatar (this will need to have already been installed from Figma community)
 
-![](/docs/variables/variables_number_2024/var_8.png)
 
-Click on chain icon on the roght to lock H & W, then type in 200 for width and press `Enter` on keyboard
+![](./imgs/bp_5.png)
 
-![](/docs/variables/variables_number_2024/var_9.png)
 
-Icon will have scaled - reposition if needed
+![](./imgs/bp_6.png)
 
-![](/docs/variables/variables_number_2024/var_10.png)
+Click on the button to insert a random image
 
-Repeat with searching, inserting and scaling to 200 x 200 a Plus icon - **plus-circle**
+![](./imgs/bp_7.png)
 
-![](/docs/variables/variables_number_2024/var_11.png)
+Now `SHIFT` & `ALT` Drag to the right to duplicate
 
-Again make it is inside the frame in the Layers panel - in this case it is not 
+![](./imgs/bp_8.png)
 
-![](/docs/variables/variables_number_2024/var_12.png)
+Continue until you have 6
 
-Drag it onto the Home frame
+![](./imgs/bp_9.png)
 
-![](/docs/variables/variables_number_2024/var_13.png)
+![](./imgs/bp_10.png)
 
-Position them with a gap as below
+ With all six selected `SHIFT` & `ALT` drag down to create another row
 
-![](/docs/variables/variables_number_2024/var_14.png)
+![](./imgs/bp_11.png)
 
-Create a Text box in the centre type in 0 with a size 128 and centre content vertical & horizontal
+Make sure they are all selected.
 
-![](/docs/variables/variables_number_2024/var_16.png)
+![](./imgs/bp_12.png)
 
-![](/docs/variables/variables_number_2024/var_18.png)
+Then access the User Profile plugin to randomise all the images so they are different.
 
-Make sure you have nothing selected - From the Properties panel on right in the Local Variables section click on add Variable icon
 
-![](/docs/variables/variables_number_2024/var_19.png)
+![](./imgs/bp_13.png)
 
-![](/docs/variables/variables_number_2024/var_20.png)
+![](./imgs/bp_14.png)
 
-Click Create variable
+Make sure the main Frame 1 is selected 
 
-![](/docs/variables/variables_number_2024/var_21.png)
+ In the Properties on the panel on the right click on the **+** next to the Auto Layout
 
-and Number from dropdown
 
-![](/docs/variables/variables_number_2024/var_22.png)
+![](./imgs/bp_15.png)
 
-You can rename to aff meaning - but we will leave it as Number - close this panel
+ Make sure it's aligned middle centre
 
-![](/docs/variables/variables_number_2024/var_23.png)
+![](./imgs/bp_16.png)
 
-Select the text box with the 0. From the Properties panl on the right in the Text section click on the apply variable icon
 
-![](/docs/variables/variables_number_2024/var_24.png)
+![](./imgs/bp_17.png)
 
-![](/docs/variables/variables_number_2024/var_25.png)
+![](./imgs/bp_18.png)
 
-You will now see Number click it to apply it to the text box
 
-![](/docs/variables/variables_number_2024/var_26.png)
+ Now rename the Frame two **Photos**
 
-You will now see it applied in the Text box section of the properties
+![](./imgs/bp_19.png)
 
-![](/docs/variables/variables_number_2024/var_27.png)
+Now turn the frame into a Component
 
-In the Properties panel on right switch Design to Prototype - Select the Plus icon on the left
+![](./imgs/bp_20.png)
 
-![](/docs/variables/variables_number_2024/var_28.png)
+The Frame name will turn purple and have a diamond clustered icon
 
-In the Interaction section click on the `+` with On click change None to Set variable
+![](./imgs/bp_21.png)
 
-![](/docs/variables/variables_number_2024/var_29.png)
+Now create a Variant by clicking on the diamond icon with the **+** from the top menu bar
 
-You will now see Number in Local variables
+![](./imgs/turn_var.png)
 
-![](/docs/variables/variables_number_2024/var_30.png)
+This will create a copy underneath the original frame - drag in the right side so it shrinks to three images wide - as you have used auto layout it will flow the child elements within the main frame
 
-Click on it to add
+It will be the case that the variant box has clipped your design you can drag this out by first clicking at the top on the name of the component Photo then going down and dragging out the bottom of the box
 
-![](/docs/variables/variables_number_2024/var_31.png)
+![](./imgs/bp_23.png)
 
-You will be in the **to** field - click on Number below to add again and select **Addition**
+Now click the purple add variant icon at the bottom of the copied 3 column frame.
 
 
-![](/docs/variables/variables_number_2024/var_32.png)
 
-This will add a `+` after the variable's name
+![](./imgs/bp_24.png)
 
+Now click the purple add variant icon 
 
-![](/docs/variables/variables_number_2024/var_33.png)
+![](./imgs/bp_25.png)
 
-Type 1 and press `Enter` on your keyboard
+A copy will appear
 
-![](/docs/variables/variables_number_2024/var_34.png)
+![](./imgs/bp_26.png)
 
-This will apply to the interaction
+Drag the right side in to flow into a two-column layout.
 
-![](/docs/variables/variables_number_2024/var_35.png)
+![](./imgs/bp_27.png)
 
-![](/docs/variables/variables_number_2024/var_36.png)
+Again, you will see your design clipped you can either drag it out or just again click the **+** to add a new variant and it should push the variant box down to make it larger.
 
-Now select the minus icon on the left
+![](./imgs/bp_28.png)
 
-![](/docs/variables/variables_number_2024/var_37.png)
+A copy will appear
 
-Add Interaction - On click and none to Set variable
+![](./imgs/bp_29.png)
 
-![](/docs/variables/variables_number_2024/var_38.png)
+Drag the right side in to flow into a one-column layout.
 
-Click on the Number variable
+![](./imgs/bp_30.png)
 
-![](/docs/variables/variables_number_2024/var_39.png)
+We will now add Variant Properties
 
-You will be in the to field
+![](./imgs/bp_31.png)
 
-![](/docs/variables/variables_number_2024/var_40.png)
+In the current variant section rename property to **breakpoint **and default to **desktop** then press `RETURN`
 
-Click on Number again to add it and select Subtraction from the dropdown
 
-![](/docs/variables/variables_number_2024/var_41.png)
+![](./imgs/bp_32.png)
 
-it will a a `-` after the variable's name
+Now repeat the process with the rest of the images the property value of **breakpoint** can stay the same 
 
-![](/docs/variables/variables_number_2024/var_42.png)
+Three column should be cold **tablet**
 
-Type in 1 and press `Enter` on your keyboard
+![](./imgs/bp_33.png)
 
-![](/docs/variables/variables_number_2024/var_43.png)
+Two column called **phone**
 
-You should now have this:
+![](./imgs/bp_34.png)
 
-![](/docs/variables/variables_number_2024/var_44.png)
+One column called **small phone**
 
-![](/docs/variables/variables_number_2024/var_45.png)
+![](./imgs/bp_35.png)
 
-Preview your Prototype - adding works well but minus gos dow to negative values - we need it to stop a 0
+All done!
 
-![](/docs/variables/variables_number_2024/minus.gif)
+![](./imgs/bp_36.png)
 
-Select the minus icon on the left
+Create a New Page
 
-![](/docs/variables/variables_number_2024/var_46.png)
+![](./imgs/bp_37.png)
 
-You should still be in the Prototype in the Properties panel - click on the current interaction. You will the see the On click panel open
+Click on the Assets Panel on left & drag out a instance of the Photos Component
 
-![](/docs/variables/variables_number_2024/var_47.png)
+![](./imgs/bp_38.png)
 
-Click on the `+` to add a Conditional
+From the properties panel on the right you now can customise the photo component instant to change the layout to a tablet or a phone or back again
 
-![](/docs/variables/variables_number_2024/var_48.png)
+![](./imgs/bp_39.png)
 
-You should noe see this - we need to set a Condition and am action
+![](./imgs/bp_40.png)
 
-![](/docs/variables/variables_number_2024/var_49.png)
+![](./imgs/bp_41.png)
 
+![](./imgs/bp_42.png)
 
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=bda8bffb-6681-4861-a3a1-b13100990833&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
+![](./imgs/bp_43.png)
 
