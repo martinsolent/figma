@@ -192,10 +192,24 @@ Click on the `+` to add a Conditional
 
 ![](./variables_number_2024/var_48.png)
 
-You should noe see this - we need to set a Condition and am action
+You should now see this - we need to set a Condition and an action which will stop the value going lower than **0**
 
 ![](./variables_number_2024/var_49.png)
 
+
+Once you have selected Conditional, click in the Write Condition then select the Number Variable
+
+Then select Greater than
+
+‘>’  will appear after the Number Variable, type in 0 and press ‘Enter’ on your keyboard
+
+We now need to add an Else action – which will be the same are what we already have set – so we can just copy the Variable Set from the top.
+
+First close the Set by click on the arrow on its left.
+
+Then drag it under the If action.
+
+Now close the panel – and run prototype – it should now go no lower than 0.
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=bda8bffb-6681-4861-a3a1-b13100990833&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player"></iframe>
 
