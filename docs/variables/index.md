@@ -10,39 +10,39 @@ has_toc: false
 
 # Variables - Number
 
-![](/docs/variables/variables_number_2024/minus.gif)
+![](./variables_number_2024/minus.gif)
 
 Create a new Design Project, name it and create a Frame 600 x 400 and call it Home
 
-![](/docs/variables/variables_number_2024/var_1.png)
+![](./variables_number_2024/var_1.png)
 
 Bring in a Minus ico using the Mterial Design Icons (Community) Plug in - Right Mouse to go to plugins (you might to to add from Figma Community uf you have not got access to this plugin)
 
-![](/docs/variables/variables_number_2024/var_2.png)
+![](./variables_number_2024/var_2.png)
 
 Search for Minus
 
-![](/docs/variables/variables_number_2024/var_3.png)
+![](./variables_number_2024/var_3.png)
 
 Click on it to add
 
-![](/docs/variables/variables_number_2024/var_4.png)
+![](./variables_number_2024/var_4.png)
 
 Drag to the frame if needed
 
-![](/docs/variables/variables_number_2024/var_5.png)
+![](./variables_number_2024/var_5.png)
 
 Make it is inside the frame in the Layers panel - in this case it is not 
 
-![](/docs/variables/variables_number_2024/var_6.png)
+![](./variables_number_2024/var_6.png)
 
 So drag the minus-circle frame on the home frame
 
-![](/docs/variables/variables_number_2024/var_7.png)
+![](./variables_number_2024/var_7.png)
 
 In the Properties the size is 24 x 24
 
-![](/docs/variables/variables_number_2024/var_8.png)
+![](./variables_number_2024/var_8.png)
 
 Click on chain icon on the roght to lock H & W, then type in 200 for width and press `Enter` on keyboard
 
