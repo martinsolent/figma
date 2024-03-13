@@ -61,11 +61,67 @@ Your Layer Panel outline on the left will now look like this
 
 ![](./variables_string_2024/spring_10.png)
 
-Now create a new Frame either by press`F` or select it from the top tools bar. In this example Android Large has been selected from the templates on the right
+Now create a new Frame either by press`F` or select it from the top Tools bar. In this example Android Large has been selected from the templates on the right
 
 ![](./variables_string_2024/spring_11.png)
+
+Create 3 100x100 Rectangles at the top of this new frame
+
+![](./variables_string_2024/spring_12.png)
+
+![](./variables_string_2024/spring_13.png)
+
+
+hfghfyfyf
+
+![](./variables_string_2024/spring_14.png)
+
 
 ![](./variables_string_2024/spring_5.png)
 
 
 
+![](./variables_string_2024/assign_blue_2.png)
+
+![](./variables_string_2024/assign_blue.png)
+
+![](./variables_string_2024/assign_9.png)
+
+![](./variables_string_2024/assign_8.png)
+
+![](./variables_string_2024/attach_5.png)
+
+![](./variables_string_2024/attach_4.png)
+
+![](./variables_string_2024/attach_3.png)
+
+![](./variables_string_2024/attach_2.png)
+
+![](./variables_string_2024/attach_1.png)
+
+![](./variables_string_2024/assign_2.png)
+
+![](./variables_string_2024/assign_1.png)
+
+![](./variables_string_2024/assign_var_circle.png)
+
+![](./variables_string_2024/draf_asset_-2.png)
+
+![](./variables_string_2024/drag_asset_1.png)
+
+![](./variables_string_2024/eye_drop.png)
+
+![](./variables_string_2024/spring_24.png)
+
+![](./variables_string_2024/spring_35.png)
+
+![](./variables_string_2024/spring_35.png)
+
+v
+![](./variables_string_2024/spring_36.png)
+
+![](./variables_string_2024/spring_37.png)
+
+![](./variables_string_2024/spring_38.png)
+
+![](./variables_string_2024/spring_39.png)
