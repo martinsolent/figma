@@ -2,12 +2,12 @@
 layout: default
 title: Variables - String
 parent: Variables
-nav_order: 2
+nav_order: 3
 ---
 
 {: .no_toc }
 
-# Variables - String
+# Variables - Strings
 
 ![](./variables_number_2024/add.gif)
 
