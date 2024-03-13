@@ -13,7 +13,7 @@ Create a circle 150x150 - colour it red
 
 ![](./variables_string_2024/spring_.png)
 
-Make it into a componant either rightmove or click on the Create Componant on the top bar
+Make it into a component either right-mouse or click on the Create Component on the top bar
 
 ![](./variables_string_2024/spring_1.png)
 
@@ -72,7 +72,7 @@ Create 3 100x100 Rectangles at the top of this new frame
 ![](./variables_string_2024/spring_13.png)
 
 
-Fill each of the rectangles with their corosonding colurs from the circles in the Variant Set using the Eye Dropper
+Fill each of the rectangles with their corresponding colours from the circles in the Variant Set using the Eye Dropper
 
 ![](./variables_string_2024/eye_drop.png)
 
@@ -88,7 +88,7 @@ and drag a Circles instance underneath.
 
 ![](./variables_string_2024/drag_asset_1.png)
 
-Make sure notthing is selected bu clicking on
+Make sure nothing is selected bu clicking on
 
 ![](./variables_string_2024/spring_24.png)
 
@@ -96,7 +96,7 @@ Select the Circle instance, then from the properties panel on the right - in the
 
 ![](./variables_string_2024/assign_var_circle.png)
 
-
+Select the Red rectangle.
 
 ![](./variables_string_2024/spring_35.png)
 
