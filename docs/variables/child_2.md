@@ -72,12 +72,33 @@ Create 3 100x100 Rectangles at the top of this new frame
 ![](./variables_string_2024/spring_13.png)
 
 
-hfghfyfyf
+Fill each of the rectangles with their corosonding colurs from the circles in the Variant Set using the Eye Dropper
+
+![](./variables_string_2024/eye_drop.png)
+
+
 
 ![](./variables_string_2024/spring_14.png)
 
+In the left panel switch to the Asset tab 
 
-![](./variables_string_2024/spring_5.png)
+![](./variables_string_2024/draf_asset_-2.png)
+
+and drag a Circles instance underneath.
+
+![](./variables_string_2024/drag_asset_1.png)
+
+Make sure notthing is selected bu clicking on
+
+![](./variables_string_2024/spring_24.png)
+
+Select the Circle instance, then from the properties panel on the right - in the instance properties section - click on the Variables icon
+
+![](./variables_string_2024/assign_var_circle.png)
+
+
+
+![](./variables_string_2024/spring_35.png)
 
 
 
@@ -103,17 +124,10 @@ hfghfyfyf
 
 ![](./variables_string_2024/assign_1.png)
 
-![](./variables_string_2024/assign_var_circle.png)
 
-![](./variables_string_2024/draf_asset_-2.png)
 
-![](./variables_string_2024/drag_asset_1.png)
 
-![](./variables_string_2024/eye_drop.png)
 
-![](./variables_string_2024/spring_24.png)
-
-![](./variables_string_2024/spring_35.png)
 
 ![](./variables_string_2024/spring_35.png)
 
@@ -125,3 +139,5 @@ v
 ![](./variables_string_2024/spring_38.png)
 
 ![](./variables_string_2024/spring_39.png)
+
+![](./variables_string_2024/spring_5.png)
