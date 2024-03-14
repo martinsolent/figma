@@ -128,46 +128,28 @@ We only have one variable so select **Select_Colour**
 
 ![](./variables_string_2024/spring_36.png)
 
-In the **to** field type red in lower case it will appear below in speak marks
-
-
+In the **to** field type **red** in lower case it will appear below in speak marks - Press `Enter` on the keyboard.
 
 ![](./variables_string_2024/spring_37.png)
 
+When you click on the Variable tag on the red rectangle it will show its set up
+
+![](./variables_string_2024/tag_one.png)
+
+Now select the blue rectangle and repeat the process but the **to** field needs to be **blue**
 
 ![](./variables_string_2024/assign_blue_2.png)
 
-![](./variables_string_2024/assign_blue.png)
+After you press `Enter` you check the set-up by clicking the tag.
 
-![](./variables_string_2024/assign_9.png)
+![](./variables_string_2024/blue_tag.png)
 
-![](./variables_string_2024/assign_8.png)
-
-![](./variables_string_2024/attach_5.png)
-
-![](./variables_string_2024/attach_4.png)
-
-![](./variables_string_2024/attach_3.png)
-
-![](./variables_string_2024/attach_2.png)
-
-![](./variables_string_2024/attach_1.png)
-
-![](./variables_string_2024/assign_2.png)
-
-![](./variables_string_2024/assign_1.png)
-
-jj
-
-![](./variables_string_2024/spring_35.png)
-
-v
-
-
-
-
-![](./variables_string_2024/spring_38.png)
+Finally select the green rectangle and repeat the process but type **green** in the **to** field
 
 ![](./variables_string_2024/spring_39.png)
 
-![](./variables_string_2024/spring_5.png)
+After you press `Enter` you check the set-up by clicking the tag.
+
+![](./variables_string_2024/green_tag.png)
+
+
