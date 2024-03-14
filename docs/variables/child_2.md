@@ -80,23 +80,37 @@ Fill each of the rectangles with their corresponding colours from the circles in
 
 ![](./variables_string_2024/spring_14.png)
 
-In the left panel switch to the Assets tab 
+In the left panel switch to the **Assets** tab 
 
 ![](./variables_string_2024/draf_asset_-2.png)
 
-and drag a Circles instance underneath.
+and drag a **Circles** instance underneath.
 
 ![](./variables_string_2024/drag_asset_1.png)
 
 Make sure nothing is selected by clicking on the pasteboard or press `ESC` on your keyboard
 
-From the Properties panel on the right in the Local Variables section
+From the **Properties** panel on the right in the **Local Variables** section
 
 ![](./variables_string_2024/spring_24.png)
 
-Select the Circle instance, then from the properties panel on the right - in the instance properties section - click on the Open Variables icon
+Select the Circle instance, then from the Properties panel on the right - in the instance properties section - click on the **Open Variables** icon
+
+![](./variables_string_2024/spring_var.png)
+
+Click on the **Create variable** button and select **String** from the dropdown
+
+The variable **Collection** panel will now open
+
+![](./variables_string_2024/spring_value.png)
+
+Replave the String name a **Select Colour** and the Value a **red**
+
+![](./variables_string_2024/string_naming.png)
 
 ![](./variables_string_2024/assign_var_circle.png)
+
+
 
 Select the Red rectangle.
 
