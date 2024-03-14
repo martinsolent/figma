@@ -108,14 +108,31 @@ Replave the String name a **Select Colour** and the Value a **red**
 
 ![](./variables_string_2024/string_naming.png)
 
+Select the Red rectangle. In the Properties on the right in the Variant Section click on the **Assign Variable** icon
+
 ![](./variables_string_2024/assign_var_circle.png)
 
+From the dropdown select the **select colour** variable
 
+![](./variables_string_2024/assign_v2_1.png)
 
-Select the Red rectangle.
+The circle instance with be now assigned to the **select colour** variable - the label will show this
+
+![](./variables_string_2024/assign_2.png)
+
+Now we need to 'wire-up' the Rectangles, select the red Rectangle - then switch the Design to Prototype in the lef Properties panel. Click on the `+` icon in the **Interactions** section and then change None to **Set Variable** from the dropdown  
 
 ![](./variables_string_2024/spring_35.png)
 
+We only have one variable so select **Select_Colour**
+
+![](./variables_string_2024/spring_36.png)
+
+In the **to** field type red in lower case it will appear below in speak marks
+
+
+
+![](./variables_string_2024/spring_37.png)
 
 
 ![](./variables_string_2024/assign_blue_2.png)
@@ -140,17 +157,14 @@ Select the Red rectangle.
 
 ![](./variables_string_2024/assign_1.png)
 
-
-
-
-
+jj
 
 ![](./variables_string_2024/spring_35.png)
 
 v
-![](./variables_string_2024/spring_36.png)
 
-![](./variables_string_2024/spring_37.png)
+
+
 
 ![](./variables_string_2024/spring_38.png)
 
