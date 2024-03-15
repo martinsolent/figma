@@ -28,11 +28,10 @@ But with a String Variable we would just set it up like this - which involves co
 
 Create a circle 150x150 - colour it red
 
-![](./variables_string_2024/spring_.png)
-
 Make it into a component either right-mouse or click on the Create Component on the top bar
 
-![](./variables_string_2024/spring_1.png)
+![](./variables_string_2024/spring_.png)
+
 
 Now make it into a Variant Set by clicking on the icon on the on the top bar
 
@@ -111,11 +110,15 @@ and drag a **Circles** instance underneath.
 
 ### Creating a Local Variable
 
-We will create a Local Variable which we will use and applied to later in our prototyping.
+We will create a Local Variable which we will use and applied later in our prototyping.
 
 Make sure nothing is selected by clicking on the pasteboard or press `ESC` on your keyboard
 
 From the **Properties** panel on the right in the **Local Variables** section
+
+![](./variables_string_2024/Local_var_set-up.png)
+
+The **Local Variables** panel will appear
 
 ![](./variables_string_2024/spring_24.png)
 
@@ -129,7 +132,7 @@ The variable **Collection** panel will now open
 
 ![](./variables_string_2024/spring_value.png)
 
-Replave the String name a **Select Colour** and the Value a **red**
+Replace the String name a **Select Colour** and the Value a **red**
 
 ![](./variables_string_2024/string_naming.png)
 
