@@ -9,6 +9,23 @@ nav_order: 3
 
 # Variables - Strings
 
+*A [string](https://developer.silverfin.com/docs/what-is-a-string) is a data type used in programming, that is used to represent text rather than numbers. A string is a sequence of characters and can contain letters, numbers, symbols and even spaces. It must be enclosed in quotation marks for it to be recognised as a string.*
+
+We can use Strings in Figma to streamline prototyping for example if we need to create this interaction
+
+
+![](./variables_string_2024/string_example.gif)
+
+We would have create something like this
+
+![](./variables_string_2024/THEN.png)
+
+But with a String Variable we would just set it up like this - which involves controlling a **Variant** with a V**ariable**
+
+![](./variables_string_2024/NOW.png)
+
+### Set-up - Create a Variant Set
+
 Create a circle 150x150 - colour it red
 
 ![](./variables_string_2024/spring_.png)
@@ -45,6 +62,8 @@ Rename it **circles** either in the Layers panel or the label on the Variant Set
 
 ![](./variables_string_2024/rename_cir.png)
 
+### Set-up & Name Component Properties
+
 We need to rename each of the Variants to match their colours. Select the top Red circle and in the Properties Panel on the right, in the Current variant section type in **red** in lowercase
 
 ![](./variables_string_2024/spring_7.png)
@@ -60,6 +79,8 @@ And finally repeat with the Green circle and call it **green** in lowercase
 Your Layer Panel outline on the left will now look like this
 
 ![](./variables_string_2024/spring_10.png)
+
+### Screen Layout
 
 Now create a new Frame either by press`F` or select it from the top Tools bar. In this example Android Large has been selected from the templates on the right
 
@@ -87,6 +108,10 @@ In the left panel switch to the **Assets** tab
 and drag a **Circles** instance underneath.
 
 ![](./variables_string_2024/drag_asset_1.png)
+
+### Creating a Local Variable
+
+We will create a Local Variable which we will use and applied to later in our prototyping.
 
 Make sure nothing is selected by clicking on the pasteboard or press `ESC` on your keyboard
 
@@ -120,11 +145,15 @@ The circle instance with be now assigned to the **select colour** variable - the
 
 ![](./variables_string_2024/assign_2.png)
 
-Now we need to 'wire-up' the Rectangles, select the red Rectangle - then switch the Design to Prototype in the lef Properties panel. Click on the `+` icon in the **Interactions** section and then change None to **Set Variable** from the dropdown  
+### Setting up Variables & Writing Expressions
+
+We now need to set-up the 3 rectangles so when they are clicked they with change the circle to colour to match the rectangle's colour.
+
+Now we need to 'wire-up' the Rectangles, select the red Rectangle - then switch the Design to Prototype in the left Properties panel. Click on the `+` icon in the **Interactions** section and then change **None** to **Set Variable** from the dropdown  
 
 ![](./variables_string_2024/spring_35.png)
 
-We only have one variable so select **Select_Colour**
+We only have one variable set up, so select **Select_Colour**
 
 ![](./variables_string_2024/spring_36.png)
 
@@ -148,8 +177,12 @@ Finally select the green rectangle and repeat the process but type **green** in 
 
 ![](./variables_string_2024/spring_39.png)
 
-After you press `Enter` you check the set-up by clicking the tag.
+After you press `Enter` you check can the set-up by clicking the tag.
 
 ![](./variables_string_2024/green_tag.png)
+
+### Now run your prototype to test
+
+![](./variables_string_2024/string_example.gif)
 
 
