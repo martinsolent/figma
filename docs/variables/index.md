@@ -13,7 +13,7 @@ has_toc: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ONxxlJnvdM?si=GUR8BvU3qKGfiUbe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-A variable stores reusable values like colour and text values that you can apply to different kinds of design properties and prototypes.
+A [variable](https://www.freecodecamp.org/news/variables-in-figma-handbook/) stores reusable values like colour and text values that you can apply to different kinds of design properties and prototypes.
 
 Variables in Figma design store reusable values that can be applied to all kinds of design properties and prototyping actions. They help save time and effort when building designs, managing design systems, and creating complex prototyping flows.
 
