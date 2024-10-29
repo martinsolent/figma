@@ -13,5 +13,20 @@ nav_order: 6
 
 
 
-![](../images/NEW_FIGMA_2024/Workspace_1.png)
+![](../images/NEW_FIGMA_2024/DD_click.png)
+
+![](../images/NEW_FIGMA_2024/frame_iphone_pro.png)
+
+
+![](../images/NEW_FIGMA_2024/lib_kits_select.png)
+
+![](../images/NEW_FIGMA_2024/lib_add_fileOS_kit.png)
+
+![](../images/NEW_FIGMA_2024/Lib_added_close_2.png)
+
+![](../images/NEW_FIGMA_2024/com_appear.png)
+
+
+
+
 
