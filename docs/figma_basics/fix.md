@@ -11,6 +11,8 @@ nav_order: 6
 
 ### Quick Start
 
+![](../images/NEW_FIGMA_2024/quick_start.gif)
+
 #### 1. Setting up a Design File
 
 Create a new Design File
