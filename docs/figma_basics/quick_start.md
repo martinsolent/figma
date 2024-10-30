@@ -9,6 +9,8 @@ nav_order: 6
 
 # Figma Basics
 
+![](../images/NEW_FIGMA_2024/quick_start.gif)
+
 ### Quick Start
 
 #### 1. Setting up a Design File
