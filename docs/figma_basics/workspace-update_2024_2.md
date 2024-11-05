@@ -2,7 +2,7 @@
 layout: default
 title:  Workspace Update 2024
 parent: Figma Basics
-nav_order: 5
+nav_order: 3
 ---
 
 {: .no_toc }

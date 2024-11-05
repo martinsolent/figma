@@ -2,7 +2,7 @@
 layout: default
 title:  Quick Start
 parent: Figma Basics
-nav_order: 6
+nav_order: 5
 ---
 
 {: .no_toc }
