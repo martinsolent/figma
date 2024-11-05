@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Figma Basics
+title:  Workspace Introduction
 parent: Figma Basics
 nav_order: 2
 ---
