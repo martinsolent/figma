@@ -111,3 +111,26 @@ Now add a 6x Radius in the Appearance section
 
 
 ![](../images/Figma_Button_2024/radius_1.png)
+
+![](../images/Figma_Button_2024/auto_layout.png)
+
+![](../images/Figma_Button_2024/button_after_hug.png)
+
+![](../images/Figma_Button_2024/layout_panel_1.png)
+
+![](../images/Figma_Button_2024/layout_panel_2.png)
+
+![](../images/Figma_Button_2024/layout_panel_3.png)
+
+![](../images/Figma_Button_2024/layout_panel_4.png)
+
+![](../images/Figma_Button_2024/Label_1.png)
+
+![](../images/Figma_Button_2024/Label_2.png)
+
+
+![](../images/Figma_Button_2024/Label_3.png)
+
+![](../images/Figma_Button_2024/Label_4.png)
+
+![](../images/Figma_Button_2024/Label_5.png)
