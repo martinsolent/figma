@@ -71,12 +71,7 @@ nav_order: 6
 ![](../images/Figma_Button_2024/img_18.png)
 
 
-13. Click on the Frame Tool
-
-![](../images/Figma_Button_2024/img_1.png)
-
-
-14. Drag out a frame on your **Paste Board**
+14. Click on the Components page in the Pages page. Then Drag out a frame on your **Paste Board**
 
 ![](../images/Figma_Button_2024/img_2.png)
 
@@ -84,10 +79,35 @@ nav_order: 6
 15. Resize in the right **Properties Panel** in the Layout 
 Section to **W150 & H38** 
 
-![](../images/Figma_Button_2024/img_3.png)
-
 
 ![](../images/Figma_Button_2024/img_9.png)
 
 
  **Remember** you can zoom in on a component to fill the pasteboard by pressing Shift + 2
+
+Rename the Frame either in the Frame label or in the Layers panel
+
+
+![](../images/Figma_Button_2024/comp_p_Frame.png)
+
+Name it **Button**
+
+![](../images/Figma_Button_2024/new_name_button.png)
+
+
+Your set-up will now look like this:
+
+![](../images/Figma_Button_2024/comp_button_name.png)
+
+
+Now change the Button colour: In the properties Panel on the right within the Fill section click on the colour swatch to change & close the Colour Panel
+
+![](../images/Figma_Button_2024/button_colour.png)
+
+
+Now add a 6x Radius in the Appearance section
+
+![](../images/Figma_Button_2024/radius_2.png)
+
+
+![](../images/Figma_Button_2024/radius_1.png)
