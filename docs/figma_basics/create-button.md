@@ -179,13 +179,21 @@ Then close the Picker panel - the icon will be white
 
 ![](../images/Figma_Button_2024/icon_7.png)                                      
 
-As before you can drag out the width of the Button to resize
+25. As before you can drag out the width of the Button to resize
 
 ![](../images/Figma_Button_2024/icon_8.png)  
 
-You can also change the gap between the Icon & the Text Label by dragging too
+26. You can also change the gap between the Icon & the Text Label by dragging too
 
-![](../images/Figma_Button_2024/icon_9.png)
+![](../images/Figma_Button_2024/icon_10.png) 
+
+27. **Component Properties**
+
+We will now set Component Properties to customise the Button
+
+First we need to turn the Button into a **Component** Make sure the Button is selected then right-mouse click & **Select Component**
+
+![](../images/Figma_Button_2024/prop_1.png)
 
 
-![](../images/Figma_Button_2024/icon_10.png)  
+![](../images/Figma_Button_2024/.png)
