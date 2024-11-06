@@ -109,28 +109,48 @@ Now add a 6x Radius in the Appearance section
 
 ![](../images/Figma_Button_2024/radius_2.png)
 
+Your Button will look like this
 
 ![](../images/Figma_Button_2024/radius_1.png)
 
+We will now add an [Auto Layout](https://help.figma.com/hc/en-us/articles/5731482952599-Add-auto-layout-to-a-design) to enable responsive design.
+
+First select the Frame, then you can either right-mouse, `SHIFT + A` on the keyboard or from the click on the Auto layout in the Layout section in the Properties Panel in the 
+
+![](../images/Figma_Button_2024/A_Layout_panel.png)
+
+
 ![](../images/Figma_Button_2024/auto_layout.png)
+
+Once applied you will have the ability to customise 
 
 ![](../images/Figma_Button_2024/button_after_hug.png)
 
-![](../images/Figma_Button_2024/layout_panel_1.png)
+Centre - Middle the align
 
 ![](../images/Figma_Button_2024/layout_panel_2.png)
 
+For **H** (Height) change from Hug to Fixed but still on 38 this will mean it will aways be this height but the width can auto change
+
 ![](../images/Figma_Button_2024/layout_panel_3.png)
+
+Close up of the Panel
 
 ![](../images/Figma_Button_2024/layout_panel_4.png)
 
+Now select the Type tool from the Tools `T` on th keyboard & Click inside the the button. The with will collapse - Don't Worry!
+
 ![](../images/Figma_Button_2024/Label_1.png)
+
+In the Typography section of the Properties 
+
+![](../images/Figma_Button_2024/Label_4.png)
 
 ![](../images/Figma_Button_2024/Label_2.png)
 
 
 ![](../images/Figma_Button_2024/Label_3.png)
 
-![](../images/Figma_Button_2024/Label_4.png)
+
 
 ![](../images/Figma_Button_2024/Label_5.png)
