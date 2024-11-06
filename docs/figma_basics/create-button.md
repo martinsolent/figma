@@ -179,11 +179,13 @@ Then close the Picker panel - the icon will be white
 
 ![](../images/Figma_Button_2024/icon_7.png)                                      
 
+As before you can drag out the width of the Button to resize
 
 ![](../images/Figma_Button_2024/icon_8.png)  
 
+You can also change the gap between the Icon & the Text Label by dragging too
 
 ![](../images/Figma_Button_2024/icon_9.png)
-  
+
 
 ![](../images/Figma_Button_2024/icon_10.png)  
