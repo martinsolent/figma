@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sharing
+title: Adding Home Screens
 parent: Sharing
 nav_order: 2
 ---
