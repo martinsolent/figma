@@ -17,6 +17,8 @@ Designing a mock-up of your UI is a great way to visualise and promote your UX/U
 
 ![](../images/mock_up/cover_title.png)
 
+Original UI designs can be found here: [eCommerce Concept - 12 App Screen - Alfonso Severo](https://dribbble.com/shots/2051093-eCommerce-Concept-12-App-Screen)
+
 ### 1. Mock-up Plugin Set-up
 
 First you need to load the **Mockuuups Studio** Plugin from Figma Community.
