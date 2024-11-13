@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web Layout
+title: Web Layout 1
 parent: layout
 nav_order: 3
 ---
