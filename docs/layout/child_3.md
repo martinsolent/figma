@@ -21,9 +21,14 @@ We will also align to a Semantic layout structure use in web dev (HTML5)
 
 We will structure the page layout to reflect this
 
+This is what the structure will look like in the layers panel - The Desktop frame representing the web page and then three nested frames for Header, Body and Footer:
+
+* Desktop_1 
+Header
+Body
+Footer
+
 ![UI Banner](../images/12_col_fig/layers_section.png)
-
-
 
 ![UI Banner](../images/12_col_fig/sections.png)
 
