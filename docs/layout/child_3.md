@@ -10,16 +10,38 @@ nav_order: 4
 # Web Layout
 When prototyping a browser based web site you will need to use a 12 Column Layout guide.
 
-This tutorial is base on Google Material Design System
+This tutorial is base on [Google Material Design System](https://m2.material.io/design/layout/understanding-layout.html#principles)
+
+We will also align to a Semantic layout structure use in web dev (HTML5) 
+
+![UI Banner](../images/12_col_fig/semantic_html.png)
+
+**W3SCHOOLS, 2020.** HTML5 Semantic Elements [viewed 14 November 2024]. Available from: [https://www.w3schools.com/html/html5_semantic_elements.asp](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 
-![UI Banner](../images/12_col_fig/1.png)
+We will structure the page layout to reflect this
 
+This is what the structure will look like in the layers panel - The Desktop frame representing the web page and then three nested frames for Header, Body and Footer:
+
+* Desktop_1 
+Header
+Body
+Footer
+
+![UI Banner](../images/12_col_fig/layers_section.png)
+
+![UI Banner](../images/12_col_fig/sections.png)
+
+1. Create a new Design File
 Now set the following values:
 
 Count: **12**
 Margin: **156**
 Gutter: **16**
+
+![UI Banner](../images/12_col_fig/desk_frame.gif)
+
+![UI Banner](../images/12_col_fig/1.png)
 
 ![UI Banner](../images/12_col_fig/5.png)
 
