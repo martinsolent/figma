@@ -56,6 +56,14 @@ To get round this this they would have to sign up for a Free Figma account, then
 
 ![](../images/proto_share/to_me_1.png)
 
-9. In any case you need to select the user logged in on the test device
+9. In any case you need to select the user logged in on the test device 
 
 ![](../images/proto_share/to_me_2.png)
+
+The computer login will show **Multi-Player Tools**, the test device will have **Click to Follow** Click to follow
+
+![](../images/proto_share/2_avatar.gif)
+
+10. Now when the tester interacts with the prototype on the test device their interactions will be reproduce in the Figma prototype on the computer., so the screen can be recorded for later analyst.
+![](../images/proto_share/final.gif)
+
