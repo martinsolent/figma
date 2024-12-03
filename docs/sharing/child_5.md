@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Share Your Prototype
+title: Testing on a device
 parent: Sharing
 nav_order: 6
 ---
 
 {: .no_toc }
 
-# Share Your Prototype
+# Testing on a device
 You have made your Prototype and it time to share and use it in a UX testing session.
 
 1. Select the first screen (Frame) of your Prototype
@@ -30,34 +30,32 @@ You have made your Prototype and it time to share and use it in a UX testing ses
 
 ![](../images/proto_share/anyone.png)
 
-6. You can share either as a Link (best option) or an embed code to put on a website
 
-![](../images/proto_share/embed.png)
+6. On the test device click on 3 dots top right
+![](../images/proto_share/on_phone_2.PNG)
 
-Code will look like this - **ONLY USE THIS OPTION IT YOU ARE ADDING TO A WEBSITE**
-![](../images/proto_share/imag_8.png)
+Then click view prototype
 
-
-### Is your Prototype running slowly?
-
-If your Prototype is running slowly this might be due to the image file size being too large, you can use the **Downsize Plugin** to reduce image size with Figma.
-
-![](../images/proto_share/imag_10.png)
-
-1. Go back to the Design view - right-mouse on the pasteboard **Plugins > Manage Plugins**
-
-![](../images/proto_share/imag_12.png)
-
-2. Search for **Downsize**
-
-![](../images/proto_share/imag_15.png)
-
-3. Click the **Save** button to install the Plugin
-
-![](../images/proto_share/imag_16.png)
+![](../images/proto_share/on_phone_1.PNG)
 
 
+There are issues with Figma wanting a person who has been sent a link, but does not have Figma account and Figma app opening the Prototype [more details here](https://forum.figma.com/t/sharing-a-prototype-without-having-user-required-to-sign-in-to-figma/40423)
+
+or if they can open it without a Figma account and the Figma app it will not present full screen.
+
+To get round this this they would have to sign up for a Free Figma account, then download the app to open the prototype link which might be a hassle to them or you could use a test who you know has a Figma account and app, **or if doing in-person testing you can use the app set up on your device, which might be the best solution**
+
+**Note:** This only applies to tests on phones or tablets - if UX testing a website, this will not be an issues as it will work in the browser without a log in.
+
+7. The prototype will now open up on the test device.
+
+![](../images/proto_share/app_home.png)
 
 
+8. Check the prototype on your computer. You'll see two users displayed in the top bar. If the tester is logged in using your Figma app, there will be two instances of your avatar. Otherwise, you'll see either their Figma avatar or an anonymous user icon.
 
+![](../images/proto_share/to_me_1.png)
 
+9. In any case you need to select the user logged in on the test device
+
+![](../images/proto_share/to_me_2.png)
