@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Share Your Prototype
+title: Downsize Images
 parent: Sharing
 nav_order: 7
 ---
