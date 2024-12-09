@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Figma Community Profile
-parent: Sharing
+parent: Prototyping
 nav_order: 5
 ---
 

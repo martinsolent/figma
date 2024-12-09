@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Testing on a device
-parent: Sharing
+parent: Prototyping
 nav_order: 6
 ---
 

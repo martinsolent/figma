@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Online Portfolios
-parent: Sharing
+parent: Prototyping
 nav_order: 4
 ---
 

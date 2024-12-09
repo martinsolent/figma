@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Downsize Images
-parent: Sharing
+parent: Prototyping
 nav_order: 7
 ---
 

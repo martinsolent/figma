@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mock-ups
-parent: Sharing
+parent: Prototyping
 nav_order: 3
 ---
 
