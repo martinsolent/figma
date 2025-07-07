@@ -13,6 +13,8 @@ nav_order: 5
 
 ![](../images/NEW_FIGMA_2024/quick_start.gif)
 
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5433d943-8327-4343-9408-b3130160b10e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Figma Quick Start 2025" ></iframe>
+
 #### 1. Setting up a Design File
 
 Create a new Design File
