@@ -11,6 +11,19 @@ nav_order: 8
 
 ### 1. Set Up Your Document
 - Open a new design file and name it **Buttons**.
+- Click on **ASSETS** 
+- Click **Library icon**
+
+![](../images/figma_new_button/Screenshot%202025-11-13%20085537.png)
+
+
+Search for Material Design Icons (Community) & click **Add to file**
+
+![](../images/figma_new_button/Screenshot%202025-11-13%20085742.png)
+
+The Library will appear in  **Assets** Then click **File** to return to your design
+![](../images/figma_new_button/Screenshot%202025-11-13%20085804%20copy.png)
+
 
 ### 2. Create the Button Frame
 - Use the toolbar or press **F** on your keyboard to draw a frame.
