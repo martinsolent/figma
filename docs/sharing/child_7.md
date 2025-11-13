@@ -16,3 +16,106 @@ Creating a prototype in Figma that allows users to fill in text fields can be ch
 
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=2baee47b-01de-471f-9ddf-b22501802ea1&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Prototype - Text Field Walk-through" ></iframe>
+
+
+## Set-up
+
+1.  Go to the COM416 Figma Team, select **All Projects**, then open the **Text Field Issues** project.
+
+![](../images/text_sim/text_SOL_1.png)
+
+2.  You will be given a file number to go to, rename and use in this task.
+
+![](../images/text_sim/text_SOL_8.png)
+
+3.  Right-click the file and select **Rename**.
+
+![](../images/text_sim/text_SOL_6.png)
+
+4.  Add your name.
+
+![](../images/text_sim/text_SOL_7.png)
+
+5.  Bring in two Component Libraries - click the library icon in the left panel.
+
+![](../images/text_sim/text_SOL_2.png)
+
+6.  Add **Material 3** & **Simple Design Systems/kits**, then close the panel.
+
+![](../images/text_sim/text_SOL_3.png)
+
+Or select from **UI Kits**:
+
+![](../images/text_sim/text_SOL_4.png)
+
+***
+
+## Steps to Simulate Text Input
+
+7.  Duplicate **Screen 1** - select the Frame.
+
+![](../images/text_sim/TEXT_WT_%202.png)
+
+8.  On PC: `CTRL + D` | On Mac: `CMD + D` - rename duplication **Screen\_2**.
+
+![](../images/text_sim/TEXT_WT_9.png)
+
+9.  Zoom in on the text field on **Screen\_2** - select the email section.
+
+![](../images/text_sim/TEXT_WT_4.png)
+
+10. Change **Placeholder** to **Default** to make input text black.
+
+![](../images/text_sim/TEXT_WT_5.png)
+
+11. In the value field in the right panel add a fake email.
+
+![](../images/text_sim/TEXT_WT_6.png)
+
+12. Repeat for Password: **Value Type** → **Default**, Value → `******`.
+
+![](../images/text_sim/TEXT_WT_7.png)
+
+13. Zoom out to view screens:
+
+![](../images/text_sim/TEXT_WT_8.png)
+
+14. Move screens left to make space for **Screen\_3**.
+
+![](../images/text_sim/TEXT_WT_9.png)
+
+15. Duplicate **Screen\_2** again, rename **Screen\_3**, delete **Log-in** component.
+
+![](../images/text_sim/TEXT_WT_%2011.png)
+
+16. Layout will look like this:
+
+![](../images/text_sim/Screenshot%202025-11-11%20114044.png)
+
+17. In Assets in the right Panel search for **Review Card** with is part of the **Simple Design system**
+
+![](../images/text_sim/Screenshot%202025-11-11%20125313.png)
+
+18. Drag and drop to **Screen_3**
+
+![](../images/text_sim/Screenshot%202025-11-11%20125337.png)
+
+19. In your layers on in the left panel make sure the numbering runs top to bottom if not drag to re-arrange - make sure Frame folders are closed before you do this:
+
+![](../images/text_sim/Screenshot%202025-11-11%20114210.png)
+
+20. Switch to Prototype mode in the right properties panel
+
+![](../images/text_sim/Screenshot%202025-11-11%20115552.png)
+
+21. On **Screen_1** click and select the log-in component - a circle connection dot will appear drag this to **Screen_2** to link to it
+
+![](../images/text_sim/Screenshot%202025-11-11%20114318.png)
+
+On **Screen_2** click and select the Sign In button - a circle connection dot will appear drag this to **Screen_3** to link to it
+
+![](../images/text_sim/Screenshot%202025-11-11%20114349.png)
+
+00. Final layout:
+
+![](../images/text_sim/TEXT_WT_1.png)
