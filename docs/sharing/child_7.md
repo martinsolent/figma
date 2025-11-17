@@ -16,7 +16,7 @@ Creating a prototype in Figma that allows users to fill in text fields can be ch
  
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; margin: 24px 0;">
-	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=9526b42f-4402-4e28-85a5-b39301612981&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" title="Figma Text Prototype Text Input"><iframe>
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=9526b42f-4402-4e28-85a5-b39301612981&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" title="Figma Text Prototype Text Input"></iframe>
 </div>
 
  
@@ -24,32 +24,27 @@ Creating a prototype in Figma that allows users to fill in text fields can be ch
   <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=2baee47b-01de-471f-9ddf-b22501802ea1&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" title="Prototype - Text Field Walk-through"></iframe>
 </div>
 
-**Plugins for adding Text into fields on Figma prototypes Available from Figma community**
+### Plugin Resources
 
-**Interactive text input fields for keyboards (mobile and desktop)**
+**Plugins for adding text into fields on Figma prototypes (Figma Community)**
 
-![](../images/txt_plugs/Picture%201.png)
+1. **Interactive Text Input Fields (mobile & desktop)**  
+	![Interactive text input fields screenshot](../images/txt_plugs/Picture%201.png)  
+	[Open on Figma](https://www.figma.com/community/file/1327351869279090015/interactive-text-input-fields-for-keyboards-mobile-and-desktop)
 
-[interactive-text-input-fields-for-keyboards-mobile-and-desktop](https://www.figma.com/community/file/1327351869279090015/interactive-text-input-fields-for-keyboards-mobile-and-desktop)
+2. **Text Inputs for Prototypes**  
+	![Text inputs for prototypes screenshot](../images/txt_plugs/Picture%202.png)  
+	[Open on Figma](https://www.figma.com/community/file/1253625006223812080)
 
-**Text Inputs for Prototypes**
-![](../images/txt_plugs/Picture%202.png)
+3. **Google reCAPTCHA v2 (checkbox & invisible badge)**  
+	![Google reCAPTCHA components screenshot](../images/txt_plugs/Picture%203.png)  
+	[Open on Figma](https://www.figma.com/community/file/882757166127187575)
 
-[https://www.figma.com/community/file/1253625006223812080 ](https://www.figma.com/community/file/1253625006223812080)
+4. **Interactive Text Fields – Typing with Keyboard**  
+	![Interactive keyboard typing fields screenshot](../images/txt_plugs/Picture%204.png)  
+	[Open on Figma](https://www.figma.com/community/file/1437033953557395543)
 
-**Google reCAPTCHA v2 checkbox and invisible badge**
-
-![](../images/txt_plugs/Picture%203.png)
-
-[https://www.figma.com/community/file/882757166127187575](https://www.figma.com/community/file/882757166127187575)
-
-Interactive text fields: typing with keyboard
-
-![](../images/txt_plugs/Picture%204.png)
-
-[https://www.figma.com/community/file/1437033953557395543](https://www.figma.com/community/file/1437033953557395543)
-
-[Download Text Input Figma Plugins PDF](../images/Plugins%20for%20adding%20text%202%20fields%20in%20Figma%20prototypes.pdf)
+**Download:** [Text Input Figma Plugins PDF](../images/Plugins%20for%20adding%20text%202%20fields%20in%20Figma%20prototypes.pdf)
 
 
 ## Setup
