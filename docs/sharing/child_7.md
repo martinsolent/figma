@@ -49,6 +49,8 @@ Interactive text fields: typing with keyboard
 
 [https://www.figma.com/community/file/1437033953557395543](https://www.figma.com/community/file/1437033953557395543)
 
+[Download Text Input Figma Plugins PDF](../images/Plugins%20for%20adding%20text%202%20fields%20in%20Figma%20prototypes.pdf)
+
 ## Set-up
 
 1.  Go to the COM416 Figma Team, select **All Projects**, then open the **Text Field Issues** project.
