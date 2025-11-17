@@ -81,7 +81,6 @@ Or select from **UI Kits**:
 
 ![](../images/text_sim/text_SOL_4.png)
 
-***
 
 ## Steps to Simulate Text Input
 
