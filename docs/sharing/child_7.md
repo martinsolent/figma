@@ -48,114 +48,11 @@ Creating a prototype in Figma that allows users to fill in text fields can be ch
 
 
 ## Setup
-
-<!--
-
-1.  Go to the COM416 Figma Team, select **All Projects**, then open the **Text Field Issues** project.
-
-![](../images/text_sim/text_SOL_1.png)
-
-2.  You will be given a file number to go to, rename and use in this task.
-
-![](../images/text_sim/text_SOL_8.png)
-
-3.  Right-click the file and select **Rename**.
-
-![](../images/text_sim/text_SOL_6.png)
-
-4.  Add your name.
-
-![](../images/text_sim/text_SOL_7.png)
-
-5.  Bring in two Component Libraries - click the library icon in the left panel.
-
-![](../images/text_sim/text_SOL_2.png)
-
-6.  Add **Material 3** & **Simple Design Systems/kits**, then close the panel.
-
-![](../images/text_sim/text_SOL_3.png)
-
-Or select from **UI Kits**:
-
-![](../images/text_sim/text_SOL_4.png)
-
-
-## Steps to Simulate Text Input
-
-7.  Duplicate **Screen 1** - select the Frame.
-
-![](../images/text_sim/TEXT_WT_%202.png)
-
-8.  On PC: `CTRL + D` | On Mac: `CMD + D` - rename duplication **Screen\_2**.
-
-![](../images/text_sim/TEXT_WT_9.png)
-
-9.  Zoom in on the text field on **Screen\_2** - select the email section.
-
-![](../images/text_sim/TEXT_WT_4.png)
-
-10. Change **Placeholder** to **Default** to make input text black.
-
-![](../images/text_sim/TEXT_WT_5.png)
-
-11. In the value field in the right panel add a fake email.
-
-![](../images/text_sim/TEXT_WT_6.png)
-
-12. Repeat for Password: **Value Type** → **Default**, Value → `******`.
-
-![](../images/text_sim/TEXT_WT_7.png)
-
-13. Zoom out to view screens:
-
-![](../images/text_sim/TEXT_WT_8.png)
-
-14. Move screens left to make space for **Screen\_3**.
-
-![](../images/text_sim/TEXT_WT_9.png)
-
-15. Duplicate **Screen\_2** again, rename **Screen\_3**, delete **Log-in** component.
-
-![](../images/text_sim/TEXT_WT_%2011.png)
-
-16. Layout will look like this:
-
-![](../images/text_sim/Screenshot%202025-11-11%20114044.png)
-
-17. In Assets in the right Panel search for **Review Card** with is part of the **Simple Design system**
-
-![](../images/text_sim/Screenshot%202025-11-11%20125313.png)
-
-18. Drag and drop to **Screen_3**
-
-![](../images/text_sim/Screenshot%202025-11-11%20125337.png)
-
-19. In your layers on in the left panel make sure the numbering runs top to bottom if not drag to re-arrange - make sure Frame folders are closed before you do this:
-
-![](../images/text_sim/Screenshot%202025-11-11%20114210.png)
-
-20. Switch to Prototype mode in the right properties panel
-
-![](../images/text_sim/Screenshot%202025-11-11%20115552.png)
-
-21. On **Screen_1** click and select the log-in component - a circle connection dot will appear drag this to **Screen_2** to link to it
-
-![](../images/text_sim/Screenshot%202025-11-11%20114318.png)
-
-On **Screen_2** click and select the Sign In button - a circle connection dot will appear drag this to **Screen_3** to link to it
-
-![](../images/text_sim/Screenshot%202025-11-11%20114349.png)
-
-00. Final layout:
-
-![](../images/text_sim/TEXT_WT_1.png)
-
--->
-----------------------------------------------------------
-
-![](../images/text_input_n/Screenshot%202025-11-18%20174657.png)
+We are going to create three screens that simulate typing an email address and password to log into an application. When it comes to user testing, it may not always be necessary to simulate something as basic as a login; however, this serves as an example of how you can simulate entering text into fields, which may not be possible in a Figma prototype.
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20174715.png)
+
+
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20174857.png)
 
@@ -175,71 +72,128 @@ On **Screen_2** click and select the Sign In button - a circle connection dot wi
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20180952.png)
 
+Screen 1 is now complete.
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20181019.png)
+
+Press ``Alt and Shift`` on your keyboard, hover over Screen 1, and drag to the right to create a copy. Rename this new screen to Screen 2, either by updating the frame label or within the Layers panel.
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20181147.png)
 
+Now, hover over Screen 2, then hold down the Alt and Shift keys on your keyboard and drag to the right to create a copy—this will become Screen 3.
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20181252.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20181302.png)
+
+
+ALT drag Screen 2 to right to copy it - then re-name it Screen 3
+
+In the Layers panel, make sure the frames for each screen are arranged in order: one, two, and three. If they’re not, drag them into the correct sequence. It’s a good idea to close each frame before you do this, to make organising them easier.
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20181335.png)
 
+On screen 3 highlight the log-in component delete it
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20181342.png)
+
+ Click on Assets in the right panel
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20181348.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20181408.png)
+Select the simple design system then search for Review Card
+
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20181426.png)
 
+Then drag and drop it onto screen 3 adjust if necessary
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20181437.png)
+
+ In the panel on the right click on Files to see the layer list You may need to open up screen 3
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20181451.png)
 
+In the right Properties panel change Design to Prototype
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20181506.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20181532.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20181546.png)
+Open Screen 2 in the layers
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20181644.png)
 
+Click on ``Form Log In`` to highlight this component, press ``Shift 2`` on your keyboard to zoom in
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20181702.png)
+
+ Select the e-mail input field either by selecting it in the layers or within the design
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20181710.png)
 
+In the properties on the right change the value type From Default Placeholder and in the value field type in a fake e-mail address
+
+
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20181826.png)
+
+This will now appear in the e-mail field now select the password input field either in the layers or within the design
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20181837.png)
 
+
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20181930.png)
+
+ With it selected in the properties change value type from default to placeholder
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20181942.png)
 
+ In the value field type in four stars ``****`` to represent a password. This will now appear in the password field
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20181947.png)
+
+
+Delete??
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20182009.png)
 
+Delete??
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20182019.png)
+
+c
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20182040.png)
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20182049.png)
 
+Highlight the Log In  component on screen 2, you will see a blue circle with a + click this
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20182103.png)
+
+ and drag out a flow arrow to screen 3 an interaction pop-up will appear with the default settings, you can now close this
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20182112.png)
 
+We will now create a link back to the home screen, click on the hamburger icon for the blue circle with + to appear. (On a real design you would change this to a more appropriate icon like a back arrow)
+
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20182128.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182138.png)
+drag out a flow arrow to link back to screen 1 (Home) interaction popup will appear with the default settings you can now close this
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20182155.png)
 
+Now run/present your prototype, the click on the e-mail field to simulate typing in
+
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20182221.png)
 
+This will automatically take you to screen 2 where the e-mail and password will appear in the fields
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20182229.png)
+
+Now click on the sign in button to move on to through screen 3
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20182237.png)
 
