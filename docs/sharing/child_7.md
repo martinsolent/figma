@@ -147,3 +147,8 @@ On **Screen_2** click and select the Sign In button - a circle connection dot wi
 00. Final layout:
 
 ![](../images/text_sim/TEXT_WT_1.png)
+
+
+----------------------------------------------------------
+
+![]()
