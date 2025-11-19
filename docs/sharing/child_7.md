@@ -308,6 +308,29 @@ Next, select the password block. In the properties panel on the right, make sure
 
 
 
+### Prototyping - Linking Screens together
+
+In the properties panel, switch from Design to Prototype. In this example, we're targeting an Android Compact Bezel
+
+Highlight the login component on Screen 1, then hover your mouse over the box and drag a flow connection to Screen 2. You can then close the interaction pop-up.
+
+
+
+![](./final_text_picts/Recording%202025-11-19%20222854.gif)
+
+Click to highlight the Sign In button on Screen 2, then drag out a flow connection to Screen 3. You can then close the interaction pop-up.
+
+
+![](./final_text_picts/Recording%202025-11-19%20223014.gif)
+
+
+Finally, we’ll use the back arrow on the top menu bar on Screen 3 to link back to Screen 1. Highlight the back icon, then drag out a flow connection to Screen 1. You can then close the interaction pop-up.
+
+![](./final_text_picts/Recording%202025-11-19%20223141.gif)
+
+Now we can run and present our prototype. At the top of the properties panel, click the play button to launch it. If you click on the email field as if you’re typing your email and password, it will automatically take you to the next screen, where the email and password are pre-populated. Then, click the Sign In button to enter your application. This is how you can simulate adding text within a prototype.Text Field Issues-
+
+![](./final_text_picts/Recording%202025-11-19%20223330.gif)
 
 
 
@@ -322,14 +345,12 @@ Next, select the password block. In the properties panel on the right, make sure
 
 
 
-
-
-
-
-___________________________________________
+<!-->
 
 If you have several Design System Kits in your Assets, you'll need to select the one you want to search.
 
 ![](./text_update/lib_switch_assets_SD.png)
 
 ![](./text_update/lib_switch_assets_MD.png)
+
+
