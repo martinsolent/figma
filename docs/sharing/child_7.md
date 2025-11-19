@@ -119,6 +119,47 @@ Drag **App Bar** onto the screen
 
 ![](./final_text_picts/drag_app_bar.png)
 
+
+
+## Adding an Avatar 
+
+Select the placeholder image inside the Avatar, selecting it in the Layers is the best approach
+
+![](./final_text_picts/av_first_select_img_laayer.png)
+
+
+Now ``SHIFT + 2`` to zoom in on avatar image
+
+![](./final_text_picts/add_av_1.png)
+
+Use either **Unsplash** or **User Profile/Avatar** plug-in - right mouse to open and select plug-ins
+
+![](./final_text_picts/add_av_2.png)
+
+In this example we are on using Unsplash and we are searching for a face image
+
+![](./final_text_picts/add_av_3.png)
+
+We will select square and free license
+
+![](./final_text_picts/add_av_4.png)
+
+Choose an image
+![](./final_text_picts/add_av_5.png)
+
+This will swop out the placeholder
+
+![](./final_text_picts/add_av_6.png)
+
+``SHIFT + 1`` to zoom back out
+
+![](./final_text_picts/av_complete.png)
+
+
+
+
+
+
 **Add the Bottom App Bar Component**
 
 Search for ``Bottom app bar`` in the Material design 3 library
@@ -227,214 +268,68 @@ Then drag and drop it onto Screen 3, positioning it in the centre if needed.
 
 
 
+**Change the menu icon on the top app bar on Screen 3.**
 
+On Screen 3, select the **hamburger icon** on the left side of the top app bar. Go to the Icon section in the left properties panel. From the dropdown where Menu is selected, search for Back, then click to select arrow back.
 
-![](../images)
+![](./final_text_picts/back_1.png)
 
-In the right Properties panel change Design to Prototype
 
-![](../images)
+Back Arrow added
 
+![](./final_text_picts/back_2.png)
 
-Open Screen 2 in the layers
 
-![](../images/)
+## Prototyping Setup
 
-Click on ``Form Log In`` to highlight this component, press ``Shift 2`` on your keyboard to zoom in
-:
-![](../)
+In the right **Properties** panel change Design to Prototype
 
- Select the e-mail input field either by selecting it in the layers or within the design
 
-![](../images/)
+On **Screen 2** Click on **Log In** to highlight this component
 
-In the properties on the right change the value type From Default Placeholder and in the value field type in a fake e-mail address
+![](./final_text_picts/email_pass_1.png)
 
+Press ``Shift 2`` on your keyboard to zoom in
 
+![](./final_text_picts/email_pass_2.png)
 
-![](../images/)
 
-This will now appear in the e-mail field now select the password input field either in the layers or within the design
+Highlight the email block and, in the properties panel on the right, make sure the value type is set to Placeholder. If it isn’t, change it using the dropdown. 
+![](./final_text_picts/email_pass_3.png)
 
-![](../images/)
+In the value field, type in a fake email address.
 
 
-Delete 
-![](../images/t)
+![](./final_text_picts/email_pass_4.png)
 
- With it selected in the properties change value type from default to placeholder
-Delete Swop:
-![](../images/)
+Next, select the password block. In the properties panel on the right, make sure the value type is also set to Placeholder. In the value field, type four asterisks (****) to represent a password, then press Enter on your keyboard.
 
- In the value field type in four stars ``****`` to represent a password. This will now appear in the password field
-Delete Swop:
+![](./final_text_picts/eamailPass_5.png)
 
-![](../images/text_input_n/)
 
 
-Delete??
 
-![](../images/text_input_n/)
 
-Delete??
 
-![](../images/text_input_n/)
 
-c
 
-![](../images/text_input_n/)
 
-![](../images/text_input_n/)
 
-Highlight the Log In  component on screen 2, you will see a blue circle with a + click this
 
-![](../images/text_input_n/)
 
- and drag out a flow arrow to screen 3 an interaction pop-up will appear with the default settings, you can now close this
 
-![](../images/text_input_n/)
 
-We will now create a link back to the home screen, click on the hamburger icon for the blue circle with + to appear. (On a real design you would change this to a more appropriate icon like a back arrow)
 
 
-![](../images/text_input_n/)
 
-drag out a flow arrow to link back to screen 1 (Home) interaction popup will appear with the default settings you can now close this
 
-![](../images/text_input_n)
 
-Now run/present your prototype, the click on the e-mail field to simulate typing in
 
 
-
-
-This will automatically take you to screen 2 where the e-mail and password will appear in the fields
-
-
-
-Now click on the sign in button to move on to through screen 3
-
-![](../images/text_input_n/#)
-
-
-Remember:
-
-![](../images/text_input_n/)
-
-## Adding an Avatar 
-
-Select the placeholder image inside the Avatar, selecting it in the Layers is the best approach
-
-![](./final_text_picts/av_first_select_img_laayer.png)
-
-
-Now ``SHIFT + 2`` to zoom in on avatar image
-
-![](./final_text_picts/add_av_1.png)
-
-Use either **Unsplash** or **User Profile/Avatar** plug-in - right mouse to open and select plug-ins
-
-![](./final_text_picts/add_av_2.png)
-
-In this example we are on using Unsplash and we are searching for a face image
-
-![](./final_text_picts/add_av_3.png)
-
-We will select square and free license
-
-![](./final_text_picts/add_av_4.png)
-
-Choose an image
-![](./final_text_picts/add_av_5.png)
-
-This will swop out the placeholder
-
-![](./final_text_picts/add_av_6.png)
-
-``SHIFT + 1`` to zoom back out
-
-![](./final_text_picts/av_complete.png)
-
-
-
-
-
-
-
-
-
-
-![](./final_text_picts/name_sc_1.png)
-
-
-
-
-
+___________________________________________
 
 If you have several Design System Kits in your Assets, you'll need to select the one you want to search.
 
 ![](./text_update/lib_switch_assets_SD.png)
 
 ![](./text_update/lib_switch_assets_MD.png)
-
-
-Hover +
-![](./text_update/B_out_ready_sc_3.png)
-
-Back arrow change
-![](./text_update/back_arrow_change.png)
-
-Back arrow flows
-![](./text_update/back_arrow_flow.png)
-Back ready
-
-![](./text_update/back_but_ready.png)
-
-
-default_to_placeholder
-![](./text_update/default_to_placeholder.png)
-
-All Flows
-![](./text_update/new_flows.png)
-
-place_defualt_whole
-![](./text_update/place_defualt_whole.png)
-
-sc_1_flow_sc_2
-![](./text_update/sc_1_flow_sc_2.png)
-
-
-sign_but_to_sc3
-![](./text_update/sign_but_to_sc3.png)
-
-sign_click_to_sc_2
-![](./text_update/sign_click_to_sc_2.png)
-
-
-sign_in_but_start
-![](./text_update/sign_in_but_start.png)
-
-swop_back_arrow
-![](./text_update/swop_back_arrow.png)
-
-
-![](./text_update/)
-
-
-
-
-Make sure the Forn Login is select eith in the layers of non screen
-
-![](./final_text_picts/scree_1_ready_to_zoom.png)
-
-Press ``SHIFT + 2`` to zoom in
-
-![](./text_update/add_email.png)
-
-Select the Log In Form compnonent either on the screen or in the Layers
-
-![](./final_text_picts/scree_1_ready_to_zoom.png)
-
-![](./final_text_picts/)
-
-Screen 1 is now complete.
