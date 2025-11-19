@@ -148,9 +148,27 @@ Then drag it onto the screen & prosition
 
 ![](./final_text_picts/drag_form_log_in.png)
 
+**Update Headline on Labal on Top App Bar**
+
+We now need to change the generic label on the top app bar headline.
+
+Click the top app bar to select it, either directly on the screen or from the layers outline.
+
+![](./final_text_picts/label_0.png)
+
+Press ``Shift + 2`` on your keyboard to zoom in on the component.
+
+In the properties panel on the right, go down to the Headline field. Replace the word Label with Sign in, press Enter on your keyboard, and the headline title in the component will update.
+
+![](./final_text_picts/label_2.png)
+
+You can now press ``Shift + 1`` on your keyboard to zoom back out to full view.
+
+![](./final_text_picts/zoom_out_sc1.png)
+
 **Final Check**
 
-In the left panel change **Assests to File**
+In the left panel make sure you have **File** not **Assests**
 
 
 ![](./text_update/Assest_click.png)
@@ -169,40 +187,47 @@ Press ``Alt and Shift`` on your keyboard, hover over Screen 1, and drag to the r
 
 ![](./final_text_picts/Recording%202025-11-19%20202359.gif)
 
-Now, hover over Screen 2, then hold down the Alt and Shift keys on your keyboard and drag to the right to create a copy—this will become Screen 3.
 
-D
-![](../images/)
+### Create Screen 3
 
+Now, hover over Screen 2, then hold down the ``Alt and Shift`` keys on your keyboard and drag to the right to create a copy, this will become Screen 3, just like with the screen 2, Figma usually updates the label automatically. If it doesn’t, you’ll need to update it manually.
 
-
-ALT drag Screen 2 to right to copy it - then re-name it Screen 3
-
-In the Layers panel, make sure the frames for each screen are arranged in order: one, two, and three. If they’re not, drag them into the correct sequence. It’s a good idea to close each frame before you do this, to make organising them easier.
-
-:
-![](../images/#)
-
-On screen 3 highlight the log-in component delete it
+![](./final_text_picts/Recording%202025-11-19%20210210.gif)
 
 
-![](../images/)
 
- Click on Assets in the right panel
+#### Adjust Screen Layers
+
+In the Layers panel, make sure the frames for each screen are arranged in order: 1, 2and 3. If they’re not, drag them into the correct sequence. It’s a good idea to close each frame before you do this, to make organising them easier.
+
+![](./final_text_picts/sc_layer_final.gif)
+
+Select the **Log In** component on Screen 3 and delete it.
+
+![](./final_text_picts/Recording%202025-11-19%20211403.gif)
+
+We’ll now update the headline title on the top app bar and change it to **Review**.
+
+Click to select the component, then go to the properties panel on the right. Scroll down to the Headline field in the app bar component settings, type **Review** to replace the existing text, and press Enter to apply the change.
 
 
-![](../images/)
-
-Select the simple design system then search for Review Card
+![](./final_text_picts/review_33.png)
 
 
-![](../images/)
+**Add the final component to Screen 3.** On the panel on the left, make sure you're in the **Assets** tab and using the **Simple Design Kit**. You might need to select this kit in the Assets panel before searching. 
 
-Then drag and drop it onto screen 3 adjust if necessary
+![](./final_text_picts/kit_switch.png)
 
-![](../images/)
 
- In the panel on the right click on Files to see the layer list You may need to open up screen 3
+Once you're in the right kit, search for the ``Review Card`` component
+
+Then drag and drop it onto Screen 3, positioning it in the centre if needed.
+
+![](./final_text_picts/rev_comp.png)
+
+
+
+
 
 ![](../images)
 
