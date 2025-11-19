@@ -50,38 +50,64 @@ Creating a prototype in Figma that allows users to fill in text fields can be ch
 ## Setup
 We are going to create three screens that simulate typing an email address and password to log into an application. When it comes to user testing, it may not always be necessary to simulate something as basic as a login; however, this serves as an example of how you can simulate entering text into fields, which may not be possible in a Figma prototype.
 
-![](../images/text_input_n/Screenshot%202025-11-18%20174715.png)
+![](./text_update/all_text_screens.png)
+
+Add email
+![](./text_update/add_email.png)
+
+Hover +
+![](./text_update/B_out_ready_sc_3.png)
+
+Back arrow chenges
+![](./text_update/back_arrow_change.png)
+
+Back arrow flows
+![](./text_update/back_arrow_flow.png)
+Back ready
+
+![](./text_update/back_but_ready.png)
 
 
+default_to_placeholder
+![](./text_update/default_to_placeholder.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20174857.png)
+All Flows
+![](./text_update/new_flows.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20174918.png)
+place_defualt_whole
+![](./text_update/place_defualt_whole.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20174932.png)
+sc_1_flow_sc_2
+![](./text_update/sc_1_flow_sc_2.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20174946.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20175037.png)
+sign_but_to_sc3
+![](./text_update/sign_but_to_sc3.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20175253.png)
+sign_click_to_sc_2
+![](./text_update/sign_click_to_sc_2.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20175402.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20180735.png)
+sign_in_but_start
+![](./text_update/sign_in_but_start.png)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20180952.png)
+swop_back_arrow
+![](./text_update/swop_back_arrow.png)
 
 Screen 1 is now complete.
 
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181019.png)
 
 Press ``Alt and Shift`` on your keyboard, hover over Screen 1, and drag to the right to create a copy. Rename this new screen to Screen 2, either by updating the frame label or within the Layers panel.
 
+
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181147.png)
 
 Now, hover over Screen 2, then hold down the Alt and Shift keys on your keyboard and drag to the right to create a copy—this will become Screen 3.
 
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181252.png)
 
 
@@ -90,19 +116,22 @@ ALT drag Screen 2 to right to copy it - then re-name it Screen 3
 
 In the Layers panel, make sure the frames for each screen are arranged in order: one, two, and three. If they’re not, drag them into the correct sequence. It’s a good idea to close each frame before you do this, to make organising them easier.
 
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181335.png)
 
 On screen 3 highlight the log-in component delete it
 
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181342.png)
 
  Click on Assets in the right panel
 
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181348.png)
 
 Select the simple design system then search for Review Card
 
-
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181426.png)
 
 Then drag and drop it onto screen 3 adjust if necessary
@@ -110,46 +139,46 @@ Then drag and drop it onto screen 3 adjust if necessary
 ![](../images/text_input_n/Screenshot%202025-11-18%20181437.png)
 
  In the panel on the right click on Files to see the layer list You may need to open up screen 3
-
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181451.png)
 
 In the right Properties panel change Design to Prototype
-
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181506.png)
 
 
 Open Screen 2 in the layers
-
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181644.png)
 
 Click on ``Form Log In`` to highlight this component, press ``Shift 2`` on your keyboard to zoom in
-
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181702.png)
 
  Select the e-mail input field either by selecting it in the layers or within the design
-
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181710.png)
 
 In the properties on the right change the value type From Default Placeholder and in the value field type in a fake e-mail address
 
-
+Delete Swop:
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20181826.png)
 
 This will now appear in the e-mail field now select the password input field either in the layers or within the design
-
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181837.png)
 
 
-
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181930.png)
 
  With it selected in the properties change value type from default to placeholder
-
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181942.png)
 
  In the value field type in four stars ``****`` to represent a password. This will now appear in the password field
-
+Delete Swop:
 ![](../images/text_input_n/Screenshot%202025-11-18%20181947.png)
 
 
@@ -187,14 +216,72 @@ drag out a flow arrow to link back to screen 1 (Home) interaction popup will app
 Now run/present your prototype, the click on the e-mail field to simulate typing in
 
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182221.png)
+
 
 This will automatically take you to screen 2 where the e-mail and password will appear in the fields
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182229.png)
+
 
 Now click on the sign in button to move on to through screen 3
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182237.png)
+![](../images/text_input_n/#)
+
+
+Remember:
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20182253.png)
+
+
+Need ``SHIFT + 2`` to zoom in on avatar image
+
+Make sure you have the Image layer selected in the layers
+![](./final_text_picts/add_av_1.png)
+
+Use the Unspash or User Profile/Avatar plug-in - right mouse to open and select plug-ins
+
+![](./final_text_picts/add_av_2.png)
+
+In this example we are on using Unsplash and we are searching for a face image
+
+![](./final_text_picts/add_av_3.png)
+
+We will select square and free license
+
+![](./final_text_picts/add_av_4.png)
+
+Choose an image and this will swop out the placeholder 
+![](./final_text_picts/add_av_5.png)
+
+
+![](./final_text_picts/add_av_6.png)
+
+![](./final_text_picts/av_complete.png)
+
+![](./final_text_picts/av_first_select_img_laayer.png)
+
+![](./final_text_picts/create_newDes_file.png)
+
+![](./final_text_picts/drag_bot_bar.png)
+
+![](./final_text_picts/drag_status.png)
+
+![](./final_text_picts/libs_add_file.png)
+
+![](./final_text_picts/libs_appear_assets.png)
+
+![](./final_text_picts/libs_iassets.png)
+
+
+![](./final_text_picts/mat_des_search_status.png)
+
+![](./final_text_picts/name_get_libs.png)
+
+![](./final_text_picts/name_sc_1.png)
+
+![](./final_text_picts/out_line_order_right.png)
+
+![](./final_text_picts/out_line_order_wrong.png)
+
+![](./final_text_picts/search_bot-bar.png)
+
+![](./final_text_picts/show_out_line_order.png)
