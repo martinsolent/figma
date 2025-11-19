@@ -26,6 +26,9 @@ The Library will appear in  **Assets** Then click **File** to return to your des
 
 
 ### 2. Create the Button Frame
+
+![](../images/figma_new_button/5fig_button_.png)
+
 - Use the toolbar or press **F** on your keyboard to draw a frame.
 - Set the size to **150 x 38** in the properties panel.
 - Add a corner radius of **6**.
@@ -33,6 +36,9 @@ The Library will appear in  **Assets** Then click **File** to return to your des
 - Name the frame **Button** in the layers panel or directly on the frame label.
 
 ### 3. Add an Icon
+
+![](../images/figma_new_button/6fig_button_.png)
+
 - Open the **Assets** panel on the right.
 - Find the **Material Design** icons.
 - Drag and drop an icon onto the Button frame.
