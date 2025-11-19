@@ -90,6 +90,14 @@ If you have several Design System Kits in your Assets, you'll need to select the
 
 ![](./text_update/lib_switch_assets_MD.png)
 
+
+**Adding Screen 1 Frame**
+
+We now need to create our first screen. Either go to the tools at the bottom of the screen and select the Frame icon (the hash symbol), or press F on your keyboard. Then, in the properties panel on the right, choose Android Compact (412 × 917 pixels). Once the frame appears on your pasteboard, name it Screen
+
+![](./final_text_picts/new_frame.gif)
+
+
 **Add the Status Bar Component**
 
 Search for ``Building Blocks/status-bar`` in the Material design 3 library
