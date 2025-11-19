@@ -47,21 +47,22 @@ Creating a prototype in Figma that allows users to fill in text fields can be ch
 **Download:** [Text Input Figma Plugins PDF](../images/Plugins%20for%20adding%20text%202%20fields%20in%20Figma%20prototypes.pdf)
 
 
-## Setup
+## Overview
+
 We are going to create three screens that simulate typing an email address and password to log into an application. When it comes to user testing, it may not always be necessary to simulate something as basic as a login; however, this serves as an example of how you can simulate entering text into fields, which may not be possible in a Figma prototype.
 
 ![](./text_update/all_text_screens.png)
 
 
+### Set-up
+
 In your Projects or Dashboard click **Create** and select **Design**
 
 ![](./final_text_picts/create_newDes_file.png)
 
-1. Make sure you name your design file.
-
-2. Select Assets in the left panel
-
-3. Click on the Library icon to add Design System Libraries 
+* Make sure you **name your design file.**
+* Select **Assets** in the left panel
+* Click on the **Library icon** to add Design System Libraries 
 
 ![](./final_text_picts/name_get_libs.png)
 
@@ -77,13 +78,19 @@ These libraries will appear and their components be available from the Assets pa
 
 ![](./final_text_picts/libs_iassets.png)
 
+In the right panel change Assets **back** to **File**
 
-
-
+### Adding Design System Kit to Components
 
 **Add the Status Bar Component**
 
-``Building Blocks/status-bar``
+Search for ``Building Blocks/status-bar`` in the Material design 3 library
+
+![](./final_text_picts/drag_status.png)
+
+Now drag out Status Bar onto the screen & postion it at the top
+
+![](./final_text_picts/mat_des_search_status.png)
 
 **Add the App Bar Component**
 
@@ -91,9 +98,28 @@ These libraries will appear and their components be available from the Assets pa
 
 **Add the Bottom App Bar Component**
 
+Search for ``Bottom app bar`` in the Material design 3 library
+
+![](./final_text_picts/search_bot-bar.png)
+
 Drag out the ``Bottom app bar`` to the bottom of your screen
 
 ![](./final_text_picts/drag_bot_bar.png)
+
+
+
+
+**Re-order layers**
+
+The order of your layers might not match the design hierarchy shown on your screen
+
+![](./final_text_picts/out_line_order_wrong.png)
+
+If that's the case, you'll need to reorder the layers by dragging them into the correct order
+
+![](./final_text_picts/show_out_line_order.png)
+
+
 
 Add email
 ![](./text_update/add_email.png)
@@ -222,6 +248,7 @@ Delete Swop:
 
  In the value field type in four stars ``****`` to represent a password. This will now appear in the password field
 Delete Swop:
+
 ![](../images/text_input_n/Screenshot%202025-11-18%20181947.png)
 
 
@@ -316,24 +343,16 @@ This will swop out the placeholder
 
 
 
-![](./final_text_picts/mat_des_search_status.png)
-
-Search for ``Building Blocks/status-bar`` in the Material design 3 library
-
-Now drag out Status Bar onto the screen & postion it at the top
-
-![](./final_text_picts/drag_status.png)
-
-
 
 ![](./final_text_picts/name_sc_1.png)
 
-![](./final_text_picts/out_line_order_right.png)
 
-![](./final_text_picts/out_line_order_wrong.png)
 
-Search for ``Bottom app bar`` in the Material design 3 library
+T
 
-![](./final_text_picts/search_bot-bar.png)
 
-![](./final_text_picts/show_out_line_order.png)
+If you have several Design System Kits in your Assets, you'll need to select the one you want to search.
+
+![](./text_update/lib_switch_assets_SD.png)
+
+![](./text_update/lib_switch_assets_MD.png)
