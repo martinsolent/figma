@@ -353,7 +353,7 @@ Now we can run and present our prototype. At the top of the properties panel, cl
 
 
 
-<!-->
+<!--
 
 If you have several Design System Kits in your Assets, you'll need to select the one you want to search.
 
@@ -362,3 +362,4 @@ If you have several Design System Kits in your Assets, you'll need to select the
 ![](./text_update/lib_switch_assets_MD.png)
 
 
+-->
