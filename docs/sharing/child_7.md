@@ -82,19 +82,42 @@ In the right panel change Assets **back** to **File**
 
 ### Adding Design System Kit to Components
 
+We've already added our design kits to the Assets, so switch from File to Assets in the left panel.
+
+![](./text_update/files_assets.png)
+
+If you have several Design System Kits in your Assets, you'll need to select the one you want to search.
+
+![](./text_update/lib_switch_assets_MD.png)
+
 **Add the Status Bar Component**
 
 Search for ``Building Blocks/status-bar`` in the Material design 3 library
 
-![](./final_text_picts/drag_status.png)
+![](./final_text_picts/mat_des_search_status.png)
+
 
 Now drag out Status Bar onto the screen & postion it at the top
 
-![](./final_text_picts/mat_des_search_status.png)
+![](./final_text_picts/drag_status.png)
+
+You will need to switch centre camera off as it might conflicted withe the on in the prototype preview
+
+![](./text_update/cam_on.png)
+
+In the properties panel on the right in the Status Bar section switch of Camera Cutout
+
+![](./text_update/can_off.png)
 
 **Add the App Bar Component**
 
-``App bar``
+Search for ``App bar`` in the Material design 3 library
+
+![](./final_text_picts/search_app_bar.png)
+
+Drag **App Bar** onto the screen
+
+![](./final_text_picts/drag_app_bar.png)
 
 **Add the Bottom App Bar Component**
 
@@ -105,9 +128,6 @@ Search for ``Bottom app bar`` in the Material design 3 library
 Drag out the ``Bottom app bar`` to the bottom of your screen
 
 ![](./final_text_picts/drag_bot_bar.png)
-
-
-
 
 **Re-order layers**
 
@@ -120,48 +140,13 @@ If that's the case, you'll need to reorder the layers by dragging them into the 
 ![](./final_text_picts/show_out_line_order.png)
 
 
+**Add Log in Form Field**
 
-Add email
+Search for ``Form Log In`` in the **Simple Design**
+
 ![](./text_update/add_email.png)
 
-Hover +
-![](./text_update/B_out_ready_sc_3.png)
-
-Back arrow change
-![](./text_update/back_arrow_change.png)
-
-Back arrow flows
-![](./text_update/back_arrow_flow.png)
-Back ready
-
-![](./text_update/back_but_ready.png)
-
-
-default_to_placeholder
-![](./text_update/default_to_placeholder.png)
-
-All Flows
-![](./text_update/new_flows.png)
-
-place_defualt_whole
-![](./text_update/place_defualt_whole.png)
-
-sc_1_flow_sc_2
-![](./text_update/sc_1_flow_sc_2.png)
-
-
-sign_but_to_sc3
-![](./text_update/sign_but_to_sc3.png)
-
-sign_click_to_sc_2
-![](./text_update/sign_click_to_sc_2.png)
-
-
-sign_in_but_start
-![](./text_update/sign_in_but_start.png)
-
-swop_back_arrow
-![](./text_update/swop_back_arrow.png)
+![](./text_update/)
 
 Screen 1 is now complete.
 
@@ -348,7 +333,7 @@ This will swop out the placeholder
 
 
 
-T
+
 
 
 If you have several Design System Kits in your Assets, you'll need to select the one you want to search.
@@ -356,3 +341,46 @@ If you have several Design System Kits in your Assets, you'll need to select the
 ![](./text_update/lib_switch_assets_SD.png)
 
 ![](./text_update/lib_switch_assets_MD.png)
+
+
+Hover +
+![](./text_update/B_out_ready_sc_3.png)
+
+Back arrow change
+![](./text_update/back_arrow_change.png)
+
+Back arrow flows
+![](./text_update/back_arrow_flow.png)
+Back ready
+
+![](./text_update/back_but_ready.png)
+
+
+default_to_placeholder
+![](./text_update/default_to_placeholder.png)
+
+All Flows
+![](./text_update/new_flows.png)
+
+place_defualt_whole
+![](./text_update/place_defualt_whole.png)
+
+sc_1_flow_sc_2
+![](./text_update/sc_1_flow_sc_2.png)
+
+
+sign_but_to_sc3
+![](./text_update/sign_but_to_sc3.png)
+
+sign_click_to_sc_2
+![](./text_update/sign_click_to_sc_2.png)
+
+
+sign_in_but_start
+![](./text_update/sign_in_but_start.png)
+
+swop_back_arrow
+![](./text_update/swop_back_arrow.png)
+
+
+![](./text_update/)
