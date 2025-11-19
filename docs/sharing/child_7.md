@@ -52,13 +52,56 @@ We are going to create three screens that simulate typing an email address and p
 
 ![](./text_update/all_text_screens.png)
 
+
+In your Projects or Dashboard click **Create** and select **Design**
+
+![](./final_text_picts/create_newDes_file.png)
+
+1. Make sure you name your design file.
+
+2. Select Assets in the left panel
+
+3. Click on the Library icon to add Design System Libraries 
+
+![](./final_text_picts/name_get_libs.png)
+
+#### Add Libraries (Design Systems)
+
+We will add two Design System Libraries which are availble through **Figma Comunity**
+
+Search for **Material 3 Design Kit** & **Simple Design System** & click on **Add to file** and close **Manage Libraries** panel.
+
+![](./final_text_picts/libs_add_file.png)
+
+These libraries will appear and their components be available from the Assets panel
+
+![](./final_text_picts/libs_iassets.png)
+
+
+
+
+
+**Add the Status Bar Component**
+
+``Building Blocks/status-bar``
+
+**Add the App Bar Component**
+
+``App bar``
+
+**Add the Bottom App Bar Component**
+
+Drag out the ``Bottom app bar`` to the bottom of your screen
+
+![](./final_text_picts/drag_bot_bar.png)
+
 Add email
 ![](./text_update/add_email.png)
 
 Hover +
 ![](./text_update/B_out_ready_sc_3.png)
 
-Back arrow chenges
+Back arrow change
 ![](./text_update/back_arrow_change.png)
 
 Back arrow flows
@@ -231,13 +274,18 @@ Remember:
 
 ![](../images/text_input_n/Screenshot%202025-11-18%20182253.png)
 
+## Adding an Avatar 
 
-Need ``SHIFT + 2`` to zoom in on avatar image
+Select the placeholder image inside the Avatar, selecting it in the Layers is the best approach
 
-Make sure you have the Image layer selected in the layers
+![](./final_text_picts/av_first_select_img_laayer.png)
+
+
+Now ``SHIFT + 2`` to zoom in on avatar image
+
 ![](./final_text_picts/add_av_1.png)
 
-Use the Unspash or User Profile/Avatar plug-in - right mouse to open and select plug-ins
+Use either **Unsplash** or **User Profile/Avatar** plug-in - right mouse to open and select plug-ins
 
 ![](./final_text_picts/add_av_2.png)
 
@@ -249,38 +297,42 @@ We will select square and free license
 
 ![](./final_text_picts/add_av_4.png)
 
-Choose an image and this will swop out the placeholder 
+Choose an image
 ![](./final_text_picts/add_av_5.png)
 
+This will swop out the placeholder
 
 ![](./final_text_picts/add_av_6.png)
 
+``SHIFT + 1`` to zoom back out
+
 ![](./final_text_picts/av_complete.png)
 
-![](./final_text_picts/av_first_select_img_laayer.png)
 
-![](./final_text_picts/create_newDes_file.png)
 
-![](./final_text_picts/drag_bot_bar.png)
 
-![](./final_text_picts/drag_status.png)
 
-![](./final_text_picts/libs_add_file.png)
 
-![](./final_text_picts/libs_appear_assets.png)
 
-![](./final_text_picts/libs_iassets.png)
 
 
 ![](./final_text_picts/mat_des_search_status.png)
 
-![](./final_text_picts/name_get_libs.png)
+Search for ``Building Blocks/status-bar`` in the Material design 3 library
+
+Now drag out Status Bar onto the screen & postion it at the top
+
+![](./final_text_picts/drag_status.png)
+
+
 
 ![](./final_text_picts/name_sc_1.png)
 
 ![](./final_text_picts/out_line_order_right.png)
 
 ![](./final_text_picts/out_line_order_wrong.png)
+
+Search for ``Bottom app bar`` in the Material design 3 library
 
 ![](./final_text_picts/search_bot-bar.png)
 
