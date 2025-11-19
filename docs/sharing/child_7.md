@@ -105,7 +105,7 @@ You will need to switch centre camera off as it might conflicted withe the on in
 
 ![](./text_update/cam_on.png)
 
-In the properties panel on the right in the Status Bar section switch of Camera Cutout
+In the Properties panel on the right in the Status Bar section switch of Camera Cutout
 
 ![](./text_update/can_off.png)
 
@@ -131,7 +131,7 @@ Drag out the ``Bottom app bar`` to the bottom of your screen
 
 **Re-order layers**
 
-The order of your layers might not match the design hierarchy shown on your screen
+The order of your layers might not match the design hierarchy shown on your screen **to do this you need the swicth back to Files in the left panel**
 
 ![](./final_text_picts/out_line_order_wrong.png)
 
@@ -142,27 +142,37 @@ If that's the case, you'll need to reorder the layers by dragging them into the 
 
 **Add Log in Form Field**
 
-Search for ``Form Log In`` in the **Simple Design**
+Search for ``Form Log In`` in the **Simple Design** you will need to make sure you have switched to the Simple Design kit in the Assets
 
-![](./text_update/add_email.png)
+Then drag it onto the screen & prosition
 
-![](./text_update/)
+![](./final_text_picts/drag_form_log_in.png)
 
-Screen 1 is now complete.
+**Final Check**
 
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181019.png)
-
-Press ``Alt and Shift`` on your keyboard, hover over Screen 1, and drag to the right to create a copy. Rename this new screen to Screen 2, either by updating the frame label or within the Layers panel.
+In the left panel change **Assests to File**
 
 
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181147.png)
+![](./text_update/Assest_click.png)
+
+Make sure your layer outline matches the hierarchy shown on your screen. If it doesn’t, simply drag and drop the layers into the correct order.
+
+It should look like this.
+
+![](./final_text_picts/SC_1_final_layers.png)
+
+### Create Screen 2
+
+Press ``Alt and Shift`` on your keyboard, hover over Screen 1, and drag to the right to create a copy. Figma usually works out the screen name for you, so you might not need to rename it – but if it doesn’t, you can do it manually rename new screen to Screen 2, either by updating the frame label or within the Layers panel
+
+
+
+![](./final_text_picts/Recording%202025-11-19%20202359.gif)
 
 Now, hover over Screen 2, then hold down the Alt and Shift keys on your keyboard and drag to the right to create a copy—this will become Screen 3.
 
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181252.png)
+D
+![](../images/)
 
 
 
@@ -170,103 +180,103 @@ ALT drag Screen 2 to right to copy it - then re-name it Screen 3
 
 In the Layers panel, make sure the frames for each screen are arranged in order: one, two, and three. If they’re not, drag them into the correct sequence. It’s a good idea to close each frame before you do this, to make organising them easier.
 
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181335.png)
+:
+![](../images/#)
 
 On screen 3 highlight the log-in component delete it
 
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181342.png)
+
+![](../images/)
 
  Click on Assets in the right panel
 
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181348.png)
+
+![](../images/)
 
 Select the simple design system then search for Review Card
 
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181426.png)
+
+![](../images/)
 
 Then drag and drop it onto screen 3 adjust if necessary
 
-![](../images/text_input_n/Screenshot%202025-11-18%20181437.png)
+![](../images/)
 
  In the panel on the right click on Files to see the layer list You may need to open up screen 3
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181451.png)
+
+![](../images)
 
 In the right Properties panel change Design to Prototype
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181506.png)
+
+![](../images)
 
 
 Open Screen 2 in the layers
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181644.png)
+
+![](../images/)
 
 Click on ``Form Log In`` to highlight this component, press ``Shift 2`` on your keyboard to zoom in
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181702.png)
+:
+![](../)
 
  Select the e-mail input field either by selecting it in the layers or within the design
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181710.png)
+
+![](../images/)
 
 In the properties on the right change the value type From Default Placeholder and in the value field type in a fake e-mail address
 
-Delete Swop:
 
-![](../images/text_input_n/Screenshot%202025-11-18%20181826.png)
+
+![](../images/)
 
 This will now appear in the e-mail field now select the password input field either in the layers or within the design
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181837.png)
+
+![](../images/)
 
 
-Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181930.png)
+Delete 
+![](../images/t)
 
  With it selected in the properties change value type from default to placeholder
 Delete Swop:
-![](../images/text_input_n/Screenshot%202025-11-18%20181942.png)
+![](../images/)
 
  In the value field type in four stars ``****`` to represent a password. This will now appear in the password field
 Delete Swop:
 
-![](../images/text_input_n/Screenshot%202025-11-18%20181947.png)
+![](../images/text_input_n/)
 
 
 Delete??
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182009.png)
+![](../images/text_input_n/)
 
 Delete??
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182019.png)
+![](../images/text_input_n/)
 
 c
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182040.png)
+![](../images/text_input_n/)
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182049.png)
+![](../images/text_input_n/)
 
 Highlight the Log In  component on screen 2, you will see a blue circle with a + click this
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182103.png)
+![](../images/text_input_n/)
 
  and drag out a flow arrow to screen 3 an interaction pop-up will appear with the default settings, you can now close this
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182112.png)
+![](../images/text_input_n/)
 
 We will now create a link back to the home screen, click on the hamburger icon for the blue circle with + to appear. (On a real design you would change this to a more appropriate icon like a back arrow)
 
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182128.png)
+![](../images/text_input_n/)
 
 drag out a flow arrow to link back to screen 1 (Home) interaction popup will appear with the default settings you can now close this
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182155.png)
+![](../images/text_input_n)
 
 Now run/present your prototype, the click on the e-mail field to simulate typing in
 
@@ -284,7 +294,7 @@ Now click on the sign in button to move on to through screen 3
 
 Remember:
 
-![](../images/text_input_n/Screenshot%202025-11-18%20182253.png)
+![](../images/text_input_n/)
 
 ## Adding an Avatar 
 
@@ -384,3 +394,22 @@ swop_back_arrow
 
 
 ![](./text_update/)
+
+
+
+
+Make sure the Forn Login is select eith in the layers of non screen
+
+![](./final_text_picts/scree_1_ready_to_zoom.png)
+
+Press ``SHIFT + 2`` to zoom in
+
+![](./text_update/add_email.png)
+
+Select the Log In Form compnonent either on the screen or in the Layers
+
+![](./final_text_picts/scree_1_ready_to_zoom.png)
+
+![](./final_text_picts/)
+
+Screen 1 is now complete.
