@@ -234,14 +234,14 @@ Press ``Alt and Shift`` on your keyboard, hover over Screen 1, and drag to the r
 
 
 
-![](./final_text_picts/Recording%202025-11-19%20202359.gif)
+![](./final_text_picts/drag_copy_sc2.png)
 
 
 ### Create Screen 3
 
 Now, hover over Screen 2, then hold down the ``Alt and Shift`` keys on your keyboard and drag to the right to create a copy, this will become Screen 3, just like with the screen 2, Figma usually updates the label automatically. If it doesn’t, you’ll need to update it manually.
 
-![](./final_text_picts/Recording%202025-11-19%20210210.gif)
+![](./final_text_picts/3_screens_.png)
 
 
 
@@ -249,11 +249,15 @@ Now, hover over Screen 2, then hold down the ``Alt and Shift`` keys on your keyb
 
 In the Layers panel, make sure the frames for each screen are arranged in order: 1, 2and 3. If they’re not, drag them into the correct sequence. It’s a good idea to close each frame before you do this, to make organising them easier.
 
-![](./final_text_picts/sc_layer_final.gif)
+![](./final_text_picts/wrong_2.png)
+
+![](./final_text_picts/right_1.png)
 
 Select the **Log In** component on Screen 3 and delete it.
 
-![](./final_text_picts/Recording%202025-11-19%20211403.gif)
+![](./final_text_picts/select_log_delete_sc3.png)
+
+![](./final_text_picts/review_card_delete.png)
 
 We’ll now update the headline title on the top app bar and change it to **Review**.
 
