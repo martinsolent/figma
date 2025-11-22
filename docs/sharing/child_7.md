@@ -326,23 +326,21 @@ In the properties panel, switch from Design to Prototype. In this example, we're
 
 Highlight the login component on Screen 1, then hover your mouse over the box and drag a flow connection to Screen 2. You can then close the interaction pop-up.
 
-
-
-![](./final_text_picts/Recording%202025-11-19%20222854.gif)
+![](../images/proto_share/sc1_to_sc2.gif)
 
 Click to highlight the Sign In button on Screen 2, then drag out a flow connection to Screen 3. You can then close the interaction pop-up.
 
 
-![](./final_text_picts/Recording%202025-11-19%20223014.gif)
+![](../images/proto_share/button_sign_sc3.gif)
 
 
 Finally, we’ll use the back arrow on the top menu bar on Screen 3 to link back to Screen 1. Highlight the back icon, then drag out a flow connection to Screen 1. You can then close the interaction pop-up.
 
-![](./final_text_picts/Recording%202025-11-19%20223141.gif)
+![](../images/proto_share/back_ann.gif)
 
 Now we can run and present our prototype. At the top of the properties panel, click the play button to launch it. If you click on the email field as if you’re typing your email and password, it will automatically take you to the next screen, where the email and password are pre-populated. Then, click the Sign In button to enter your application. This is how you can simulate adding text within a prototype.Text Field Issues-
 
-![](./final_text_picts/Recording%202025-11-19%20223330.gif)
+![](../images/proto_share/txt_final_ann.gif)
 
 
 <!--
