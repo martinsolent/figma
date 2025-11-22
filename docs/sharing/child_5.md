@@ -30,8 +30,10 @@ You have made your Prototype and it time to share and use it in a UX testing ses
 
 ![](../images/proto_share/anyone.png)
 
+6. On the test device change to the page that has your prototype
+![](../images/proto_share/on_phone_1_2.png)
 
-6. On the test device click on 3 dots top right
+7. On the test device click on 3 dots top right
 ![](../images/proto_share/on_phone_2.PNG)
 
 Then click view prototype
@@ -47,16 +49,16 @@ To get round this this they would have to sign up for a Free Figma account, then
 
 **Note:** This only applies to tests on phones or tablets - if UX testing a website, this will not be an issues as it will work in the browser without a log in.
 
-7. The prototype will now open up on the test device.
+8. The prototype will now open up on the test device.
 
 ![](../images/proto_share/app_home.png)
 
 
-8. Check the prototype on your computer. You'll see two users displayed in the top bar. If the tester is logged in using your Figma app, there will be two instances of your avatar. Otherwise, you'll see either their Figma avatar or an anonymous user icon.
+9. Check the prototype on your computer. You'll see two users displayed in the top bar. If the tester is logged in using your Figma app, there will be two instances of your avatar. Otherwise, you'll see either their Figma avatar or an anonymous user icon.
 
 ![](../images/proto_share/to_me_1.png)
 
-9. In any case you need to select the user logged in on the test device 
+10. In any case you need to select the user logged in on the test device 
 
 ![](../images/proto_share/to_me_2.png)
 
@@ -64,6 +66,6 @@ The computer login will show **Multi-Player Tools**, the test device will have *
 
 ![](../images/proto_share/2_avatar.gif)
 
-10. Now when the tester interacts with the prototype on the test device their interactions will be reproduce in the Figma prototype on the computer., so the screen can be recorded for later analyst.
+11. Now when the tester interacts with the prototype on the test device their interactions will be reproduce in the Figma prototype on the computer., so the screen can be recorded for later analyst.
 ![](../images/proto_share/final.gif)
 
