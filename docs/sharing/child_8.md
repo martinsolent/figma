@@ -1,71 +1,75 @@
 ---
 layout: default
-title: Testing on a device
+title: Testing OBS Set-Up
 parent: Prototyping
-nav_order: 6
+nav_order: 9
 ---
 
 {: .no_toc }
 
-# Testing on a device
-You have made your Prototype and it time to share and use it in a UX testing session.
+# Testing - OBS Set-Up
 
-1. Select the first screen (Frame) of your Prototype
+<!--
 
-![](../images/proto_share/imag_1.png)
+![](../images/proto_share/obs/1_OBS.png)
+![](../images/proto_share/obs/4_OBS.png)
 
-2. Change the Design view to Prototype
-
-![](../images/proto_share/imag_3.png)
-
-3. Click on Share Prototype button
-
-![](../images/proto_share/share_button.png)
-
-4. You can email an invite to people or you can have it accessible to everyone - you can click to change
-
-![](../images/proto_share/imag_6.png)
-
-5. Invite Only or Anyone
-
-![](../images/proto_share/anyone.png)
-
-6. On the test device change to the page that has your prototype
-![](../images/proto_share/on_phone_1_2.png)
-
-7. On the test device click on 3 dots top right
-![](../images/proto_share/on_phone_2.PNG)
-
-Then click view prototype
-
-![](../images/proto_share/on_phone_1.PNG)
-
-
-There are issues with Figma wanting a person who has been sent a link, but does not have Figma account and Figma app opening the Prototype [more details here](https://forum.figma.com/t/sharing-a-prototype-without-having-user-required-to-sign-in-to-figma/40423)
-
-or if they can open it without a Figma account and the Figma app it will not present full screen.
-
-To get round this this they would have to sign up for a Free Figma account, then download the app to open the prototype link which might be a hassle to them or you could use a test who you know has a Figma account and app, **or if doing in-person testing you can use the app set up on your device, which might be the best solution**
-
-**Note:** This only applies to tests on phones or tablets - if UX testing a website, this will not be an issues as it will work in the browser without a log in.
-
-8. The prototype will now open up on the test device.
-
-![](../images/proto_share/app_home.png)
-
-
-9. Check the prototype on your computer. You'll see two users displayed in the top bar. If the tester is logged in using your Figma app, there will be two instances of your avatar. Otherwise, you'll see either their Figma avatar or an anonymous user icon.
-
-![](../images/proto_share/to_me_1.png)
-
-10. In any case you need to select the user logged in on the test device 
-
-![](../images/proto_share/to_me_2.png)
-
-The computer login will show **Multi-Player Tools**, the test device will have **Click to Follow** Click to follow
-
-![](../images/proto_share/2_avatar.gif)
-
-11. Now when the tester interacts with the prototype on the test device their interactions will be reproduce in the Figma prototype on the computer., so the screen can be recorded for later analyst.
-![](../images/proto_share/final.gif)
-
+![](../images/proto_share/obs/6_OBS.png)
+![](../images/proto_share/obs/7_OBS.png)
+![](../images/proto_share/obs/8_OBS.png)
+![](../images/proto_share/obs/9_OBS.png)
+![](../images/proto_share/obs/10_OBS.png)
+![](../images/proto_share/obs/11_OBS.png)
+![](../images/proto_share/obs/12_OBS.png)
+![](../images/proto_share/obs/13_OBS.png)
+![](../images/proto_share/obs/14_OBS.png)
+![](../images/proto_share/obs/15_OBS.png)
+![](../images/proto_share/obs/16_OBS.png)
+![](../images/proto_share/obs/17_OBS.png)
+![](../images/proto_share/obs/18_OBS.png)
+![](../images/proto_share/obs/19_OBS.png)
+![](../images/proto_share/obs/20_OBS.png)
+![](../images/proto_share/obs/21_OBS.png)
+![](../images/proto_share/obs/22_OBS.png)
+![](../images/proto_share/obs/23_OBS.png)
+![](../images/proto_share/obs/24_OBS.png)
+![](../images/proto_share/obs/25_OBS.png)
+![](../images/proto_share/obs/26_OBS.png)
+![](../images/proto_share/obs/27_OBS.png)
+![](../images/proto_share/obs/28_OBS.png)
+![](../images/proto_share/obs/29_OBS.png)
+![](../images/proto_share/obs/30_OBS.png)
+![](../images/proto_share/obs/31_OBS.png)
+![](../images/proto_share/obs/32_OBS.png)
+![](../images/proto_share/obs/33_OBS.png)
+![](../images/proto_share/obs/34_OBS.png)
+![](../images/proto_share/obs/35_OBS.png)
+![](../images/proto_share/obs/36_OBS.png)
+![](../images/proto_share/obs/37_OBS.png)
+![](../images/proto_share/obs/38_OBS.png)
+![](../images/proto_share/obs/39_OBS.png)
+![](../images/proto_share/obs/40_OBS.png)
+![](../images/proto_share/obs/41_OBS.png)
+![](../images/proto_share/obs/42_OBS.png)
+![](../images/proto_share/obs/43_OBS.png)
+![](../images/proto_share/obs/44_OBS.png)
+![](../images/proto_share/obs/45_OBS.png)
+![](../images/proto_share/obs/46_OBS.png)
+![](../images/proto_share/obs/47_OBS.png)
+![](../images/proto_share/obs/48_OBS.png)
+![](../images/proto_share/obs/49_OBS.png)
+![](../images/proto_share/obs/50_OBS.png)
+![](../images/proto_share/obs/51_OBS.png)
+![](../images/proto_share/obs/52_OBS.png)
+![](../images/proto_share/obs/53_OBS.png)
+![](../images/proto_share/obs/54_OBS.png)
+![](../images/proto_share/obs/55_OBS.png)
+![](../images/proto_share/obs/56_OBS.png)
+![](../images/proto_share/obs/57_OBS.png)
+![](../images/proto_share/obs/58_OBS.png)
+![](../images/proto_share/obs/59_OBS.png)
+![](../images/proto_share/obs/60_OBS.png)
+![](../images/proto_share/obs/61_OBS.png)
+![](../images/proto_share/obs/62_OBS.png)
+![](../images/proto_share/obs/63_OBS.png)
+-->
