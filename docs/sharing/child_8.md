@@ -9,7 +9,7 @@ nav_order: 9
 
 # Testing - OBS Set-Up
 
-<!----
+
 
 We will use OBS Studio to set up feeds from multiple devices to help us conduct user experience testing within a lab environment.
 You will need to install OBS Studio on your own computer, or you can access it in several labs around the university.
