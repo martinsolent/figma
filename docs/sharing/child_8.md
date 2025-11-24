@@ -93,8 +93,9 @@ You can move this around and enlarge it by dragging one of the corners.
 {: .note }
 In most user testing environments, **you probably don’t need to place the tester in a circle.** You can just leave them in the normal rectangle layout it comes with. However, this might be useful for other uses of OBS Studio.
 
-To do this, create a new scene. In the Scenes panel at the bottom of the screen, click on the +.
+[Download Circle Mask](../images/proto_share/obs/filter/OBS_MASK_CIRCLE.jpg)
 
+To do this, create a new scene. In the Scenes panel at the bottom of the screen, click on the +.
 
 ![](../images/proto_share/obs/12_OBS.png)
 
