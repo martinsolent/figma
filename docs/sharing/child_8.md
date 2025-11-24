@@ -7,16 +7,16 @@ nav_order: 9
 
 {: .no_toc }
 
-# Testing - OBS Set-Up
+# Testing - OBS Studio
 
+## WebCam Set-up
 
-
-We will useth **FREE** [OBS Studio](https://obsproject.com/) to set up feeds from multiple devices to help us conduct user experience testing within a lab environment.
+We will use the **FREE** [OBS Studio](https://obsproject.com/) to set up feeds from multiple devices to help us conduct user experience testing within a lab environment.
 You will need to install OBS Studio on your own computer, or you can access it in the university labs (if installed).
 
 In this walkthrough, we will use HUE gooseneck webcams to capture testers’ interactions with a mobile application. 
 
-![](../images/proto_share/hue_web_cam_picts/1_hue_wc.jpg)
+![](../images/proto_share/hue_web_cam_picts/1_hue_wc%20copy.jpg)
 
 The HUE webcam kit includes the camera, the base, and a USB extension cable. 
 
@@ -31,13 +31,22 @@ The setup should now look like this
 
 ![](../images/proto_share/hue_web_cam_picts/10_hue_wc.jpg)
 
+
+
 We will use the webcam together with a mobile phone cradle. This cradle has a hinge that lets you adjust the phone’s position. Keeping the phone in a cradle like this makes it steady while being filmed, but still allows the user to interact with the app on the screen.
 
-![](../images/proto_share/hue_web_cam_picts/14_hue_wc.jpg)
+![](../images/proto_share/hue_web_cam_picts/14_hue_wc%20copy.jpg)
 
 Phone set up in the cradle.
 
-![](../images/proto_share/hue_web_cam_picts/15_hue_wc.jpg)
+![](../images/proto_share/hue_web_cam_picts/15_hue_wc%20copy.jpg)
+
+We have placed the phone in the cradle and positioned the HUE webcam over the screen, using a book to add some height. Make sure the setup is secure and that the cables are not causing any obstruction or hazard.
+
+![](../images/proto_share/hue_web_cam_picts/PXL_20251124_121517599_copy.png)
+
+
+## OBS Studio Set-up
 
 We will add a standard **Logitech webcam** to record the participant, which is important when they are **"thinking out loud"** Then we will connect one of the **HUE webcams** to capture the interaction on the phone. You can add more devices if needed, but we will focus on these two. The principle for adding and using them is the same, as long as you have enough USB connections on the computer.
 
@@ -71,7 +80,11 @@ You can move this around and enlarge it by dragging one of the corners.
 
 ![](../images/proto_share/obs/11_OBS.png)
 
-Creating the presenter in a rounded circle
+### Creating the presenter in a rounded circle
+
+{: .note }
+In most user testing environments, **you probably don’t need to place the tester in a circle.** You can just leave them in the normal rectangle layout it comes with. However, this might be useful for other uses of OBS Studio.
+
 To do this, create a new scene. In the Scenes panel at the bottom of the screen, click on the +.
 
 
@@ -213,9 +226,7 @@ Click the three dots (top right) and choose View Prototype.
 
 ![](../images/proto_share/obs/47_OBS.png)
 
-In OBS Studio, click + in the Sources panel and select Window Capture. Name it Figma.
 
-![](../images/proto_share/obs/48_OBS.png)
 
 Back in the Figma preview, you may see duplicate profiles
 
@@ -231,7 +242,11 @@ Select the device login to follow.
 
 ![](../images/proto_share/obs/51_OBS.png)
 
-In OBS Studio, click + in the Sources panel and select Window Capture.
+In OBS Studio, click +
+
+![](../images/proto_share/obs/48_OBS.png)
+
+Select Window Capture.
 
 ![](../images/proto_share/obs/52_OBS.png)
 
@@ -245,7 +260,7 @@ Select the browser page where the Figma Prototype is
 
 ![](../images/proto_share/obs/55_OBS.png)
 
-You will now have the Figma feed and the feed from over the Hue Webcam
+You will now have the Figma feed and the feed from the Hue Webcam on the testers ohone screen
 
 
 ![](../images/proto_share/obs/58_OBS.png)
