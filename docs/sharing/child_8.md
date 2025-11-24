@@ -14,22 +14,32 @@ nav_order: 9
 We will useth **FREE** [OBS Studio](https://obsproject.com/) to set up feeds from multiple devices to help us conduct user experience testing within a lab environment.
 You will need to install OBS Studio on your own computer, or you can access it in the university labs (if installed).
 
+In this walkthrough, we will use HUE gooseneck webcams to capture testers’ interactions with a mobile application. 
 
 ![](../images/proto_share/hue_web_cam_picts/1_hue_wc.jpg)
 
+The HUE webcam kit includes the camera, the base, and a USB extension cable. 
+
 ![](../images/proto_share/hue_web_cam_picts/5_hue_wc.jpg)
+
+Plug the camera and the (mini) USB extension cable into the base. Place the other end of the USB cable into the computer.
 
 ![](../images/proto_share/hue_web_cam_picts/11_hue_wc.jpg)
 
-![](../images/proto_share/hue_web_cam_picts/12_hue_wc.jpg)
+
+The setup should now look like this
 
 ![](../images/proto_share/hue_web_cam_picts/10_hue_wc.jpg)
 
+We will use the webcam together with a mobile phone cradle. This cradle has a hinge that lets you adjust the phone’s position. Keeping the phone in a cradle like this makes it steady while being filmed, but still allows the user to interact with the app on the screen.
+
 ![](../images/proto_share/hue_web_cam_picts/14_hue_wc.jpg)
+
+Phone set up in the cradle.
 
 ![](../images/proto_share/hue_web_cam_picts/15_hue_wc.jpg)
 
-![](../images/proto_share/obs/1_OBS.png)
+We will add a standard **Logitech webcam** to record the participant, which is important when they are **"thinking out loud"** Then we will connect one of the **HUE webcams** to capture the interaction on the phone. You can add more devices if needed, but we will focus on these two. The principle for adding and using them is the same, as long as you have enough USB connections on the computer.
 
 ![](../images/proto_share/obs/1_OBS.png)
 
