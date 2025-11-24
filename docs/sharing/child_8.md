@@ -11,8 +11,25 @@ nav_order: 9
 
 
 
-We will use OBS Studio to set up feeds from multiple devices to help us conduct user experience testing within a lab environment.
-You will need to install OBS Studio on your own computer, or you can access it in several labs around the university.
+We will useth **FREE** [OBS Studio](https://obsproject.com/) to set up feeds from multiple devices to help us conduct user experience testing within a lab environment.
+You will need to install OBS Studio on your own computer, or you can access it in the university labs (if installed).
+
+
+![](../images/proto_share/hue_web_cam_picts/1_hue_wc.jpg)
+
+![](../images/proto_share/hue_web_cam_picts/5_hue_wc.jpg)
+
+![](../images/proto_share/hue_web_cam_picts/11_hue_wc.jpg)
+
+![](../images/proto_share/hue_web_cam_picts/12_hue_wc.jpg)
+
+![](../images/proto_share/hue_web_cam_picts/10_hue_wc.jpg)
+
+![](../images/proto_share/hue_web_cam_picts/14_hue_wc.jpg)
+
+![](../images/proto_share/hue_web_cam_picts/15_hue_wc.jpg)
+
+![](../images/proto_share/obs/1_OBS.png)
 
 ![](../images/proto_share/obs/1_OBS.png)
 
