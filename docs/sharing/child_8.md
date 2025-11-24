@@ -46,6 +46,14 @@ We have placed the phone in the cradle and positioned the HUE webcam over the sc
 ![](../images/proto_share/hue_web_cam_picts/PXL_20251124_121517599_copy.png)
 
 
+## Testing Task Overview
+
+We are going to use OBS Studio to capture a user experience test on a mobile application solution. This will involve multiple feeds: the Figma prototype itself, the user tester interacting with it on a device, and potentially a video feed of the user speaking aloud while completing the given tasks and scenarios. All of this can be recorded through a Teams meeting session for later analysis.
+
+Figma prototyping can stay in lockstep across Prototyping across its desktop and mobile applications. Although there is some slight lag, it generally provides a seamless presentation.
+
+![](../images/proto_share/obs/OBS_Fig_Proto.gif)
+
 ## OBS Studio Set-up
 
 We will add a standard **Logitech webcam** to record the participant, which is important when they are **"thinking out loud"** Then we will connect one of the **HUE webcams** to capture the interaction on the phone. You can add more devices if needed, but we will focus on these two. The principle for adding and using them is the same, as long as you have enough USB connections on the computer.
