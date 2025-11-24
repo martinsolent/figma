@@ -1,2 +1,5 @@
 
 docs/.DS_Store
+
+# Prevent Photoshop files from being tracked
+*.psd
