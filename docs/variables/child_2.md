@@ -16,7 +16,7 @@ We can use Strings in Figma to streamline prototyping for example if we need to 
 
 ![](./variables_string_2024/string_example.gif)
 
-Before **Variables** in Figma uou would have create something like this:
+Before **Variables** in Figma you would have create something like this:
 
 ![](./variables_string_2024/THEN.png)
 
