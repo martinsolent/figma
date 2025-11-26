@@ -16,11 +16,11 @@ We can use Strings in Figma to streamline prototyping for example if we need to 
 
 ![](./variables_string_2024/string_example.gif)
 
-We would have create something like this
+Before **Variables** in Figma uou would have create something like this:
 
 ![](./variables_string_2024/THEN.png)
 
-But with a String Variable we would just set it up like this - which involves controlling a **Variant** with a V**ariable**
+But with a String Variable we would just set it up like this - which involves controlling a **Variant** with a **Variable**
 
 ![](./variables_string_2024/NOW.png)
 
@@ -160,7 +160,7 @@ We only have one variable set up, so select **Select_Colour**
 
 ![](./variables_string_2024/spring_36.png)
 
-In the **to** field type **red** in lower case it will appear below in speak marks - Press `Enter` on the keyboard.
+In the **to** field type **red** in lower case it will appear below in speech marks - Press `Enter` on the keyboard.
 
 ![](./variables_string_2024/spring_37.png)
 
@@ -172,7 +172,7 @@ Now select the blue rectangle and repeat the process but the **to** field needs 
 
 ![](./variables_string_2024/assign_blue_2.png)
 
-After you press `Enter` you check the set-up by clicking the tag.
+After you press `Enter` you can check the set-up by clicking the tag.
 
 ![](./variables_string_2024/blue_tag.png)
 
@@ -180,7 +180,7 @@ Finally select the green rectangle and repeat the process but type **green** in 
 
 ![](./variables_string_2024/spring_39.png)
 
-After you press `Enter` you check can the set-up by clicking the tag.
+After you press `Enter` you can check the set-up by clicking the tag.
 
 ![](./variables_string_2024/green_tag.png)
 
