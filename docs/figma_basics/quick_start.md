@@ -17,135 +17,244 @@ nav_order: 5
 	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3215f625-ba0e-4253-b34a-b4fc015b3160&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Figma Quick Start 2026"></iframe>
 </div>
 
+
+
 #### 1. Setting up a Design File
 
-Create a new Design File
-![](../images/NEW_FIGMA_2024/Create_new_file_2.png)
+In Figma, create a new folder by clicking the blue button in the top-right corner.
 
-Give the file a name
-![](../images/NEW_FIGMA_2024/name_project.png)
+![Quick start step 2](../images/NEW_FIGMA_2026/52_quick_start_26.png)
+
+Give the folder a name. Set the permissions to View and Comment Only, then click Continue.
+
+![Quick start step 3](../images/NEW_FIGMA_2026/51_quick_start_26.png)
+
+On the next panel, leave the field blank and click Create.
+
+![Quick start step 4](../images/NEW_FIGMA_2026/50_quick_start_26.png)
+
+Create a new design file by clicking the blue button in the top-right corner.
+
+![Quick start step 5](../images/NEW_FIGMA_2026/49_quick_start_26.png)
+
 
 
 #### 2. Importing and IU Kit Library
 
-Click on Assets & the click on the Libraries icon - change Current file to UI kits
-![](../images/NEW_FIGMA_2024/lib_kits_select.png)
 
-Add file for iOS18 UI kit
-![](../images/NEW_FIGMA_2024/lib_add_fileOS_kit.png)
+In the left-hand panel, click Assets icon, then select Browse Team Libraries. From the library panel, click UI Kits and choose the latest Apple UI Kit.
 
-Close Library panel & the kit will now be added to the Asset panel on the left
-![](../images/NEW_FIGMA_2024/Lib_added_close_2.png)
+![Quick start step 6](../images/NEW_FIGMA_2026/48_quick_start_26.png)
 
-Double click the UI Kit icon
-![](../images/NEW_FIGMA_2024/DD_click.png)
+The UI Kit will now appear in your Assets panel. You can close the Manage Libraries panel.
 
-This will reveal all components in the UI kit
-![](../images/NEW_FIGMA_2024/com_appear.png)
+![Quick start step 7](../images/NEW_FIGMA_2026/47_quick_start_26.png)
+
+our Assets panel now contains all the UI components available for building your prototype design.
+
+![Quick start step 8](../images/NEW_FIGMA_2026/46_quick_start_26.png)
+
+
 
 #### 3. Create UI Screens
 
-We will now create a Frame (Screen) for our UI, click on File to change from Assets
-![](../images/NEW_FIGMA_2024/go_to_file.png)
 
-Click the Frame tool & select iPhone 16 Pro (402 x 874) this will match the size of our UI kit
-![](../images/NEW_FIGMA_2024/select_frame_tool.png)
+Click the Files icon in the left-hand panel to return to the design canvas.
 
-You will need to name your Frame, either do this on the label top left of the Frame or in the Layers panel on the left
-![](../images/NEW_FIGMA_2024/name_frame_home.png)
+![Quick start step 9](../images/NEW_FIGMA_2026/45_quick_start_26.png)
 
-Now change File to Assets in the left panel, within the UI Kit components Scroll down till you locate the System section & click to open
-![](../images/NEW_FIGMA_2024/system_comp.png)
+To create your screens, go to the Tools panel at the bottom of the screen and select the Frame tool.In the Properties panel on the right, choose iPhone 16 & 16 Pro. This will match our 1080px design components.
 
+![Quick start step 10](../images/NEW_FIGMA_2026/44_quick_start_26.png)
 
- Locate the Home Screen component and drag out on top of the Frame
-![](../images/NEW_FIGMA_2024/drag_home_screen.png)
+![Quick start step 11](../images/NEW_FIGMA_2026/43_quick_start_26.png)
 
+A new frame will appear on the canvas.Rename the frame Home.
 
- Change back to File for Asset  this will make your Layers panel visible, check to see if the home screen component is inside the Home Frame - if it is, it will be underneath the Home Frame and indented - if it is above and/or not indented, then  drag and drop the Home screen component on top of the Frame layer.
+![Quick start step 12](../images/NEW_FIGMA_2026/42_quick_start_26.png)
 
-![](../images/NEW_FIGMA_2024/screen_inside_frame.png)
+Return to the Assets panel by clicking the Assets icon in the left-hand toolbar. Scroll down until you find the System Components section.
 
-You may need to drag-drop inside the Home Frame in  the layers panel on left
-![](../images/NEW_FIGMA_2024/last_one_bigger.png)
+![Quick start step 14](../images/NEW_FIGMA_2026/40_quick_start_26.png)
 
+Select the iPhone Home Screen component, change the device type to iPhone 17 Pro, and drag it onto the Home frame.
 
-Create another screen - Click Frame and the select iPhone 16 Pro (402 x 874) give it a name
+![Quick start step 15](../images/NEW_FIGMA_2026/39_quick_start_26.png)
 
-![](../images/NEW_FIGMA_2024/new_screen.png)
+The component will now appear within your frame.
 
-Change File to Assets & click on Navigation Bars
-![](../images/NEW_FIGMA_2024/select_nav_bar_1.png)
+![Quick start step 16](../images/NEW_FIGMA_2026/38_quick_start_26.png)
 
-Click on Navigation Bar Compact 
-![](../images/NEW_FIGMA_2024/nav_bar_compact.png)
+Return to the design canvas by clicking the Files icon in the left-hand toolbar. You may need to adjust the component slightly to ensure it snaps correctly to the frame boundaries.
+
+![Quick start step 17](../images/NEW_FIGMA_2026/37_quick_start_26.png)
 
 
-This will preview the component & allow customisation - click insert
-![](../images/NEW_FIGMA_2024/nav_insert.png)
+Move the Home frame to the left to create space for an additional screen. Hold the Spacebar and drag the workspace to navigate around the canvas. Select the Frame tool and, in the Properties panel on the right, choose iPhone 16 & 17 Pro.
 
-As with the Home screen make sure the Nav Bar in inside the  Frame
-![](../images/NEW_FIGMA_2024/make_sure.png)
+![Quick start step 18](../images/NEW_FIGMA_2026/36_quick_start_26.png)
 
-Change File to Assets &within the UI Kit components locate Keyboards & click to open
-![](../images/NEW_FIGMA_2024/keyboard_1.png)
+When the new frame appears, rename it screen_2.
 
-Drag out iPhone Keyboard under screen 2
-![](../images/NEW_FIGMA_2024/drag_keyboard.png)
+![Quick start step 19](../images/NEW_FIGMA_2026/35_quick_start_26.png)
+
+We now need to add the phone's status bar. Return to the Assets panel by clicking its icon in the left-hand toolbar.
+
+In the Assets search box, type status and press Enter.
+
+![Quick start step 20](../images/NEW_FIGMA_2026/34_quick_start_26.png)
+
+Locate the Status Bar for iPhone component and drag it onto screen_2.
+
+![Quick start step 21](../images/NEW_FIGMA_2026/33_quick_start_26.png)
+
+Position the status bar as needed so it aligns correctly at the top of the screen.
+
+
+![Quick start step 22](../images/NEW_FIGMA_2026/32_quick_start_26.png)
+
+In the Assets search bar, type toolbar and press Enter. Select Toolbar Top for iPhone and drag it onto screen_2.
+
+
+
+![Quick start step 23](../images/NEW_FIGMA_2026/31_quick_start_26.png)
+
+Position the toolbar directly below the status bar.
+
+![Quick start step 24](../images/NEW_FIGMA_2026/30_quick_start_26.png)
+
+In the Assets search bar, type search.
+
+Select Sidebar Search and drag it onto screen_2.
+
+![Quick start step 25](../images/NEW_FIGMA_2026/29_quick_start_26.png)
+
+Position the Search component on the screen.
+
+![Quick start step 26](../images/NEW_FIGMA_2026/28_quick_start_26.png)
+
+We now need to add the keyboard. Before doing so, create additional space beneath the screens.
+
+Hold the Spacebar and drag the canvas upward so there is enough room below both screens.
+
+![Quick start step 27](../images/NEW_FIGMA_2026/27_quick_start_26.png)
+
+Return to the Assets panel and search for keyboard.
+
+![Quick start step 28](../images/NEW_FIGMA_2026/26_quick_start_26.png)
+
+Select the component named Keyboard and drag it onto the canvas beneath screen_2.
+
+![Quick start step 29](../images/NEW_FIGMA_2026/25_quick_start_26.png)
+
+
+Position the keyboard directly below the screen so it can be referenced during prototyping.
+
+![Quick start step 30](../images/NEW_FIGMA_2026/24_quick_start_26.png)
+
+
+
+![Quick start step 31](../images/NEW_FIGMA_2026/23_quick_start_26.png)
+
+Return to the Files panel by clicking the Files icon in the left-hand toolbar.
+
+Check that the layers are arranged in the correct order. You should see Home at the bottom of the layer list and Keyboard at the top.
+
+![Quick start step 32](../images/NEW_FIGMA_2026/22_quick_start_26.png)
+
+
+We now need to reorganise the layer hierarchy so that it matches the structure of our application prototype.
+
+First, collapse any expanded layer groups, as shown in the example image.
+
+![Quick start step 33](../images/NEW_FIGMA_2026/21_quick_start_26.png)
+
+Once the layers are collapsed, reorder them by dragging them into the following sequence:
+
+Home
+screen_2
+Keyboard
+
+![Quick start step 34](../images/NEW_FIGMA_2026/20_quick_start_26.png)
 
 #### 4. Interaction
 
-On the Home screen hover your mouse over the Your App icon and continually click until you have selected this component. Then from the panel on the right change Design to Prototype
-![](../images/NEW_FIGMA_2024/my_app_1.png)
+On the Home screen, locate the My App icon in the bottom-left corner. Click repeatedly until the icon itself is selected and a blue connection handle (+) appears.
 
-Now hover your mouse over the My App component as you move the mouse a + in a circle will appear on the right side - click this and drag out a connection to Screen 2 - a popup panel will appear to allow customisation but this will have worked out what we intend to do
-![](../images/NEW_FIGMA_2024/link_model.png)
+![Quick start step 35](../images/NEW_FIGMA_2026/19_quick_start_26.png)
 
-This will create a hyperlink
-![](../images/NEW_FIGMA_2024/app_link_1.png)
+Click and drag the + handle onto screen_2 to create a navigation link between the two screens.
 
-We now need to connect the Back button on Screen 2 so when clicked it will return to the Home screen - in this example we have not updated the Label, but you can update this to Back to give more meaning 
-![](../images/NEW_FIGMA_2024/label_1.png)
+![Quick start step 36](../images/NEW_FIGMA_2026/18_quick_start_26.png)
 
-As with the My app icon drag out a connection back to the Home screen
-![](../images/NEW_FIGMA_2024/label_to_home.png)
+Next, select the Back button on screen_2. You may need to click through the nested layers until the component itself is selected. Next, select the Back button on screen_2. You may need to click through the nested layers until the component itself is selected.
 
-We will now add an interaction on the Search field so when it is tapped it will display the Keyboard - click on the search field
-![](../images/NEW_FIGMA_2024/click_search.png)
+![Quick start step 37](../images/NEW_FIGMA_2026/17_quick_start_26.png)
 
 
-Make sure your in Prototype in the right panel & click `+`  in Interactions
-![](../images/NEW_FIGMA_2024/add_inter_plus.png)
+Select the Search component on screen_2.n the Interactions section, click the + button to add a new interaction.
 
-The Trigger will be On Tap, the action will be Open Overlay
-![](../images/NEW_FIGMA_2024/open_over.png)
+![Quick start step 38](../images/NEW_FIGMA_2026/16_quick_start_26.png)
 
-Within the Overlay you need to select Keyboard - iPhone
-![](../images/NEW_FIGMA_2024/overly_key.png)
+Configure the interaction using the following settings:
 
-In Position change to Bottom Centre - this is where you want the component to move to when the interaction takes place
-![](../images/NEW_FIGMA_2024/bot_ctr.png)
+Action: Open Overlay
 
-The Animation needs to be changed to Move In  - this is to set up an off screen interaction
-![](../images/NEW_FIGMA_2024/move_in.png)
-
-And finally, you need to check Close when clicking outside, this will mean when the user taps off the keyboard it will close
-![](../images/NEW_FIGMA_2024/overly_final.png)
-
-We can now run the prototype to see how the interactions work.
-![](../images/NEW_FIGMA_2024/ready_proto.png)
+![Quick start step 39](../images/NEW_FIGMA_2026/15_quick_start_26.png)
 
 
-The device your prototype will present within, will be the original device you selected at the beginning of your project when setting up your first Frame. If for any reason you want to change it to another device - you can do this through the Prototype Settings - in this example, we won't change anything as it will prototype to the iPhone 16 Pro dimensions
-
-Click the the Play (Run) button.
-
-The prototype will open up in a new browser window and you can test the links and interaction alternatively it will be available on your Figma mobile device app
-
-![](../images/NEW_FIGMA_2024/run_Proto_2.png)
+Overlay: Keyboard
 
 
-![](../images/NEW_FIGMA_2024/quick_start.gif)
+![Quick start step 40](../images/NEW_FIGMA_2026/14_quick_start_26.png)
+
+Position: Bottom Centre
+
+![Quick start step 43](../images/NEW_FIGMA_2026/11_quick_start_26.png)
+
+
+Animation: Move In
+
+
+![Quick start step 44](../images/NEW_FIGMA_2026/10_quick_start_26.png)
+
+
+Direction: Up
+
+
+![Quick start step 45](../images/NEW_FIGMA_2026/9_quick_start_26.png)
+
+Check Close When Clicking Outside: Enabled
+
+
+![Quick start step 46](../images/NEW_FIGMA_2026/8_quick_start_26.png)
+
+
+This completes the links and interactions for the prototype.
+
+![Quick start step 47](../images/NEW_FIGMA_2026/7_quick_start_26.png)
+
+Ensure the Prototype Properties panel is still open.
+
+Verify that the selected device is iPhone 17 Pro.
+
+Click the Run Prototype or Play button.
+![Quick start step 50](../images/NEW_FIGMA_2026/4_quick_start_26.png)
+
+
+The prototype will open in a new browser tab, where you can test the navigation and interactions to confirm everything is working correctly.
+
+![Quick start step 51](../images/NEW_FIGMA_2026/3_quick_start_26.png)
+
+Expected behaviour:
+
+Tapping the MyEye icon navigates from Home to screen_2.
+Tapping the Back button returns to Home.
+Tapping the Search component opens the Keyboard overlay, which slides up from the bottom of the screen.
+Tapping outside the overlay closes the keyboard.
+
+![Quick start step 52](../images/NEW_FIGMA_2026/2_quick_start_26.png)
+![Quick start step 53](../images/NEW_FIGMA_2026/1_quick_start_26.png)
 
 
 
