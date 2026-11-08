@@ -13,7 +13,9 @@ nav_order: 5
 
 ![](../images/NEW_FIGMA_2024/quick_start.gif)
 
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5433d943-8327-4343-9408-b3130160b10e&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Figma Quick Start 2025" ></iframe>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
+	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3215f625-ba0e-4253-b34a-b4fc015b3160&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Figma Quick Start 2026"></iframe>
+</div>
 
 #### 1. Setting up a Design File
 
