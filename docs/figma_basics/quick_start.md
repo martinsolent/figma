@@ -11,7 +11,7 @@ nav_order: 5
 
 ### Quick Start
 
-![](../images/NEW_FIGMA_2024/quick_start.gif)
+![](../images/NEW_FIGMA_2026/an_gif_overview_26.gif)
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%">
 	<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3215f625-ba0e-4253-b34a-b4fc015b3160&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" style="border: 1px solid #464646; position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Figma Quick Start 2026"></iframe>
@@ -263,6 +263,8 @@ The prototype will open in a new browser tab, where you can test the navigation 
 2. Tapping the **Back button** returns to **Home**.
 2. Tapping the **Search component** opens the **Keyboard overlay**, which slides up from the bottom of the screen.
 4. Tapping outside the overlay closes the keyboard.
+
+![](../images/NEW_FIGMA_2026/an_gif_overview_26.gif)
 
 
 
