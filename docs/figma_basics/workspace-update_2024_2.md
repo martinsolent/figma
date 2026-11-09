@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Workspace Update 2024
+title:  Workspace Update 2024/26
 parent: Figma Basics
 nav_order: 3
 ---
@@ -8,6 +8,15 @@ nav_order: 3
 {: .no_toc }
 
 # Figma Basics
+
+### Workspace Update 2026
+
+[Figma Interface Guide 2026](https://help.figma.com/hc/en-us/articles/15297425105303-Explore-design-files)
+
+[Access design tools from the toolbar](https://help.figma.com/hc/en-us/articles/360041064174-Access-design-tools-from-the-toolbar)
+
+[Design, prototype, and explore layer properties in the right sidebar](https://help.figma.com/hc/en-us/articles/360039832014-Design-prototype-and-explore-layer-properties-in-the-right-sidebar)
+
 
 ### Workspace Update 2024
 
