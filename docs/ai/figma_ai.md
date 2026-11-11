@@ -1100,4 +1100,119 @@ Paste that generated prompt into Figma Make or your selected builder.
 Copy each resulting screen into Figma using the screen-specific instructions it produces.
 Restore prototype links, scrolling, and component states using its Figma restoration section.
 
+
+Copy each screen separately so only one 390 × 844 frame is captured at a time.
+
+1. Copy “My Plants”
+Open the app in Preview.
+Confirm My Plants is the only visible screen.
+Scroll the screen to the very top.
+Select the All filter.
+In Figma Make, choose Copy design.
+Open your destination Figma design file.
+Paste the copied design.
+Rename the top-level frame: Leaflet / My Plants
+In the Design panel, confirm the frame is:
+Width: 390
+Height: 844
+If necessary, resize the top-level frame itself. Do not scale all child layers.
+Enable Clip content on the frame.
+Restore Home scrolling
+Select the Leaflet / My Plants frame.
+Open the Prototype panel.
+Set Overflow behavior to Vertical scrolling.
+Select the bottom tab bar and enable Fix position when scrolling.
+Select the floating green + button and enable Fix position when scrolling.
+Keep both fixed elements inside the top-level frame.
+Confirm the final plant cards can scroll above the navigation.
+If the filter chips exceed the available width:
+
+Put them inside a nested clipped frame.
+Set that nested frame’s overflow to Horizontal scrolling.
+Keep the top-level Home frame vertical-only.
+2. Copy “Plant Detail”
+Return to the Figma Make Preview.
+Tap the Monty / Monstera plant card.
+Confirm Plant Detail fully replaces My Plants.
+Scroll Plant Detail to the top.
+Choose Copy design.
+Return to the same Figma design file.
+Paste it beside the Home frame, leaving clear canvas spacing.
+Rename the frame: Leaflet / Plant Detail
+Confirm its dimensions are 390 × 844.
+Enable Clip content.
+In the Prototype panel, set overflow to Vertical scrolling.
+3. Copy “Add a Plant”
+Return to Preview.
+Use the upper-left back button to return to My Plants.
+Tap the floating green + button.
+Confirm Add a Plant fully replaces My Plants.
+Scroll the screen to the top.
+Choose Copy design.
+Paste it into the same Figma design file.
+Rename the frame: Leaflet / Add a Plant
+Confirm its dimensions are 390 × 844.
+Enable Clip content.
+Set overflow to Vertical scrolling if its content extends below the frame.
+Fix the bottom action bar when scrolling if that behavior was not retained.
+Reconnect the prototype
+Copied web interactions may not remain connected after pasting.
+
+My Plants → Plant Detail
+For each plant card on Leaflet / My Plants:
+
+Select the card’s interactive layer.
+Drag its prototype connector to Leaflet / Plant Detail.
+Configure:
+Trigger: On tap
+Action: Navigate to
+Animation: Smart animate
+Duration: approximately 300ms
+Easing: Ease out
+At minimum, connect the Monty card. Ideally, connect all four cards.
+
+My Plants → Add a Plant
+Select the floating green + button.
+Connect it to Leaflet / Add a Plant.
+Configure:
+Trigger: On tap
+Action: Navigate to
+Animation: Move in
+Direction: From right
+Duration: approximately 300ms
+Easing: Ease out
+Plant Detail → My Plants
+Select the upper-left back button.
+Configure:
+Trigger: On tap
+Action: Back
+Animation: Smart animate, or Move out to the right
+Duration: approximately 300ms
+Add a Plant → My Plants
+Connect all three controls:
+
+Header Back: On tap → Back
+Bottom Back: On tap → Back
+Continue: On tap → Navigate to → Leaflet / My Plants
+Use a subtle Smart animate transition of approximately 300ms.
+
+Optional interactive components
+For a higher-fidelity prototype, create component variants for:
+
+Filter chips: default and selected
+Favorite button: outline and filled
+Reminder toggle: on and off
+Room cards: default and selected
+Light segments: selected and unselected
+Mark as watered card: pending and completed
+Use On tap → Change to between variants. Ensure these initial states are selected:
+
+All filter
+Favorite off
+Reminder on
+Living room
+Bright
+Mark as watered pending
+Finally, set Leaflet / My Plants as the prototype’s starting point.
+
 -->
