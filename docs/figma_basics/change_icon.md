@@ -13,6 +13,8 @@ nav_order: 7
 
 We have used the Apple iPhone Design Kit in Figma and want to replace the existing app icon with our own icon so that it represents the app we have created.
 
+[Download Cat icon](../images/change/cat.jpg)
+
 ![Icon change](../images/change/change_icon_title.png)
 
 Create a new design file in Figma.

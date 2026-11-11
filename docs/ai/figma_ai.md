@@ -80,6 +80,22 @@ It is now fully editable. You may need to capture additional screens for other p
 
 ### Figma Make with a AI Chat Prompt
 
+We’re now going to create a prompt, either directly in the Figma Make AI chat window or in another AI platform and then copy and paste it into Figma Make.
+
+It’s important to have a clear idea of what you want to achieve with your application before you start. When creating an app, you need to understand exactly what its purpose is and how you want it to be implemented.
+
+Bear in mind that generating screens with AI can consume a significant number of tokens. The more screens and features you ask it to create, the more tokens it will use. If it runs out of tokens, you may need to return and continue the work in a new session.
+
+Create a new paper to make.
+
+AAI Platform. I'm exploring it too. Great. It offers a prompt-based approach, built around the application you want to create.
+
+You can simply explain what you want, provide your requirements, and enter your name.
+
+It will read your prompt and start building your application.
+
+Once completed, you may need to refine and apply a few changes, but it will generate an interactive prototype that you can publish and share using a link.
+
 ```
 Create a polished, production-quality mobile app prototype called “Leaflet,” a friendly plant-care app for beginners.
 
@@ -535,9 +551,21 @@ Before considering the work complete:
 - Touch targets are at least 44 × 44px
 - Text and icons meet WCAG AA contrast
 - The implementation builds successfully without errors
-
-
 ```
+
+![Plants 1](../images/Plants3/1_figma_make_plants.png)
+![Plants 2](../images/Plants3/2_figma_make_plants.png)
+![Plants 3](../images/Plants3/3_figma_make_plants.png)
+![Plants 4](../images/Plants3/4_figma_make_plants.png)
+![Plants 5](../images/Plants3/5_figma_make_plants.png)
+![Plants 6](../images/Plants3/6_figma_make_plants.png)
+![Plants 7](../images/Plants3/7_figma_make_plants.png)
+![Plants 8](../images/Plants3/8_figma_make_plants.png)
+![Plants 9](../images/Plants3/9_figma_make_plants.png)
+![Plants 10](../images/Plants3/10_figma_make_plants.png)
+![Plants 11](../images/Plants3/11_figma_make_plants.png)
+![Plants 12](../images/Plants3/12_figma_make_plants.png)
+![Plants 13](../images/Plants3/13_figma_make_plants.png)
 
 <!--
 
