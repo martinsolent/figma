@@ -117,11 +117,6 @@ Your Button will look like this
 
 First select the Frame, then you can either right-mouse, `SHIFT + A` on the keyboard or from the click on the Auto layout in the Layout section in the Properties Panel in the 
 
-![](../images/Figma_Button_2024/A_Layout_panel.png)
-
-
-![](../images/Figma_Button_2024/auto_layout.png)
-
 Once applied you will have the ability to customise 
 
 ![](../images/Figma_Button_2024/button_after_hug.png)
