@@ -38,8 +38,9 @@ Windsurf: windsurf.com
 C**hatGPT** - flexible for brainstorming, prototyping, and refining ideas.
 **Claude**- particularly good at creating complete prototype applications from detailed requirements.
 
-**A useful workflow is: **
+**A useful workflow is:**
 
 Research → User stories → Low-fidelity wireframes → Vibe-coded prototype → User testing → Iteration → Final design specification. 
 
 This keeps the focus on UX principles rather than the technology itself.
+
