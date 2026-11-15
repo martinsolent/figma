@@ -14,12 +14,6 @@ Build a simple app with Lovable, publish it, and put it on your phone so you can
 
 `About 30–40 minutes` `19 steps` `Free Lovable account` `Phone with Chrome or Safari`
 
-<details open markdown="block">
-  <summary>Contents</summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 ---
 
@@ -27,14 +21,24 @@ Build a simple app with Lovable, publish it, and put it on your phone so you can
 
 ### Step 1: What is Lovable?
 
-<iframe
-  src="/assets/lovable-tutorial/video/lovable-explainer.mp4"
-  title="Overview video: Prototype a mobile app with Lovable (2 minutes 13 seconds)"
-  style="display:block;width:100%;max-width:860px;aspect-ratio:16/9;margin:0 auto;border:0;border-radius:12px"
-  loading="lazy"
-  allow="accelerometer; encrypted-media; picture-in-picture; fullscreen"
-  allowfullscreen>
-</iframe>
+<figure style="margin:1.5rem auto;max-width:860px">
+  <video
+    controls
+    preload="metadata"
+    playsinline
+    poster="/assets/lovable-tutorial/video/lovable-explainer-poster.jpg"
+    aria-describedby="lovable-video-desc"
+    style="display:block;width:100%;aspect-ratio:16/9;border-radius:12px;background:#000">
+    <source src="/assets/lovable-tutorial/video/lovable-explainer.mp4" type="video/mp4">
+    <track kind="captions" src="/assets/lovable-tutorial/video/lovable-explainer.vtt" srclang="en" label="English" default>
+    Your browser can't play this video.
+    <a href="/assets/lovable-tutorial/video/lovable-explainer.mp4">Download the video (MP4)</a>.
+  </video>
+  <figcaption id="lovable-video-desc" style="font-size:0.9rem;margin-top:0.5rem;text-align:center">
+    Overview video: Prototype a mobile app with Lovable (2 min 13 s).
+    <a href="/assets/lovable-tutorial/video/lovable-explainer.mp4" download>Download MP4</a>
+  </figcaption>
+</figure>
 
 Overview video, 2 min 13 s, with captions.
 {: .text-center .fs-2 }
@@ -47,6 +51,8 @@ Overview video, 2 min 13 s, with captions.
 **Why it's useful for user experience (UX) design:** you can turn an idea into a realistic, interactive prototype in minutes, put it on a real phone and test it with real users. Then you can change it from their feedback and publish a new version the same day.
 
 **Why it's useful if you don't code:** you can build websites, apps and simple systems for projects, portfolios or a business idea just by describing them. That lets you focus on the users, the content and the design rather than the programming.
+
+Go to [interactive tutorial with audio](https://martinsolent.github.io/lovable_tutorial_1/) or follow the Walk-though below
 
 ## Part 1: Build the app
 
