@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prototype a mobile app with Lovable
+title: Prototype with Lovable
 nav_order: 2
 parent: Vibe Coding
 
@@ -27,11 +27,14 @@ Build a simple app with Lovable, publish it, and put it on your phone so you can
 
 ### Step 1: What is Lovable?
 
-<video controls preload="metadata" playsinline poster="{{ '/assets/lovable-tutorial/video/lovable-explainer-poster.jpg' | relative_url }}" style="display:block;width:100%;max-width:860px;margin:0 auto;border-radius:12px" aria-label="Overview video: Prototype a mobile app with Lovable (2 minutes 13 seconds)">
-  <source src="{{ '/assets/lovable-tutorial/video/lovable-explainer.mp4' | relative_url }}" type="video/mp4">
-  <track kind="captions" src="{{ '/assets/lovable-tutorial/video/lovable-explainer.vtt' | relative_url }}" srclang="en" label="English" default>
-  Your browser can't play this video. <a href="{{ '/assets/lovable-tutorial/video/lovable-explainer.mp4' | relative_url }}">Download the overview video</a>.
-</video>
+<iframe
+  src="/assets/lovable-tutorial/video/lovable-explainer.mp4"
+  title="Overview video: Prototype a mobile app with Lovable (2 minutes 13 seconds)"
+  style="display:block;width:100%;max-width:860px;aspect-ratio:16/9;margin:0 auto;border:0;border-radius:12px"
+  loading="lazy"
+  allow="accelerometer; encrypted-media; picture-in-picture; fullscreen"
+  allowfullscreen>
+</iframe>
 
 Overview video, 2 min 13 s, with captions.
 {: .text-center .fs-2 }
