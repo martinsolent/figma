@@ -28,6 +28,7 @@ Vibe coding lets you rapidly create and test digital product ideas, while UX kno
 - [Replit](https://replit.com)
 - [v0 by Vercel](https://v0.dev)
 - [Windsurf](https://windsurf.com)
+- [Google Stitch](https://stitch.google.com/)
 
 ### Recommended for UX Students
 
@@ -36,6 +37,7 @@ Vibe coding lets you rapidly create and test digital product ideas, while UX kno
 3. [v0 by Vercel](https://v0.dev) – Excellent for generating user interfaces and design concepts.
 4. [ChatGPT (OpenAI)](https://chatgpt.com) – Useful for ideation, prototyping, and refining requirements. (use the desktop app)
 5. [Claude (Anthropic)](https://claude.ai)– Strong at creating complete prototype applications from detailed prompts. (use the desktop app)
+6. [Google Stitch](https://stitch.google.com/) - AI-powered UI design tool that turns prompts, sketches, and images into app interfaces and front-end code in minutes
 
 **A useful workflow is:**
 
