@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Prototype a mobile app with Lovable
-nav_order: 1
-# parent: Your parent page title   # uncomment and edit if this page sits under another page
-last_modified_date: 2026-11-15
+nav_order: 2
+parent: Vibe Coding
+
 ---
 
 # Prototype a mobile app with Lovable
