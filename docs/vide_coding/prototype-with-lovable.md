@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prototype with Lovable
+title: Lovable
 nav_order: 2
 parent: Vibe Coding
 
