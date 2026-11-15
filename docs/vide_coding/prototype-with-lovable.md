@@ -36,7 +36,7 @@ Build a simple app with Lovable, publish it, and put it on your phone so you can
   </video>
   <figcaption id="lovable-video-desc" style="font-size:0.9rem;margin-top:0.5rem;text-align:center">
     Overview video: Prototype a mobile app with Lovable (2 min 13 s).
-    <a href="/assets/lovable-tutorial/video/lovable-explainer.mp4" download>Download MP4</a>
+    <a href="./lovable_assets/lovable-tutorial/video/lovable-explainer.mp4">Download MP4</a>
   </figcaption>
 </figure>
 
