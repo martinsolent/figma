@@ -44,3 +44,4 @@ Research → User stories → Low-fidelity wireframes → Vibe-coded prototype �
 
 This keeps the focus on UX principles rather than the technology itself.
 
+![vibe code workflow](./vibe_img/16563.png)
