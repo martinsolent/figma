@@ -26,13 +26,13 @@ Build a simple app with Lovable, publish it, and put it on your phone so you can
     controls
     preload="metadata"
     playsinline
-    poster="/assets/lovable-tutorial/video/lovable-explainer-poster.jpg"
+    poster="./lovable_assets/lovable-tutorial/video/lovable-explainer-poster.jpg"
     aria-describedby="lovable-video-desc"
     style="display:block;width:100%;aspect-ratio:16/9;border-radius:12px;background:#000">
-    <source src="/assets/lovable-tutorial/video/lovable-explainer.mp4" type="video/mp4">
-    <track kind="captions" src="/assets/lovable-tutorial/video/lovable-explainer.vtt" srclang="en" label="English" default>
+    <source src="./lovable_assets/lovable-tutorial/video/lovable-explainer.mp4" type="video/mp4">
+    <track kind="captions" src="./lovable_assets/lovable-tutorial/video/lovable-explainer.vtt" srclang="en" label="English" default>
     Your browser can't play this video.
-    <a href="/assets/lovable-tutorial/video/lovable-explainer.mp4">Download the video (MP4)</a>.
+    <a href="./lovable_assets/lovable-tutorial/video/lovable-explainer.mp4">Download the video (MP4)</a>.
   </video>
   <figcaption id="lovable-video-desc" style="font-size:0.9rem;margin-top:0.5rem;text-align:center">
     Overview video: Prototype a mobile app with Lovable (2 min 13 s).
