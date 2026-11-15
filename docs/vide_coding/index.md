@@ -18,25 +18,24 @@ Vibe coding lets you rapidly create and test digital product ideas, while UX kno
 
 **Some of the most popular platforms and tools for vibe coding are:**
 
-ChatGPT (OpenAI): chatgpt.com
-Microsoft Copilot: https://copilot.microsoft.com
-Claude (Anthropic): claude.ai
-Cursor: cursor.com
-GitHub Copilot: github.com/features/copilot
-Bolt.new: bolt.new
-Lovable: lovable.dev
-Replit: replit.com
-v0 by Vercel: https://v0.dev
-Windsurf: windsurf.com
+- [ChatGPT (OpenAI)](https://chatgpt.com)
+- [Microsoft Copilot](https://copilot.microsoft.com)
+- [Claude (Anthropic)](https://claude.ai)
+- [Cursor](https://cursor.com)
+- [GitHub Copilot](https://github.com/features/copilot)
+- [Bolt.new](https://bolt.new)
+- [Lovable](https://lovable.dev)
+- [Replit](https://replit.com)
+- [v0 by Vercel](https://v0.dev)
+- [Windsurf](https://windsurf.com)
 
+### Recommended for UX Students
 
-**Best for UX students with little or no coding experience:**
-
-**Lovable**- easiest for creating app prototypes from descriptions.
-**Bolt.new**- quickly builds and deploys working web applications.
-**v0** - excellent for generating user interfaces and design concepts.
-C**hatGPT** - flexible for brainstorming, prototyping, and refining ideas.
-**Claude**- particularly good at creating complete prototype applications from detailed requirements.
+1. [Lovable](https://lovable.dev) – Easy to create web app prototypes from natural language descriptions.
+2. [Bolt.new](https://bolt.new) – Quickly build and deploy interactive web applications.
+3. [v0 by Vercel](https://v0.dev) – Excellent for generating user interfaces and design concepts.
+4. [ChatGPT (OpenAI)](https://chatgpt.com) – Useful for ideation, prototyping, and refining requirements. (use the desktop app)
+5. [Claude (Anthropic)](https://claude.ai)– Strong at creating complete prototype applications from detailed prompts. (use the desktop app)
 
 **A useful workflow is:**
 
