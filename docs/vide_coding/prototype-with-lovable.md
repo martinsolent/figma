@@ -51,7 +51,7 @@ Overview video, 2 min 13 s, with captions.
 
 Open [lovable.dev](https://lovable.dev) in your browser and click **Get started** in the top-right corner.
 
-![The Lovable homepage with the heading 'Build something Lovable', a prompt box in the centre, and the Log in and Get started buttons at the top right.]({{ '/assets/lovable-tutorial/images/01-homepage.png' | relative_url }})
+![The Lovable homepage with the heading 'Build something Lovable', a prompt box in the centre, and the Log in and Get started buttons at the top right.](./lovable_assets/lovable-tutorial/images/01-homepage.png)
 
 ### Step 3: Create your free account
 
@@ -62,7 +62,7 @@ The free plan needs no credit card. It gives you **5 build credits a day** (up t
 {: .note }
 You don't need GitHub for this guide, so you can ignore **Continue with GitHub** unless you already use it.
 
-![The Create your account screen with Continue with Google, GitHub and Apple buttons, then email and password fields (blurred here) and a Create your account button.]({{ '/assets/lovable-tutorial/images/02-create-account.png' | relative_url }})
+![The Create your account screen with Continue with Google, GitHub and Apple buttons, then email and password fields (blurred here) and a Create your account button.](./lovable_assets/lovable-tutorial/images/02-create-account.png)
 
 ### Step 4: Answer the welcome questions
 
@@ -71,9 +71,9 @@ Lovable asks a few quick questions: **Pick your style** (Light or Dark), your na
 {: .tip }
 Your answers only personalise Lovable. They don't change what you can build.
 
-![The 'Pick your style' screen showing Light and Dark theme options with a Next button.]({{ '/assets/lovable-tutorial/images/03a-pick-style.png' | relative_url }})
+![The 'Pick your style' screen showing Light and Dark theme options with a Next button.](./lovable_assets/lovable-tutorial/images/03a-pick-style.png)
 
-![The 'Which role fits you best?' screen with options including Founder, Product, Designer and Engineer. Designer is highlighted.]({{ '/assets/lovable-tutorial/images/03b-pick-role.png' | relative_url }})
+![The 'Which role fits you best?' screen with options including Founder, Product, Designer and Engineer. Designer is highlighted.](./lovable_assets/lovable-tutorial/images/03b-pick-role.png)
 
 ### Step 5: Find the prompt box
 
@@ -81,7 +81,7 @@ You land on the dashboard, which asks **"What's the vision?"**. The box in the m
 
 Check it is set to **Build** (bottom right of the box).
 
-![The Lovable dashboard with a sidebar on the left (New, Search, Projects, Connectors) and a central prompt box under the heading 'What's the vision, Martin?'. Build is selected in the box.]({{ '/assets/lovable-tutorial/images/04-dashboard.png' | relative_url }})
+![The Lovable dashboard with a sidebar on the left (New, Search, Projects, Connectors) and a central prompt box under the heading 'What's the vision, Martin?'. Build is selected in the box.](./lovable_assets/lovable-tutorial/images/04-dashboard.png)
 
 ### Step 6: Paste a clear prompt
 
@@ -127,9 +127,9 @@ If you paste a long prompt, Lovable turns it into an **attachment** above the bo
 {: .tip }
 If the first result is messy, build in stages: paste only the Home and Wardrobe screens first, then follow up with "Now add the Add Item screen", and so on.
 
-![The prompt box with a long prompt attached as a markdown file named 'Build a mobile-first…', ready to send.]({{ '/assets/lovable-tutorial/images/05a-prompt-attached.png' | relative_url }})
+![The prompt box with a long prompt attached as a markdown file named 'Build a mobile-first…', ready to send.](./lovable_assets/lovable-tutorial/images/05a-prompt-attached.png)
 
-![The attachment preview panel showing the full Closet prompt text, with Remove attachment, Copy text, Insert as text and Edit buttons.]({{ '/assets/lovable-tutorial/images/05b-attachment-preview.png' | relative_url }})
+![The attachment preview panel showing the full Closet prompt text, with Remove attachment, Copy text, Insert as text and Edit buttons.](./lovable_assets/lovable-tutorial/images/05b-attachment-preview.png)
 
 ### Step 7: Check the preview
 
@@ -145,7 +145,7 @@ Read Lovable's notes in the chat. Ours warned: _"Nothing is saved yet: your chan
 {: .tip }
 If a change goes wrong, open **History** next to the project name and restore an earlier version.
 
-![The Lovable editor. The chat is on the left and the Preview on the right shows the Closet app home screen: Good afternoon, Today's outfit suggestion, stats cards and Recently added items, with a bottom tab bar.]({{ '/assets/lovable-tutorial/images/06-first-preview.png' | relative_url }})
+![The Lovable editor. The chat is on the left and the Preview on the right shows the Closet app home screen: Good afternoon, Today's outfit suggestion, stats cards and Recently added items, with a bottom tab bar.](./lovable_assets/lovable-tutorial/images/06-first-preview.png)
 
 ### Step 8: Check your credits
 
@@ -158,9 +158,9 @@ Click your workspace name (top left) to see how many **Credits** are left. For m
 {: .tip }
 Small, focused requests cost less than big multi-part ones. Your numbers may differ from the screenshot.
 
-![The workspace menu open at the top left, showing Free Plan, a Credits bar with 18.4 left, and the note 'Daily credits reset at midnight UTC'.]({{ '/assets/lovable-tutorial/images/08a-credits-menu.png' | relative_url }})
+![The workspace menu open at the top left, showing Free Plan, a Credits bar with 18.4 left, and the note 'Daily credits reset at midnight UTC'.](./lovable_assets/lovable-tutorial/images/08a-credits-menu.png)
 
-![The Plans and credit usage page showing Lovable Free, Credits 18.4 left, Daily build credits 0 left, and a Usage panel listing the project's credits used.]({{ '/assets/lovable-tutorial/images/08b-plans-credit-usage.png' | relative_url }})
+![The Plans and credit usage page showing Lovable Free, Credits 18.4 left, Daily build credits 0 left, and a Usage panel listing the project's credits used.](./lovable_assets/lovable-tutorial/images/08b-plans-credit-usage.png)
 
 ## Part 2: Publish
 
@@ -171,7 +171,7 @@ When you're happy with the app, click the blue **Publish** button at the top rig
 {: .warning }
 Use the **Publish** button, not a chat message. Publishing from the button doesn't use credits, and it works even when your credits are at zero.
 
-![The editor toolbar at the top right with Share, Upgrade and Publish buttons. A tooltip on Publish reads 'Publish your project'.]({{ '/assets/lovable-tutorial/images/09-publish-button.png' | relative_url }})
+![The editor toolbar at the top right with Share, Upgrade and Publish buttons. A tooltip on Publish reads 'Publish your project'.](./lovable_assets/lovable-tutorial/images/09-publish-button.png)
 
 ### Step 10: Check your website address
 
@@ -179,7 +179,7 @@ The panel shows **Not published** and your **Website URL**, something like `your
 
 Below it you can see who can view the site (**Visible to anyone with the link**) and a security check (**No security issues found**).
 
-![The Publish panel showing 'Not published', a Website URL ending in lovable.app with a pencil edit icon, 'Visible to anyone with the link', 'No security issues found', and a Publish button.]({{ '/assets/lovable-tutorial/images/10-publish-panel.png' | relative_url }})
+![The Publish panel showing 'Not published', a Website URL ending in lovable.app with a pencil edit icon, 'Visible to anyone with the link', 'No security issues found', and a Publish button.](./lovable_assets/lovable-tutorial/images/10-publish-panel.png)
 
 ### Step 11: Choose who can view it
 
@@ -188,7 +188,7 @@ Click **Visible to anyone with the link** to open **Who can view your site?**. F
 {: .note }
 The workspace-only option needs a Business plan, so on the free plan it's greyed out.
 
-![The 'Who can view your site?' panel with Public (anyone with the link) selected, a greyed-out workspace option marked Business, Invite only, and Back and Done buttons.]({{ '/assets/lovable-tutorial/images/11-who-can-view.png' | relative_url }})
+![The 'Who can view your site?' panel with Public (anyone with the link) selected, a greyed-out workspace option marked Business, Invite only, and Back and Done buttons.](./lovable_assets/lovable-tutorial/images/11-who-can-view.png)
 
 ### Step 12: Publish and visit your site
 
@@ -199,9 +199,9 @@ The live site is a **snapshot** of the moment you published. Later edits only ap
 {: .tip }
 There's no save button in Lovable. Every change is stored in your account automatically.
 
-![The panel showing 'Publishing project…' with a progress bar.]({{ '/assets/lovable-tutorial/images/12a-publishing.png' | relative_url }})
+![The panel showing 'Publishing project…' with a progress bar.](./lovable_assets/lovable-tutorial/images/12a-publishing.png)
 
-![The panel showing 'Your website is live' with the lovable.app address and Share it and Visit site buttons.]({{ '/assets/lovable-tutorial/images/12b-website-live.png' | relative_url }})
+![The panel showing 'Your website is live' with the lovable.app address and Share it and Visit site buttons.](./lovable_assets/lovable-tutorial/images/12b-website-live.png)
 
 ### Step 13: Send it to your phone with a QR code
 
@@ -212,7 +212,7 @@ You can also just type the `lovable.app` address on your phone, or send it to yo
 {: .warning }
 Only use a QR code for the **published** address, as shown here. The QR code in Lovable's preview opens a development link, which won't work properly as a home-screen app.
 
-![The published Closet app open in Chrome at a lovable.app address, with Chrome's Scan QR Code panel showing a QR code and Copy and Download buttons.]({{ '/assets/lovable-tutorial/images/13-qr-code.png' | relative_url }})
+![The published Closet app open in Chrome at a lovable.app address, with Chrome's Scan QR Code panel showing a QR code and Copy and Download buttons.](./lovable_assets/lovable-tutorial/images/13-qr-code.png)
 
 ### Step 14: Come back later from Projects
 
@@ -225,7 +225,7 @@ You can close the browser at any time. To carry on later:
 {: .tip }
 If the preview says **Still building?** when you return, click **Keep building**. Nothing is lost.
 
-![The Projects page showing one project card with a thumbnail of the app and a Published label, edited 22 minutes ago.]({{ '/assets/lovable-tutorial/images/14-projects.png' | relative_url }})
+![The Projects page showing one project card with a thumbnail of the app and a Published label, edited 22 minutes ago.](./lovable_assets/lovable-tutorial/images/14-projects.png)
 
 ## Part 3: Put it on your phone
 
@@ -235,7 +235,7 @@ Open your `lovable.app` address in **Chrome** on your Android phone, either from
 
 On an iPhone, use Safari and follow the [iPhone steps](#iphone-add-the-app-to-your-home-screen) below instead.
 
-<p align="center"><img src="{{ '/assets/lovable-tutorial/images/15-phone-open-url.png' | relative_url }}" alt="An Android phone showing the Closet app&#x27;s Wardrobe screen open in Chrome, with the lovable.app address in the address bar." width="300"></p>
+<p align="center"><img src="./lovable_assets/lovable-tutorial/images/15-phone-open-url.png" alt="An Android phone showing the Closet app&#x27;s Wardrobe screen open in Chrome, with the lovable.app address in the address bar." width="300"></p>
 
 ### Step 16: Open the Chrome menu
 
@@ -244,7 +244,7 @@ Tap the **three-dot menu (⋮)** at the top right, then tap **Install and create
 {: .note }
 On some phones this is called **Add to Home screen** or **Install app**.
 
-<p align="center"><img src="{{ '/assets/lovable-tutorial/images/16-chrome-menu.png' | relative_url }}" alt="The Chrome menu on Android with options including History, Bookmarks, Share, Translate and &#x27;Install and create shortcut&#x27;." width="300"></p>
+<p align="center"><img src="./lovable_assets/lovable-tutorial/images/16-chrome-menu.png" alt="The Chrome menu on Android with options including History, Bookmarks, Share, Translate and &#x27;Install and create shortcut&#x27;." width="300"></p>
 
 ### Step 17: Install it as an app
 
@@ -253,9 +253,9 @@ Choose **Install page as app**, not _Create shortcut_. Check the name, then tap 
 {: .tip }
 **Install page as app** opens full screen like a real app. _Create shortcut_ just opens Chrome, with the address bar showing.
 
-<p align="center"><img src="{{ '/assets/lovable-tutorial/images/17a-install-options.png' | relative_url }}" alt="The &#x27;Install and create shortcut&#x27; sheet with two options: &#x27;Install page as app&#x27; and &#x27;Create shortcut, Shortcuts open in Chrome&#x27;." width="300"></p>
+<p align="center"><img src="./lovable_assets/lovable-tutorial/images/17a-install-options.png" alt="The &#x27;Install and create shortcut&#x27; sheet with two options: &#x27;Install page as app&#x27; and &#x27;Create shortcut, Shortcuts open in Chrome&#x27;." width="300"></p>
 
-<p align="center"><img src="{{ '/assets/lovable-tutorial/images/17b-install-confirm.png' | relative_url }}" alt="The &#x27;Install page as app&#x27; dialog showing the app name &#x27;Wardrobe — Closet&#x27; and its address, with Cancel and Install buttons." width="300"></p>
+<p align="center"><img src="./lovable_assets/lovable-tutorial/images/17b-install-confirm.png" alt="The &#x27;Install page as app&#x27; dialog showing the app name &#x27;Wardrobe — Closet&#x27; and its address, with Cancel and Install buttons." width="300"></p>
 
 ### Step 18: Find the icon on your home screen
 
@@ -264,7 +264,7 @@ The app now has its own icon on your home screen, next to your other apps.
 {: .note }
 The icon may be a generic Lovable one. That's fine for a prototype.
 
-<p align="center"><img src="{{ '/assets/lovable-tutorial/images/18-home-screen-icon.png' | relative_url }}" alt="An Android home screen with a new icon labelled &#x27;Wardrobe…&#x27; showing the Lovable heart logo." width="300"></p>
+<p align="center"><img src="./lovable_assets/lovable-tutorial/images/18-home-screen-icon.png" alt="An Android home screen with a new icon labelled &#x27;Wardrobe…&#x27; showing the Lovable heart logo." width="300"></p>
 
 ### Step 19: Launch it like a real app
 
@@ -273,7 +273,7 @@ Tap the icon. The app opens **full screen, without the browser address bar**, so
 {: .tip }
 Before a test session, go through the app yourself once on your phone to check every screen works.
 
-<p align="center"><img src="{{ '/assets/lovable-tutorial/images/19-app-full-screen.png' | relative_url }}" alt="The Closet app running full screen on an Android phone with no browser address bar. The Wardrobe screen shows search, category chips and item cards, with a bottom tab bar." width="300"></p>
+<p align="center"><img src="./lovable_assets/lovable-tutorial/images/19-app-full-screen.png" alt="The Closet app running full screen on an Android phone with no browser address bar. The Wardrobe screen shows search, category chips and item cards, with a bottom tab bar." width="300"></p>
 
 ---
 
