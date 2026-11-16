@@ -10,7 +10,7 @@ parent: Vibe Coding
 
 # Prompting to Vibe-Code Testable UX Prototypes: An Overview for Non-Coders
 
-![Gemini_Generated_Image_f3tcr7f3tcr7f3tc](/Volumes/SSD_1TB_INT/Claude_work/Gemini_Generated_Image_f3tcr7f3tcr7f3tc.jpeg)
+![Gemini_Generated_Image_f3tcr7f3tcr7f3tc](Gemini_Generated_Image_f3tcr7f3tcr7f3tc.jpeg)
 
 ## What vibe-coding a prototype means
 
@@ -110,3 +110,16 @@ Asking for a standard does not guarantee you meet it. A prompted prototype is a 
 - **You are still the designer.** The tool will happily build a confusing flow if you describe one. The judgement about what to test, what the task is and whether the result is usable stays with you, and the vocabulary in this overview is how you exercise it.
 
 Next steps for a first attempt: pick one small task, pick one open-source design system, write the six-part prompt above, and test the result with two or three people before changing anything.
+
+
+## VibeProto · Prompt Studio App
+
+VibeProto teaches UX students to build clickable prototypes with Claude without writing code. You describe the prototype in plain English. Claude builds it on top of a real open-source design system. You judge the result and steer it with small, precise changes.
+
+The skill you practise is specifying and steering, not programming. Claude writes the HTML, and you make the UX decisions.
+
+Live site: [https://martinsolent.github.io/ux_vibe_code_prompt/](https://martinsolent.github.io/ux_vibe_code_prompt/)
+
+![Vibe App 1](vibe_app_1.png)
+![Vibe App 2](vibe_app_2.png)
+
