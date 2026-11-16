@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting started with Google Stitch
-nav_order: 1
+nav_order: 3
 ---
 
 # Getting started with Google Stitch
