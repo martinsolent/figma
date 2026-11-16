@@ -25,16 +25,6 @@ Turn a prompt, a sketch or a screen capture into a clickable app or web design, 
   <p><small>A short voice-over introduction to Stitch. Captions are available from the video controls.</small></p>
 </div>
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
----
 
 ## 1. Watch the overview video
 
