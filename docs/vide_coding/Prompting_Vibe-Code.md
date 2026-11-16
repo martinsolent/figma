@@ -1,3 +1,13 @@
+---
+layout: default
+title: Prompting
+nav_order: 4
+parent: Vibe Coding
+
+---
+
+
+
 # Prompting to Vibe-Code Testable UX Prototypes: An Overview for Non-Coders
 
 ![Gemini_Generated_Image_f3tcr7f3tcr7f3tc](/Volumes/SSD_1TB_INT/Claude_work/Gemini_Generated_Image_f3tcr7f3tcr7f3tc.jpeg)

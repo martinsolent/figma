@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting started with Google Stitch
+title: Google Stitch
 nav_order: 3
 parent: Vibe Coding
 
