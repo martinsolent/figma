@@ -95,7 +95,10 @@ Notice what the prompt does not do. It never mentions code. Every sentence is a 
 
 ## From prompt to a testable link
 
-![mcp-Claude_Docs-blob-1794820249399-zfc1a9-a278c70f](/Volumes/SSD_1TB_INT/Claude_work/mcp-Claude_Docs-blob-1794820249399-zfc1a9-a278c70f.png)
+<video controls preload="metadata" style="width:100%;" poster="assets/stitch/video/poster.jpg" aria-label="Silent screen recording: Stitch builds a four-screen Closet wardrobe app from one prompt.">
+  <source src="assets/stitch/video/stitch-overview.mp4" type="video/mp4">
+  <p>Your browser cannot play this video. The steps below describe everything it shows.</p>
+</video>
 
 The work runs in short cycles. You describe the system and write the prompt, review what comes back and ask for single changes until it behaves, then check it against the standards, publish it and test it with people. What you learn from participants goes straight into the next brief.
 
