@@ -9,6 +9,8 @@ nav_order: 6
 
 
 {: .note-title }
+> NOTE:
+>
 > What Figma remains an excellent tool for creating full digital designs, design systems, and polished UI concepts. It is widely used in industry and includes a growing range of AI-assisted features.
 >
 > However, for those with limited design experience who need to quickly create and test an idea, AI-powered prototyping and vibe-coding tools such as ChatGPT, Claude Code, Google Stitch, and Lovable can often produce more realistic, interactive prototypes with less effort. This makes them particularly useful for validating a concept, exploring usability, and testing whether a product has a genuine user need before investing significant time in detailed UI design.
