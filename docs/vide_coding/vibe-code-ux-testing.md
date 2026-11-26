@@ -2,9 +2,10 @@
 layout: default
 title: Vibe Code UX Testing
 nav_order: 5
-# parent: UX            # uncomment and set if this sits under a parent page
-description: "From prompt to user test with three linked tools: VibeProto, the Claude guide and Desktop Tester."
+parent: Vibe Coding
 ---
+
+
 
 # Vibe Code UX Testing
 
