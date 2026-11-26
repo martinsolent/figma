@@ -10,6 +10,8 @@ has_toc: false
 
 # Vibe Coding
 
+[QR Code](adobe-express-qr-code.png)
+
 Vibe coding is the practice of using AI to turn plain-English ideas into working software or prototypes, without needing to write much code yourself. The term was coined by AI researcher [Andrej Karpathy](https://www.youtube.com/watch?v=96jN2OCOfLs) in 2025 and reflects a growing shift towards describing what you want rather than programming every detail yourself.
 
 For UX students, vibe coding is not a replacement for design skills. Instead, it helps you quickly turn ideas into interactive prototypes that can be tested with users. You still need to understand user-centred design, usability, stakeholder needs, accessibility, and design systems to ensure what you build solves a genuine problem and provides a good user experience. AI can create the prototype, but it cannot decide whether the product is useful, usable, or valuable.
